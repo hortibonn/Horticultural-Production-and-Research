@@ -1,0 +1,36 @@
+# Berries
+*by [Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+
+
+## Materials
+
+For this week’s session, you are required to take a look at the presentation and supplementary materials by Dr. Christa Lankes. Your task is to complement the content of the presentation with the script provided by Dr. Lankes. Additionally, we offer three videos recorded in Köln-Auweiler regarding production of berries. You can find these documents here:
+
+* [Slides](https://uni-bonn.sciebo.de/s/Qmr09ITu4Sa45Js) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [Cultivation of blueberry](https://uni-bonn.sciebo.de/s/iz7dzyj4PiRO3o2) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [Cultivation of raspberry](https://uni-bonn.sciebo.de/s/HxcQwPh4bdZdhjk) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [Cultivation of currants](https://uni-bonn.sciebo.de/s/Tl9f006zi5kQf0R) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+
+### Questions
+
+1. Describe the structure of the training system normally used for producing cane fruits
+2. What is the main soil requirement for the cultivation of blueberries? What would it be the advantage of using containers for growing blueberries considering the soil requirement?
+
+## Instructions
+
+This week, we also expect to take you for a short field trip to visit a demonstrative cane production plot in Endenich. So, make sure to dress appropriately!
+
+## Literature for discussion
+
+For the berry week, we will discuss the following paper: [Zhang et al. 2010. Inhibitory effect of raspberries on starch digestive enzyme and their antioxidant properties and phenolic composition. Food Chemistry, 2: 592-599.](https://doi.org/10.1016/j.foodchem.2009.06.063) (also [here](https://uni-bonn.sciebo.de/s/VxXwNt9lFX5ZOgd), accessible with the password from [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html)).
+
+Read the paper and discuss in the group the most prominent health benefits of raspberries in a context that is given in the corresponding publication. Please be critical while reading the work and try to find the confirmation of each key point described in the text with the data that is shown in the paper.
+
+## Term paper topics
+
+**Organic vs. integrated production of berries: What is our future?**
+
+*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+
+Make a comparison of berry production in organic and conventional farms. What are the main differences between these growing strategies? What are their advantages and challenges? Try to find any possible (reliable) information on yield, fruit quality, nutritional value, health benefits (antioxidants, vitamins etc.), costs and profits of berry production under the two management practices. Based on that information make your own prediction whether the organic production will dominate the conventional one in a few decades.
+

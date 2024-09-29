@@ -1,0 +1,72 @@
+---
+title: "Horticultural Production and Research"
+author: "Eike Luedeling et al."
+date: "`r Sys.Date()`"
+output:
+  bookdown::tufte_html_book:
+    toc: yes
+    css: toc.css
+  bookdown::pdf_book:
+    toc: yes
+logo: HPS_logo.png
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+- bibliography.bib
+biblio-style: apalike
+link-citations: yes
+description: In this lecture we discuss about Horticultural Production Systems.
+site: bookdown::bookdown_site
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r child="01_intro.Rmd"}
+```
+
+```{r child="Scientific_writing.Rmd"}
+```
+
+```{r child="Climate_change_and_phenology_modeling.Rmd"}
+```
+
+```{r child="Flower_biology.Rmd"}
+```
+
+```{r child="Strawberries_and_cane_fruits.Rmd"}
+```
+
+```{r child="Greenhouse_production_systems.Rmd"}
+```
+
+```{r child="Orchard_systems.Rmd"}
+```
+
+```{r child="Ornamentals_calluna.Rmd"}
+```
+
+```{r child="Hydroponics.Rmd"}
+```
+
+```{r child="Vertical_systems.Rmd"}
+```
+
+```{r child="Protected_cultivation.Rmd"}
+```
+
+```{r child="Plant_health.Rmd"}
+```
+
+```{r child="Field_vegetables.Rmd"}
+```
+
+```{r child="Crop_rotation.Rmd"}
+```
+
+
+# Impressum {-#Impressum}
+
+[Click here to find the impressum](https://www.inres.uni-bonn.de/impressum) 

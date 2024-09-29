@@ -1,0 +1,77 @@
+# Orchard systems I
+*by Eike Lüdeling*
+
+The Q&A session for this topic happens on 01st Jun 2021 at 13:00.
+
+## Introduction
+
+Here’s an introductory lecture on orchard systems, specifically on apples and stone fruit.
+
+### Apples
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ei6zBY2CAXA" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/kNrYcNLAKnBomwI
+
+pdf of slides: https://uni-bonn.sciebo.de/s/Y0R560xamAea0Za
+
+### The challenges of cultivar choice
+
+[Here's an interesting story](https://getpocket.com/explore/item/the-curse-of-the-honeycrisp-apple) on apple cultivar choice in US apple production. Markets in the United States have become dominated by the `HoneyCrisp` cultivar, but this focus on a single variety has come with challenges to many growers. This story provides a good overview of some of the challenges to producers operating in a global (or in this case national, but in a very diverse country) marketplace.
+
+
+### Introduction to stone fruit orchard systems
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AkjIcg4dMPw" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/wuapCPsWKnt1pHp
+
+pdf of slides: https://uni-bonn.sciebo.de/s/DYb36nvVbh0i4ij
+
+## Questions for self-study and discussion
+
+### Apples
+
+1. Why is fruit thinning important in apple production, and how can it be achieved?
+2. Name some objectives of soil cultivation in an apple orchard.
+3. Why is frost protection very important for many apple growers? How can it be achieved?
+4. Discuss hail risk in apple production. How can growers protect their orchards?
+5. Why is pest and disease control of central importance in apple production?
+6. How are apples harvested? What does this imply for profitability and logistics?
+7. What are the main apple production regions in Germany? Which two regions make up the lion's share of production?
+8. What site factors make the major production regions stand out?
+9. What is the major challenge to the economic viability of apple production in Europe?
+10. Where in the world are apples produced? Which country is the biggest producer? Where does Germany rank in terms or area and production?
+11. Which state produced most of the apples grown in the United States? What are the major competitive advantages of this region?
+12. What are the major drivers of apple production systems?
+
+### Stone fruit
+
+13. What are the most important stone fruit grown in Germany? Roughly what area do they cover?
+14. What are the botanical names of major stone fruits in Germany?
+15. Where do sweet cherries occur naturally? Where was this species (probably) domesticated?
+16. What are sweet cherry trees and fruits used for?
+17. Which countries are the major producers of sweet cherries? Roughly were does Germany rank on this list?
+18. What are the main differences between "traditional" and "modern" sweet cherry production systems? What are the pros and cons?
+19. Sweet cherry are a perishable, internationally traded commodity. What implications does this have for producers in Germany and elsewhere?
+20. How has the area under sweet cherries changed in recent decades in Germany and elsewhere? What may be the reasons (consider your answer to the previous question)?
+21. What can German cherry farmers do to become more competitive in the global cherry market? What are the main challenges for them?
+22. Discuss the potential of mechanizing cherry harvesting.
+23. What makes sweet cherry production in Chile so profitable?
+24. What aspects of Chile's geography make the country well-suited for cherry production?
+25. What tree training systems are found (in Chile)? Would all of these also work in Germany?
+26. How are sour cherries used? Where are they grown, and what's their importance in Germany?
+27. What are the main challenges for sour cherry producers in Germany?
+28. Name different types of plums. How do they differ in terms of their botanical classification?
+29. How are plums used, and what countries/regions are the major producers?
+30. What's the difference between freestone and clingstone peaches?
+31. Where are peaches grown, and what are they used for?
+32. Where are apricots grown, and what are they used for?
+33. Why did we talk about almonds in the stone fruit lecture?
+34. What are almonds used for, and where are they produced?
+35. What makes California almond production so productive and profitable?
+
+
+
+
+

@@ -1,0 +1,36 @@
+# Crop rotation of field vegetables
+*by Simone Röhlen-Schmittgen*
+
+The Q&A session for this topic happens on 29th Jun 2021 at 13:00.
+
+This document will help to guide you through the lecture “Crop Rotation” that is divided into two main lecture parts and an intermediate exercise in order to apply and manifest your gained knowledge in crop rotation:
+
+- Lecture part 1 https://uni-bonn.sciebo.de/s/qpgnkyEeZLIqXlR
+- Exercise part https://uni-bonn.sciebo.de/s/AyMq9PYTMPTu0TF
+- Lecture part 2 https://uni-bonn.sciebo.de/s/SJylzbuEY7AZUro
+- FiBl conventional (Slide 55) <iframe width="560" height="315" src="https://www.youtube.com/embed/gDCLHxU0ijg" frameborder="0" allowfullscreen></iframe>
+- Hobby gardener (Slide 59) <iframe width="560" height="315" src="https://www.youtube.com/embed/F4Fn2YHqpXs?t=1" frameborder="0" allowfullscreen></iframe>
+
+- All three parts as pdf-file: https://uni-bonn.sciebo.de/s/ZEFsXZZByAaTuj7
+      
+Have fun in digging into sequential crop orders and diverse factors influencing the selection of crops, while you can also check further important information and helpful (optional) references!
+
+- [Ackerbaustrategie: 5-gliedrige Fruchtfolge bis 2030](https://www.topagrar.com/acker/news/ackerbaustrategie-5-gliedrige-fruchtfolge-bis-2030-11943239.html)
+- [German strategies of agriculture to improve productivity, environmental protection and biodiversity: Ackerbaustrategie 2035 - Perspektiven für einen produktiven und vielfältigen Pflanzenbau](https://www.bmel.de/DE/themen/landwirtschaft/pflanzenbau/ackerbau/ackerbaustrategie.html)
+- [Crop rotation, using lettuce as model crop](http://www.hortipendium.de/Gem%C3%BCsebau_Fruchtwechsel)
+- [Field hygienical aspects](http://www.hortipendium.de/Feldhygiene_im_Gem%C3%BCsebau)
+
+As well as some further informative movies and topic-related articles that might be of interest (optional):
+
+- [Weltbodentag - Der unterschätzte Klimaschützer](https://www.zdf.de/nachrichten/heute/weltbodentag-der-unterschaetzte-klimaschuetzer-100.html)
+- [Nachhaltige Landwirtschaft: Mit gutem Boden fängt alles an](https://youtu.be/K-iIWhssuQA)
+- [Leguminosen lohnen sich! – Anbau und Ernte von Erbsen](https://youtu.be/PuA7HH9MMbM)
+- [Sommer im April - Trotz Regens: Dürregefahr noch nicht gebannt](https://www.zdf.de/nachrichten/panorama/duerregefahr-noch-nicht-gebannt-100.html)
+- [Bauern im Hitzestress - Klimakrise auf dem Acker](https://www.zdf.de/dokumentation/planet-e/planet-e-bauern-im-hitzestress-100.html)
+- [Bauernverband: Für manche geht es "an die Existenz"](https://www.zdf.de/nachrichten/heute/erntebilanz-in-deutschland-manchen-bauern-geht-es-an-die-existanz-100.html)
+
+## Questions for self-study and discussion
+
+1. How is ‘crop rotation’ defined and which factors are crucial?
+2. Which factors affect the compatibility of plants in crop rotation, considering temporal (sequence) and spatial aspects?
+3. What are positive as well as negative effects of crop rotation?

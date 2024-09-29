@@ -1,0 +1,39 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj.user/*
+.Ruserdata
+
+# Cache files
+.Rapp.history
+.Rbuildignore
+
+# Exclude renv package library and staging area
+renv/library/
+renv/staging/
+
+# Bookdown output files
+_book/
+docs/
+
+# LaTeX files (if you're building PDFs)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# Temporary files created during rendering
+*.utf8.md
+*.knit.md
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment (if any Python is involved)
+venv/

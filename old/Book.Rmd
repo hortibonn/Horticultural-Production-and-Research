@@ -1,0 +1,682 @@
+---
+title: "Horticultural Production and Research"
+author: "Eike Luedeling et al."
+date: "`r Sys.Date()`"
+output:
+  bookdown::tufte_html_book:
+    toc: yes
+    css: toc.css
+  bookdown::pdf_book:
+    toc: yes
+logo: HPS_logo.png
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+- bibliography.bib
+biblio-style: apalike
+link-citations: yes
+description: In this lecture we discuss about Horticultural Production Systems.
+site: bookdown::bookdown_site
+---
+
+
+```{r eval=FALSE}
+install.packages("bookdown")
+# or the development version
+# devtools::install_github("rstudio/bookdown")
+```
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+
+
+
+
+
+# Impressum {-#Impressum}
+
+[Click here to find the impressum](https://www.inres.uni-bonn.de/impressum) 
+
+<!--chapter:end:index.Rmd-->
+
+# ![Horticultural Production Systems](HPS_logo.png){width=90%} {-#header}
+
+**Welcome to Horticultural Production and Research**
+
+This is a module offered to students of the MSc programs of [Crop Science](https://www.lf.uni-bonn.de/en/studying/master/npw) and [Agricultural Sciences and Resource Management in the Tropics and Subtropics (ARTS)](https://www.arts.uni-bonn.de/) at the [University of Bonn](https://www.uni-bonn.de/the-university?set_language=en).
+
+This course is brought to you be [Eike Luedeling](http://www.eikeluedeling.com/index.html), Professor of [Horticultural Sciences](https://www.gartenbauwissenschaft.uni-bonn.de/collage-startseite-pln-en?set_language=en) in the [Institute of Crop Science and Resource Conservation (INRES)](https://www.inres.uni-bonn.de/collage-startseite-1-en?set_language=en). He was supported by a strong team, including Erica Fadón, Christa Lankes, Thorsten Kraska, Marius Rütt, Simone Röhlen-Schmittgen, Shyam Pariyar and Nazim Gruda.
+
+# Introduction {-#intro}
+
+The materials assembled on this website support the lecture on **Horticultural Production and Research** in the Winter Semester of 2020/21. We're getting a new curriculum this semester, and this is the first time this module is being taught. For this time, the materials are largely identical to those of the lecture **Horticultural Production Systems** from the Summer Semester of 2020 (last semester). Since we basically covered the same content just a few months ago, we aren't sure how much interest this module will generate, so we concentrated on revamping some other modules that we offer for the first time this semester, or to a larger audience. 
+What we have improved already is the interface (this website), which should make it easy to find all content you're looking for.
+
+You can see a list of the topics we're covering in the navigation bar on the left.
+
+You'll find more information on logistics here, as the semester begins (and we know whether we have any customers).
+
+Enjoy!
+
+
+<!--chapter:end:01_intro.Rmd-->
+
+# Scientific writing  {-#sciWrite}
+*by Eike Lüdeling, Katja Schiffers, Thorsten Kraska, Cory Whitney*
+
+In this module, we will guide you through the composition of a scientific manuscript. This involved a range of materials, which we will make available in a range of different formats. The following is a road map through the materials. Note that not all materials are ready at this point. We’ll update this document whenever new content becomes available.
+
+This chapter guides you through the content.
+
+## Scientific writing – the basics
+*By Eike Lüdeling*
+
+We will start our instructions with a basic overview on how to compose a scientific manuscript: https://uni-bonn.sciebo.de/s/tkD6ihqn3QCFoTd
+
+Part of this lecture was inspired by Angel Borja, a Spanish marine ecologist and experienced author and editor. His original materials are here: https://uni-bonn.sciebo.de/s/OiPjlADtuUahZ40
+
+The pdf version of the lecture slides is here: https://uni-bonn.sciebo.de/s/IDfayVPIy2ia6BF
+
+
+## Literature research
+*By Thorsten Kraska*
+
+This material was brought to you live via Zoom. We did not manage to record this, but we can at least provide you with the pdf slides here:
+https://uni-bonn.sciebo.de/s/HckXakcYVB5UqgC
+
+
+
+## Citing
+*By Eike Lüdeling*
+
+Citing sources is absolutely critical in scientific writing, and you need to know how this is done properly. The following materials provide an overview.
+
+Here’s a recorded lecture on citing: https://uni-bonn.sciebo.de/s/O0QQqLUfmeCCpBl
+And here are the pdf slides of the lecture: https://uni-bonn.sciebo.de/s/McjECrPFgpgOLlg
+
+After you watched this lecture, you’ll (hopefully) want to learn how to use reference manager software. The following video presents a very brief introduction into how this works: https://uni-bonn.sciebo.de/s/7Ngd2fqkqgZVenC
+
+You’ll also notice that for most, if not all, reference manager programs, you can find detailed information on the internet. So I trust you’ll be able to make use of these valuable tools.
+
+
+## Statistical analysis with R
+*By Katja Schiffers*
+
+Now comes the most exiting part: with the analysis of your data you can answer the question you asked, gain new knowledge and push forward your field of science!
+
+Here’s a recorded introduction to the statistical analysis of data with R (with a bit of a hiccup at the beginning of the slides, sorry): 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tIAPEaw_FHc" frameborder="0" allowfullscreen></iframe>
+
+And here are the pdf slides of the lecture: 
+https://uni-bonn.sciebo.de/s/vv2jQY7gVZyvu9q
+
+We have also added two small data sets and an R script you can test and play with:
+https://uni-bonn.sciebo.de/s/aMpgVBlUXd9Xw1N
+
+And finally an R cheat cheet:
+https://uni-bonn.sciebo.de/s/hLPckrK5v9bwLuf
+
+
+## Peer review
+*By Cory Whitney*
+
+Curious about Peer review? Here are some slides on what we expect from you in this course as well as some tips to prepare you for your career as a scientist:
+
+- The video: https://uni-bonn.sciebo.de/s/VAkRFZfRG7WKysU
+- The slides: https://uni-bonn.sciebo.de/s/NydXbHIIqxg4Bhh
+
+Related Materials:
+- Powell 2012: https://www.nature.com/articles/nj7405-129a
+- Stafford Noble 2017: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730
+
+All other links should be live in the lecture but feel free to get in touch if you need help finding something.
+
+
+## Publishing
+*By Eike Luedeling*
+
+After we’re done with writing our scientific manuscript, we should consider publishing our findings in an academic journal. As I already hinted at, one group from the “class of 2019” managed (with a little help from their tutors) to publish their results and get the first entry for their publication lists: https://www.mdpi.com/2073-4395/10/1/142
+
+Especially for those of you targeting a scientific career, understanding how the publishing process works will be quite critical, and also for all others it is worth knowing how all this works. So I’ve recorded a little video that summarizes some of my experiences with the publishing process. It’ll also give you a heads-up about certain questionable practices in science that can be really damaging to a scientific career. Some people out there prey on young, inexperienced scientists, and you should be aware of the dangers that lurk in the shadows of academia.
+
+
+
+
+Here’s the video: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2HfDMYoTMU" frameborder="0" allowfullscreen></iframe>
+
+mp4 for download (from Sciebo): https://uni-bonn.sciebo.de/s/1SVZCOEr8JHRxGM
+
+and here’s the pdf: https://uni-bonn.sciebo.de/s/QYFIDUtcUt2tKvJ
+
+And here are two ‘interesting’ papers I refer to in the lecture:
+
+- [The deal with birds](https://irispublishers.com/sjrr/pdf/SJRR.MS.ID.000540.pdf)
+- [Get me off your f*** mailing list](https://pdfs.semanticscholar.org/35a5/351e523c05258185d8ddade2b5e0b2e9d1da.pdf?_ga=2.53049128.101140378.1591447206-980524858.1587129762) and the [story about it](https://en.wikipedia.org/wiki/International_Journal_of_Advanced_Computer_Technology)
+
+Here’s [Beall’s list of predatory journals](https://beallslist.net/)
+
+
+## Addressing peer-reviewer comments
+*By Eike Luedeling*
+
+I just came across a thread on Twitter by Michael Breakspear, an Australian professor of neuroscience, who summarized his approach to addressing reviewer comments. I don’t have much to add to this, so here’s his advice:
+https://threadreaderapp.com/thread/1273842646377566214.html
+
+We try to follow a similar approach in our group, usually with pretty good results.
+
+I want to highlight only one issue here, which many authors get wrong:
+
+The review process is not just an annoying exam or a hurdle you somehow have to get across. It’s an opportunity to make your work better, and this is exactly what most reviewers are trying to help you with. These are your peers (in many cases much more experienced peers though, possibly with much busier schedules), who have put time and effort into providing you with constructive feedback. Take this feedback seriously, try to see the merits in what reviewers suggest and try to implement their suggestions. They usually truly make your paper better! Object only where these suggestions are clearly misguided or unrealistic, but then explain clearly and respectfully why this is the case. No reviewer appreciates, if her advice is dismissed, or if authors try to find the least inconvenient way of addressing suggestions!
+
+
+Here’s an example of a recent revision we submitted (and got accepted by Climatic Change this morning, 23rd June 2020):
+https://uni-bonn.sciebo.de/s/BQdMD1xrusEeFqY
+
+Note in particular the ‘response to reviewers’ letter, starting on page 9, which contains all the comments we received, plus our responses (in a different color). You can also take a look at the supplementary materials. To see these, click on the link on the last page of this document.
+
+
+## Giving oral presentations
+*By Cory Whitney*
+
+We are looking forward to your 15-minute talks on the 7th and 14th of July. 
+
+Here’s some guidance on how to give an effective presentation: https://uni-bonn.sciebo.de/s/2NrfBdcADZwytJo
+
+In essence: feel free to choose your own style but check out these resources for inspiration and possible formats:
+
+- [How to give a presentation that sticks](https://docs.google.com/presentation/u/0/)
+
+- [How to give a good presentation](https://www.princeton.edu/~archss/webpdfs08/BaharMartonosi.pdf)
+
+- [Most popular TED Talks](https://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+
+- [Bayesian Statistics without Frequentist Language](https://www.youtube.com/watch?v=yakg94HyWdE)
+
+
+<!--chapter:end:02_Scientific_writing.Rmd-->
+
+# Climate change and phenology modelling in horticulture
+*by Eike Lüdeling*
+
+In this lecture, you'll be introduced to one of the main lines of research we're working on in my group.
+You'll (hopefully) learn
+
+- what climate change is
+- how we can project the impacts of climate change
+- what phenology is
+- how climate change and phenology are related
+- what tree dormancy is
+- what winter chill is
+- how we can model winter chill
+- how we can statistically evaluate tree phenology observations
+
+
+## Introduction to climate change
+
+The first lecture provides an overview about climate change
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfNkMAvW6ME" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/txdKOVMjyaQlz5I/download
+
+## Phenology modeling I
+
+The second part gives you some basic ideas about phenology modeling
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IO6om75_Y2A" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/bCSgh6bpnN4K00H/download
+
+
+## Phenology modeling II
+
+Here's part three, with more insights into phenology modeling:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8jjnciUa1o" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/KzqzaDUkBD6SqS9/download
+
+
+## Further reading materials
+
+The pdf version of all slides is here:
+https://uni-bonn.sciebo.de/s/B6evl56QCe5Olfw
+
+The following three papers complement the lecture content:
+
+- [Luedeling 2012](https://www.sciencedirect.com/science/article/pii/S0304423812003305) presents a review of chill models in a climate change context: https://uni-bonn.sciebo.de/s/Am0RhGOMhSHbRbS
+
+- [Luedeling et al. 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020155) contains a global projection of future winter chill throughout the 21st century, raising some cause for concern, especially in warm growing regions: https://uni-bonn.sciebo.de/s/liWaEMlgWqPofJn
+
+- Finally, [Fadón et al. 2020](https://www.mdpi.com/2073-4395/10/2/241/pdf) develops a conceptual framework of the physiological processes involved in bud dormancy in deciduous fruit and nut trees: https://uni-bonn.sciebo.de/s/ZMza4b5kb7Q0H3W
+
+## Voluntary bonus material
+
+Introductory lectures on climate change (in German) by Stefan Rahmsdorf, one of Germany’s top climate scientists: https://www.pik-potsdam.de/news/in-short/school-at-home-researchers-support-online-learning-with-explanatory-videos
+
+
+I hope you’ll enjoy the materials! Make sure you make note of all questions that arise. I’ll be happy to discuss with you during our live video sessions.
+
+<!--chapter:end:03_Climate_change_and_phenology_modeling.Rmd-->
+
+# Flower biology in temperate fruit trees
+*by Erica Fadón*
+
+This document will guide you through the online materials provided in this course, which consist of three short recorded presentations, a book chapter and three scientific articles (optional) on the topic. All materials are hosted on the module cloud server, where you can access the content for this lecture here:
+https://uni-bonn.sciebo.de/s/MWRuCajqB8xDxoC
+
+1) This first part describes early flower development and dormancy “From a bud to a flower”:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhYnUsUlbc" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/yA6GnWu33mktkTI
+
+
+2) The second part explains what happens while the flowers are open, “From pollination to fruit set”:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hbn4immYYBs" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/jZTNujBvdEUYqiN
+
+
+3) In this third part, we are going to focused on the mechanism that promotes cross pollination in temperate fruit trees: the self incompatibility.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1TOc57N0OQ" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/mOF20zZyUSFpOzE
+
+4) The pdf version of all slides is here: https://uni-bonn.sciebo.de/s/g9Qb9yJDfUZmQmT
+
+## Further reading materials
+
+- This book chapter [“Flowering, fruit set and development” by Herrero et al.](https://uni-bonn.sciebo.de/s/gswDHVrtxtBeFWh) covers most of the topics that I explained in this lecture. At the end of each video I indicated which sections you should read.
+
+The following three papers complement the lecture content:
+
+- [Fadón et al. 2018](https://uni-bonn.sciebo.de/s/dCIV7aDu3cD0sgN) studies flower development in sweet cherry in relation to winter dormancy.
+
+- [Herrero 1992](https://uni-bonn.sciebo.de/s/OX4Hg8xFTYkTegE) From pollination to fertilization in fruit trees. 
+
+- [Herrera et al. 2018](https://uni-bonn.sciebo.de/s/cMsvt5MD7g3Bn5j) compares the different methodologies to determine the incompatibility group in apricot.
+
+
+I hope you’ll enjoy the materials! Make sure you make note of all questions that arise. I’ll be happy to discuss with you during our live video sessions.
+
+<!--chapter:end:04_Flower_biology.Rmd-->
+
+# Strawberries and cane fruits
+*by Christa Lankes*
+
+Dear students,
+
+For the topic "strawberries and cane fruits" I will provide you with the slides of my lecture and a corresponding text paper which is supposed to replace my talk. I split that up into 3 parts you will find when using the links below.
+At the end of the slides’ files I add a list of questions for your self-studies. Please, write down a few lines on each of them for further purposes. I still do hope that later in term we will find an oppotunity to meet face-to-face for discussions on these questions. If not so, we will find a way to communicate online via ecampus. Therefore, please, watch the news provided this way.
+
+Have fun with our online offers.
+
+
+The lecture materials are split into two parts.
+
+- For part one on strawberries, the slides are here: https://uni-bonn.sciebo.de/s/AZXr61ZG2G7ag6m and the accompanying text is here: https://uni-bonn.sciebo.de/s/vq8LHQbqQKUCr8b
+- For part two on strawberries, the slides are here: https://uni-bonn.sciebo.de/s/tXFhz9hF13sRHOw and the accompanying text is here: https://uni-bonn.sciebo.de/s/iYx9RBxfxTTMWgT
+
+
+
+- And for the lecture on cane fruits, the slides are here: https://uni-bonn.sciebo.de/s/A6lOkP2VZ9okfPN and the text is here: https://uni-bonn.sciebo.de/s/m7Va36BLJyMTGHP
+
+
+
+
+
+<!--chapter:end:05_Strawberries_and_cane_fruits.Rmd-->
+
+# Greenhouse production systems
+*by Eike Lüdeling*
+
+Here’s an introductory lecture on greenhouse production systems:
+
+Here’s part 1, containing a general introduction:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3VutZtWKFio" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/WQkxNHuoFaqI3mn
+
+
+Part 2 mainly focuses on climate control in greenhouses:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yqGOaDygS_U" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/far66HSzNTzy0VL
+
+The pdf version of the slides (for both parts) is here:
+https://uni-bonn.sciebo.de/s/oxeabmnMPXYXbD8
+
+I’ll be looking for additional materials to illustrate the topic a bit more.
+
+
+
+<!--chapter:end:06_Greenhouse_production_systems.Rmd-->
+
+# Orchard systems
+*by Eike Lüdeling and Christa Lankes*
+
+## Introduction
+
+Here’s an introductory lecture on orchard systems, specifically on apples and stone fruit:
+
+Here’s the apples lecture:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ei6zBY2CAXA" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/kNrYcNLAKnBomwI
+
+pdf of slides: https://uni-bonn.sciebo.de/s/Y0R560xamAea0Za
+
+And here are some stone fruit:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AkjIcg4dMPw" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/wuapCPsWKnt1pHp
+
+pdf of slides: https://uni-bonn.sciebo.de/s/DYb36nvVbh0i4ij
+
+## Apple production in NRW
+
+What you’ve seen so far has been pretty general. The following materials by Christa Lankes are more specific to production in NRW. They mostly concern apple production.
+
+Here are the slides: https://uni-bonn.sciebo.de/s/fqP8LlfRWBYZ6BT
+And here is some text that you should refer to as you’re looking through these slides: https://uni-bonn.sciebo.de/s/SpaoztnhMdUixJn
+
+## Source-sink relationships
+
+A very important concept in orchard systems (and elsewhere in horticulture) is the relationship between sources and sinks, as Christa Lankes explains here:
+https://uni-bonn.sciebo.de/s/7f1DIs4ybJIjpPc
+Here is the accompanying text, to read along while looking at the slides: https://uni-bonn.sciebo.de/s/ay24RjgCT4atosC
+
+## Cherry production in NRW
+
+Here are some materials on cherry production in North Rhine-Westphalia:
+https://uni-bonn.sciebo.de/s/rNquUQFDJjuIPbN
+and the accompanying text:
+https://uni-bonn.sciebo.de/s/ZRBbll9vMhL7jnS
+
+## Nurseries in NRW
+
+Here are slides on nursery production in NRW:
+https://uni-bonn.sciebo.de/s/WZPY2iO1EtGoqqG
+and here is the text that goes with them:
+https://uni-bonn.sciebo.de/s/5GzPhwZTru3PHNW
+
+<!--chapter:end:07_Orchard_systems.Rmd-->
+
+# Ornamentals, with case study on *Calluna*
+*by Thorsten Kraska and Marius Rütt*
+
+## Ornamentals
+
+Here's a recording of the lecture, which was given *live* online:
+
+https://uni-bonn.sciebo.de/s/NnA2WsFhvKZhwG4
+
+And here is the pdf: https://uni-bonn.sciebo.de/s/lWyfRDrqPAuIj1y
+
+## *Calluna* production
+
+“The Calluna lecture should show you that today heather plants are much more than just cemetery plants. This high-value ornamental plant product is characterized by various risks in the production procedure, which we will go through together step by step. At the end of the lecture you will receive an overview of the challenges in heather cultivation and the difficulty producers face when making management decisions. You are welcome to write me at any time via Slack if you have further questions about this special production system.
+
+
+
+Here's the recording by Marius Rütt:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ql-XDOFnDow" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/EjXwkAQFsEWzGDf (and a smaller version here: https://uni-bonn.sciebo.de/s/G6Nr75ix4FJ6Rv3)
+
+Here are the pdf slides: https://uni-bonn.sciebo.de/s/CWBHsUeo33gsU98
+
+
+
+In the lecture I just briefly mention the work we do in hyperspectral monitoring of Calluna plants. If you want to get more content concerning this exciting research project, check out our video at the KoGa (Kompetenzzentrum Gartenbau) channel.
+
+Here you find the German version:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Wuv8ax65FE&t=2s" frameborder="0" allowfullscreen></iframe>
+
+and the English version:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UOxCL4BU5EA" frameborder="0" allowfullscreen></iframe>
+
+For all videos of the KoGa channel check out: https://www.youtube.com/channel/UCF4so5HuHvmGVUZg7aDstxQ”
+
+<!--chapter:end:08_Ornamentals_calluna.Rmd-->
+
+# Hydroponics
+*by Simone Röhlen-Schmittgen*
+
+In order to introduce the topic “Hydroponic”, please find enclosed an introductory lecture (video and pdf) and some further online materials to deepen your knowledge.
+Sciebo:
+- Lecture https://uni-bonn.sciebo.de/s/z1YpXvIc9WomdLq
+- Lecture Slides https://uni-bonn.sciebo.de/s/eiF9QWvlMzbg9WC
+
+Further information can be found here:
+
+
+- referring to the mentioned video of the sophisticated greenhouse facility Sundrop in Adelaide, the Case Study of tomato production by the hybrid NFT/Aeroponic system, and information about Dryponics by Farmers Cut:: [Sundrop movie](https://uni-bonn.sciebo.de/s/X7c3Q2iVPQ9s7zh) (Slide 25)
+
+- Case Study: [Dannehl et al. (2017)](https://www.researchgate.net/publication/317901695_Sustainable_Cities_Viability_of_a_Hybrid_AeroponicNutrient_Film_Technique_System_for_Cultivation_of_Tomatoes) 
+
+- [Slide 53](https://www.agritecture.com/blog/2018/4/2/dryponics-how-farmers-cut-lifts-indoor-vertical-farming-to-the-next-level)
+
+Further interesting articles and movies (in German):
+
+- [Forscher planen Gewächshaus auf dem Mond](https://www.zdf.de/nachrichten/heute/weltraum-gewaechshaus-soll-nahrungsmittel-fuer-astronauten-liefern-100.html)
+
+- [Verbesserte Klimabilanz](https://www.zdf.de/wissen/nano/190425-nano-gewaechshaus-102.html)
+
+<!--chapter:end:09_Hydroponics.Rmd-->
+
+# Vertical systems
+*by Thorsten Kraska*
+
+This lecture was given online.
+
+Here’s the recording of the live lecture: https://uni-bonn.sciebo.de/s/yqm0G5ribTDTbxt
+
+Here’s the pdf of the slides: https://uni-bonn.sciebo.de/s/i0LJLl8K3jh197O
+
+<!--chapter:end:10_Vertical_systems.Rmd-->
+
+# Protected cultivation
+*by Thorsten Kraska*
+
+This lecture was given online by Thorsten Kraska.
+
+Here’s the recording: https://uni-bonn.sciebo.de/s/CehlAxTyEsENluy
+
+And here you find the slides of the lecture: https://uni-bonn.sciebo.de/s/UAJbXU1dqcEyMJo
+
+As a refresher on some issues you should already have been familiar with, here are some materials from the Bsc module on “Ertragsbildung gärtnerischer Kulturen”: https://uni-bonn.sciebo.de/s/155GoPP8WKmX6qH
+
+
+<!--chapter:end:11_Protected_cultivation.Rmd-->
+
+# Plant health management
+*by Shyam Pariyar*
+
+Managing plant health is crucial for successful horticultural production. Here, Shyam Pariyar shares his insights into this important topic:
+https://uni-bonn.sciebo.de/s/DNrDLBM47WwgB7Z , 
+
+here are the slides as a pdf: https://uni-bonn.sciebo.de/s/6adLAPMbqKWQnJu
+
+and 
+here are some of the most relevant selected references to this lecture: 
+https://uni-bonn.sciebo.de/s/cpeSkxyrzva9Mun
+
+Lecture contents: 
+In this lecture, I would like to share some scientific information on a very important sector of horticultural production system (HPS), i.e. plant health management. These include highlighting some of the major plant protection approaches and a critical issues of HPS, namely copper use in integrated pest management (IPM) and Organic farming. More specifically, I would provide some in-depth scientific information on following topics: 
+
+1) plant health interactions,  
+
+2) plant health management approaches and 
+
+3) copper use in horticulture. 
+
+My main objectives of this lecture are to provide you: 
+
+1) an overview on the impacts of some fungal pathogens on some selected tree fruit, staple or cash crop, vegetable crop and grapes,   
+
+2) an overview an actual knowledge on plant health management approaches and researches used or potentially can be used in HPS, and 
+
+3) in-depth knowledge about a critical issue of HPS, namely copper use in HPS from an ecological perspective. 
+
+Last, but not least, your interest on listening this lecture would certainly add a value on the “International year of Plant Health 2020” declared by UN and FAO. If you have questions, please let me know during virtual Q&A session, in Slack or drop an email at (spariyar@uni-bonn.de). Cheers 
+
+
+<!--chapter:end:12_Plant_health.Rmd-->
+
+# Introduction to field vegetables
+*by Nazim Gruda*
+
+## Lectures
+
+This lecture was given by Prof. Nazim Gruda online. 
+
+Here’s the material on asparagus production:
+https://uni-bonn.sciebo.de/s/1VYEpEEbTlgtEBL
+
+Plus a video on asparagus quality:
+https://uni-bonn.sciebo.de/s/RjxqDMvXAcpg0Ti
+
+And here’s the lecture on cauliflower:
+https://uni-bonn.sciebo.de/s/VyuFB3itMztomJB
+
+## Virtual Field Trip
+
+You’ve now learned enough to fully appreciate yet another highlight of this lecture series: The field trip!
+
+Normally, you’d now be getting rained on or suburnt, or you’d be suffering from whatever other weather we’d have been dealt on the day of the field trip. You’d also be in for a couple of boring bus rides, dusty or muddy shoes and all the other trimmings usually associated with a trip to the countryside.
+
+But not this time around! Instead, you have the extraordinary privilege to enjoy the first ever output of HortiWood Motion Pictures – our soon-to-be-a-classic movie on “Spargelanbau”.
+
+So let’s follow our talented and inquisitive on-site reporting team to the asparagus farm of Matthias Engels in Bornheim. Listen to the probing questions by Tim Boenigk and the captivating narration by Priska Krefting, and enjoy your their first-hand eye-witness account of how one of Germany’s signature vegetables is produced.
+
+Sit back and relax and enjoy your field trip into the world of “Spargelanbau”: https://uni-bonn.sciebo.de/s/xZbsw0X63TtXMV5
+
+<!--chapter:end:13_Field_vegetables.Rmd-->
+
+# Crop rotation of field vegetables
+*by Simone Röhlen-Schmittgen*
+
+This document will help to guide you through the lecture “Crop Rotation” that is divided into two main lecture parts and an intermediate exercise in order to apply and manifest your gained knowledge in crop rotation:
+
+- Lecture part 1 https://uni-bonn.sciebo.de/s/qpgnkyEeZLIqXlR
+- Exercise part https://uni-bonn.sciebo.de/s/AyMq9PYTMPTu0TF
+- Lecture part 2 https://uni-bonn.sciebo.de/s/SJylzbuEY7AZUro
+- FiBl conventional (Slide 55) <iframe width="560" height="315" src="https://www.youtube.com/embed/gDCLHxU0ijg" frameborder="0" allowfullscreen></iframe>
+- Hobby gardener (Slide 59) <iframe width="560" height="315" src="https://www.youtube.com/embed/F4Fn2YHqpXs?t=1" frameborder="0" allowfullscreen></iframe>
+
+- All three parts as pdf-file: https://uni-bonn.sciebo.de/s/ZEFsXZZByAaTuj7
+      
+Have fun in digging into sequential crop orders and diverse factors influencing the selection of crops, while you can also check further important information and helpful (optional) references!
+
+- [Ackerbaustrategie: 5-gliedrige Fruchtfolge bis 2030](https://www.topagrar.com/acker/news/ackerbaustrategie-5-gliedrige-fruchtfolge-bis-2030-11943239.html)
+- [German strategies of agriculture to improve productivity, environmental protection and biodiversity: Ackerbaustrategie 2035 - Perspektiven für einen produktiven und vielfältigen Pflanzenbau](https://www.bmel.de/DE/themen/landwirtschaft/pflanzenbau/ackerbau/ackerbaustrategie.html)
+- [Crop rotation, using lettuce as model crop](http://www.hortipendium.de/Gem%C3%BCsebau_Fruchtwechsel)
+- [Field hygienical aspects](http://www.hortipendium.de/Feldhygiene_im_Gem%C3%BCsebau)
+
+As well as some further informative movies and topic-related articles that might be of interest (optional):
+
+- [Weltbodentag - Der unterschätzte Klimaschützer](https://www.zdf.de/nachrichten/heute/weltbodentag-der-unterschaetzte-klimaschuetzer-100.html)
+- [Nachhaltige Landwirtschaft: Mit gutem Boden fängt alles an](https://youtu.be/K-iIWhssuQA)
+- [Leguminosen lohnen sich! – Anbau und Ernte von Erbsen](https://youtu.be/PuA7HH9MMbM)
+- [Sommer im April - Trotz Regens: Dürregefahr noch nicht gebannt](https://www.zdf.de/nachrichten/panorama/duerregefahr-noch-nicht-gebannt-100.html)
+- [Bauern im Hitzestress - Klimakrise auf dem Acker](https://www.zdf.de/dokumentation/planet-e/planet-e-bauern-im-hitzestress-100.html)
+- [Bauernverband: Für manche geht es "an die Existenz"](https://www.zdf.de/nachrichten/heute/erntebilanz-in-deutschland-manchen-bauern-geht-es-an-die-existanz-100.html)
+
+<!--chapter:end:14_Crop_rotation.Rmd-->
+
+# References {-#refs}
+
+<!--chapter:end:99-references.Rmd-->
+
+---
+title: "Horticultural Production and Research"
+author: "Eike Luedeling et al."
+date: "`r Sys.Date()`"
+output:
+  bookdown::tufte_html_book:
+    toc: yes
+    css: toc.css
+  bookdown::pdf_book:
+    toc: yes
+logo: HPS_logo.png
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+- bibliography.bib
+biblio-style: apalike
+link-citations: yes
+description: In this lecture we discuss about Horticultural Production Systems.
+site: bookdown::bookdown_site
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r child="01_intro.Rmd"}
+```
+
+```{r child="Scientific_writing.Rmd"}
+```
+
+```{r child="Climate_change_and_phenology_modeling.Rmd"}
+```
+
+```{r child="Flower_biology.Rmd"}
+```
+
+```{r child="Strawberries_and_cane_fruits.Rmd"}
+```
+
+```{r child="Greenhouse_production_systems.Rmd"}
+```
+
+```{r child="Orchard_systems.Rmd"}
+```
+
+```{r child="Ornamentals_calluna.Rmd"}
+```
+
+```{r child="Hydroponics.Rmd"}
+```
+
+```{r child="Vertical_systems.Rmd"}
+```
+
+```{r child="Protected_cultivation.Rmd"}
+```
+
+```{r child="Plant_health.Rmd"}
+```
+
+```{r child="Field_vegetables.Rmd"}
+```
+
+```{r child="Crop_rotation.Rmd"}
+```
+
+
+# Impressum {-#Impressum}
+
+[Click here to find the impressum](https://www.inres.uni-bonn.de/impressum) 
+
+<!--chapter:end:HortProdRes.Rmd-->
+

@@ -1,0 +1,30 @@
+# Hydroponics
+*by Simone Röhlen-Schmittgen*
+
+The Q&A session for this topic happens on 08th Jun 2021 at 13:00.
+
+In order to introduce the topic “Hydroponic”, please find enclosed an introductory lecture (video and pdf) and some further online materials to deepen your knowledge.
+Sciebo:
+- Lecture https://uni-bonn.sciebo.de/s/z1YpXvIc9WomdLq
+- Lecture Slides https://uni-bonn.sciebo.de/s/eiF9QWvlMzbg9WC
+
+## Further information can be found here:
+
+
+- referring to the mentioned video of the sophisticated greenhouse facility Sundrop in Adelaide, the Case Study of tomato production by the hybrid NFT/Aeroponic system, and information about Dryponics by Farmers Cut:: [Sundrop movie](https://uni-bonn.sciebo.de/s/X7c3Q2iVPQ9s7zh) (Slide 25)
+
+- Case Study: [Dannehl et al. (2017)](https://www.researchgate.net/publication/317901695_Sustainable_Cities_Viability_of_a_Hybrid_AeroponicNutrient_Film_Technique_System_for_Cultivation_of_Tomatoes) 
+
+- [Slide 53](https://www.agritecture.com/blog/2018/4/2/dryponics-how-farmers-cut-lifts-indoor-vertical-farming-to-the-next-level)
+
+Further interesting articles and movies (in German):
+
+- [Forscher planen Gewächshaus auf dem Mond](https://www.zdf.de/nachrichten/heute/weltraum-gewaechshaus-soll-nahrungsmittel-fuer-astronauten-liefern-100.html)
+
+- [Verbesserte Klimabilanz](https://www.zdf.de/wissen/nano/190425-nano-gewaechshaus-102.html)
+
+## Questions for self-study and discussion
+
+1. What are the main differences between different types of soilless culture, and how do they differ from hydroponics?
+2. Which factors need to be considered when growing plants in hydroponics?
+3. What are advantages and disadvantages of hydroponics? What are the major challenges and how might they be overcome?

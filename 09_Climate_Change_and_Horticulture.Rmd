@@ -1,0 +1,90 @@
+# Climate change and horticulture
+*by [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/) and [Prajna Kasargodu Anebagilu](http://www.hortibonn.de/author/prajna-kasargodu-anebagilu/)*
+
+This week we want to work on the relationship between horticultural crops and cropping systems and climate change. We'll be working in groups in this lesson. Each group will be in charge of assessing climatic challenges to a specific horticultural system - and of figuring out what needs to happen for this system to transition into a climatically viable and sustainable production system in the future.
+
+We have three groups in this class this year. Here is your assigned production system:
+
+**Group 1:**
+
+You're a **sweet cherry** grower in northern Spain. Your farm has 5 hectares, you're using a modern production system, and you're selling fresh fruit to a major fruit distribution company. You inherited the farm from your parents, who have been operating in the same location for the past 50 years. So far, you have stuck to the same cherry cultivars you have always grown, because you have experience with them and they are easy to market.
+
+**Group 2:**
+
+You're a **tomato** grower in southern Spain, in the Alméria region. Your farm includes 8 ha of protected cultivation, where you grow tomatoes in greenhouses (mostly with plastic covers). You invested 20 years ago in (then) state-of-the art technology to set up your farm. Some loans still haven't been paid off, but you're making good money. Your products are sold all over Europe, and you're working with major vegetable distributors to get them there. Your system is quite labor-intensive, and you rely on artificial irrigation and soilless cultivation.
+
+**Group 3:**
+
+You're an **asparagus** grower in the Rhineland region of Germany. You own two hectares of asparagus fields, which you inherited from your parents. You market your strongly seasonal product locally, working with a vendor at a local farmer's market and selling some of the asparagus directly on the farm. Some produce is also sold through a local grocery store.
+
+
+## Materials
+
+If you want, you can check out [some introductory videos on climate change](http://inresgb-lehre.iaas.uni-bonn.de/chillR_book/climate-change-and-impact-projection.html) that I made a few years ago. They mostly belong to my lecture on [Tree phenology analysis with R](http://inresgb-lehre.iaas.uni-bonn.de/chillR_book/introduction.html), but they may also be of interest in the context of this lesson.
+
+More importantly, please take a look at the following group-specific sources. You don't have to dig deep into all the methods, but try to get a feeling for what challenges your crop is likely to experience as a consequence of climate change.
+
+**Group 1:** [Fernandez et al. 2023. Climate change impacts on winter chill in Mediterranean temperate fruit orchards. Regional Environmental Change 23, 7](https://link.springer.com/article/10.1007/s10113-022-02006-x)
+
+**Group 2:** [Gruda et al. 2019. Influence of climate change on protected cultivation: Impacts and sustainable adaptation strategies - A review. Journal of Cleaner Production 225, 481-495](https://uni-bonn.sciebo.de/s/UiwIaaKAeOv8MX3) (password for the download is [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+
+**Group 3:** [Drost 2023. Asparagus breeding: Future research needs for sustainable production. Front. Plant Sci. 14:1148312](https://www.frontiersin.org/articles/10.3389/fpls.2023.1148312/full)
+
+
+## Questions
+
+* According to the reading, what risk does climate change pose for the crop assigned to your group?
+* What other social, environmental or economic challenges do you think your farm is experiencing?
+
+## Instructions
+
+1) Discuss the following questions in your group and work on the assignment. Prepare for a 5-minute presentation at the end of the class.
+
+*	What climate-related challenges do you foresee in the medium and long term?
+*	What adaptation-related decisions do you expect?
+* What major constraints to taking adaptation action do you foresee?
+*	How could new legislation related to climate change (and environmental issues) affect your farm operations?
+
+2) Backcasting exercise:
+
+Let's imagine that your farm is still going strong in 2050. It is economically viable, resilient to climate change impacts and (to the extent possible) environmentally sustainable.
+
+*	What does that future version of your farm look like?
+* What changes did you have to make to get there?
+* Outline your adaptation pathway in *prospective hindsight*.
+
+3) Prepare a brief (~5 minute) presentation to present your farm to your fellow students. Present the current and the future, as well as the pathway that enabled you to make the transition (including major decisions and changes).
+
+
+## Literature for discussion
+
+[Bisbis et al., 2019. Securing Horticulture in a Changing Climate—A Mini Review. Horticulturae 2019, 5, 56](https://doi.org/10.3390/horticulturae5030056)
+
+
+## Literature for further reading (optional, but good reads!)
+
+- [Michael E. Mann: The New Climate War](https://en.wikipedia.org/wiki/The_New_Climate_War) - I think everyone should read this book! It contains a lot of important insights about the climate change disinformation machinery. It's also available in German ([Propagandaschlacht ums Klima](http://www.solar-buch.de/mann-propagandaschlacht-2021))
+- [Naomi Oreskes & Erik. M. Conway: Merchants of Doubt](https://en.wikipedia.org/wiki/Merchants_of_Doubt) - important insights on the history of the disinformation campaigns, and also very much worth reading. Also available in German, though under a somewhat unappealing title ([Die Machiavellis Der Wissenschaft: Das Netzwerk des Leugnens](https://www.zvab.com/9783527412112/Machiavellis-Wissenschaft-Netzwerk-Leugnens-Erlebnis-3527412115/plp))
+
+
+## Term paper topics
+
+*Please contact me if you're interested in any of these, and I'll give you details*
+
+**26. Climate change impacts on fruit tree phenology**
+
+*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+
+This term paper reviews the recent literature regarding climate change impacts on (temperate) fruit tree phenology and their possible implications for production.
+
+**27. Climate change impacts on (selected) horticultural pests and/or diseases**
+
+*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Prajna Kasargodu Anebagilu](http://www.hortibonn.de/author/prajna-kasargodu-anebagilu/)*
+
+This term paper selects a specific pest or disease (or a group of pests and diseases) of selected horticultural crops and reviews the evidence on how climate change is expected to affect it. It also critically evaluates the reliability of these expectations and speculates on implications for future production.
+
+**28. The use of climate change denial strategies on other controversial issues**
+
+*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Prajna Kasargodu Anebagilu](http://www.hortibonn.de/author/prajna-kasargodu-anebagilu/)*
+
+The optional literature discusses "climate change denial strategies" that opponents of aggressive mitigation actions are pursuing. This paper selects another important societal debate with relevance to horticulture or agriculture and looks for applications of similar strategies there.

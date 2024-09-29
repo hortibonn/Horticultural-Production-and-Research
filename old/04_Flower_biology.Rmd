@@ -1,0 +1,69 @@
+# Flower biology in temperate fruit trees
+*by Erica Fadón*
+
+The Q&A session for this topic happens on 04th May 2021 at 13:00.
+
+This document will guide you through the online materials provided in this course, which consist of three short recorded presentations, a book chapter and three scientific articles (optional) on the topic. All materials are hosted on the module cloud server, where you can access the content for this lecture here:
+https://uni-bonn.sciebo.de/s/MWRuCajqB8xDxoC
+
+1) This first part describes early flower development and dormancy “From a bud to a flower”:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhYnUsUlbc" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/yA6GnWu33mktkTI
+
+
+2) The second part explains what happens while the flowers are open, “From pollination to fruit set”:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hbn4immYYBs" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/jZTNujBvdEUYqiN
+
+
+3) In this third part, we are going to focused on the mechanism that promotes cross pollination in temperate fruit trees: the self incompatibility.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1TOc57N0OQ" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/mOF20zZyUSFpOzE
+
+4) The pdf version of all slides is here: https://uni-bonn.sciebo.de/s/g9Qb9yJDfUZmQmT
+
+## Further reading materials
+
+- This book chapter [“Flowering, fruit set and development” by Herrero et al.](https://uni-bonn.sciebo.de/s/gswDHVrtxtBeFWh) covers most of the topics that I explained in this lecture. At the end of each video I indicated which sections you should read.
+
+The following three papers complement the lecture content:
+
+- [Flower development in sweet cherry in relation to winter dormancy](https://doi.org/10.1007/s00468-018-1735-7) [@fadon2018there]
+
+- [From pollination to fertilization in fruit trees](https://doi.org/10.1007/BF00024429) [@herrero1992pollination]
+
+- [Comparison of different methodologies to determine the incompatibility group in apricot](https://doi.org/10.3390/ijms19113612) [@herrera2018identification]
+
+
+I hope you’ll enjoy the materials! Make sure you make note of all questions that arise. I’ll be happy to discuss with you during our live video sessions.
+
+
+## Questions for self-study and discussion
+
+### Part 1
+
+1. How are winter dormancy and flower development related in temperate fruit trees?
+2. Describe flower development in temperate fruit trees from flower differentiation to blooming according to the seasons.
+
+### Part 2
+
+3. Temperate fruit production relies on successful fruit set, i.e. fertilization of the ovule, which leads to further growth of the ovary and fruit development. This process occurs in spring once a year and lasts just a few days. Describe what occurs in the pistil from pollination, the arrival of the pollen grains to the stigma, to ovule fertilization (what happens in the stigma, style, and ovary).
+4. “Effective pollination period” - how long does it take for the pollen tube to reach the ovary?
+
+### Part 3
+
+5. Temperate fruit trees have a “gametophytic self-incompatibility system” to prevent self-pollination. This clearly influences the selection of cultivars for an orchard, since at least two compatible cultivars must be present for proper pollination and fruit set. Describe one (out of three) of the experimental methods that can be used to determine whether two cultivars are compatible or not.
+6. The proper selection of the cultivars determines the success of a commercial orchard of temperate fruit trees. Numerous features have to be considered, including fruit quality, phenology, ripening period… and also incompatibility. Select a set of sweet cherry cultivar/s that could be used to establish a viable orchard according to the pollination requirements (use the table below). Explain the criteria that you have to consider.
+
+![Cherry compatibility](Erica_table.jpg)
+
+7. The sweet cherry cultivar 'Prime Giant' (early flowering, genotype S1 S3) produces very valuable fruit. A new orchard has been established with this variety using the cultivar 'Regina' (late flowering, genotype S1 S3) as pollinator. The pollinator distribution was one row every 3 rows. Please explain why this orchard is not viable.
+
+
+

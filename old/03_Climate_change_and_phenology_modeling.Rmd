@@ -1,0 +1,98 @@
+# Climate change and phenology modelling in horticulture
+*by Eike Lüdeling*
+
+The Q&A session for this topic happens on 04th May 2021 at 13:00.
+
+In this lecture, you'll be introduced to one of the main lines of research we're working on in my group.
+You'll (hopefully) learn
+
+- what climate change is
+- how we can project the impacts of climate change
+- what phenology is
+- how climate change and phenology are related
+- what tree dormancy is
+- what winter chill is
+- how we can model winter chill
+- how we can statistically evaluate tree phenology observations
+
+
+## Introduction to climate change
+
+The first lecture provides an overview about climate change
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfNkMAvW6ME" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/txdKOVMjyaQlz5I/download
+
+## Phenology modeling I
+
+The second part gives you some basic ideas about phenology modeling
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IO6om75_Y2A" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/bCSgh6bpnN4K00H/download
+
+
+## Phenology modeling II
+
+Here's part three, with more insights into phenology modeling:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8jjnciUa1o" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/KzqzaDUkBD6SqS9/download
+
+
+## Further reading materials
+
+The pdf version of the climate change slides is here: https://uni-bonn.sciebo.de/s/eIAUiPnPmZn7HN1
+
+And here's the phenology modeling part: https://uni-bonn.sciebo.de/s/mNSJKoBlmDuSJfQ
+
+The following three papers complement the lecture content:
+
+- [Review of chill models in a climate change context](https://www.sciencedirect.com/science/article/pii/S0304423812003305) [@luedeling2012climate]
+
+-  [Global projection of future winter chill throughout the 21st century, raising some cause for concern, especially in warm growing regions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020155) [@luedeling2011climate]
+
+- If you want to learn more about the `chillR` package, you can find a tutorial [here](http://inresgb-lehre.iaas.uni-bonn.de/chillR_book/introduction.html). For a detailed introduction to this package, consider taking "Tree phenology analysis with R" in the winter semester, which walks you through these materials.
+
+- Finally, here's [a conceptual framework of the physiological processes involved in bud dormancy in deciduous fruit and nut trees](https://www.mdpi.com/2073-4395/10/2/241/pdf) [@fadon2020conceptual].
+
+## Voluntary bonus material
+
+I recorded slightly longer lectures on climate change for the `Tree phenology analysis with R` course. [Check them out if you want a bit more detail](http://inresgb-lehre.iaas.uni-bonn.de/chillR_book/climate-change-and-impact-projection.html)
+
+Introductory lectures on climate change (in German) by Stefan Rahmsdorf, one of Germany’s top climate scientists: https://www.pik-potsdam.de/news/in-short/school-at-home-researchers-support-online-learning-with-explanatory-videos
+
+I highly recommend [The New Climate War](https://en.wikipedia.org/wiki/The_New_Climate_War) by [Michael Mann](https://en.wikipedia.org/wiki/Michael_E._Mann), which has just come out. This is really essential reading for anyone who is wondering why we're not taking decisive enough action on climate change. It deals extensively with the various strategies that fossil fuel interests are using to keep us from making the change we need to make - some of them are quite surprising, and many of us have already had a massive impact on public debates about this topic. Absolutely worth reading!
+
+
+I hope you’ll enjoy the materials! Make sure you make note of all questions that arise. I’ll be happy to discuss with you during our live video sessions.
+
+## Questions for self-study and discussion
+
+### Climate change
+
+1. What are the main drivers of climate change, and which one has been dominant in recent years?
+2. What is so concerning about recent temperature developments, if you compare them what's happened in the (distant) past?
+3. What do we have to do to slow and eventually stop global warming?
+4. What are Representative Concentration Pathways?
+5. Global temperatures were much higher than now in the Eocene. So why should we be concerned now?
+6. Explain what the Paris Agreement aims to achieve, and outline what needs to happen over the coming decades.
+7. What are the 5 stages of climate change denial? Have your ever come across these in your life?
+8. Explain the story behind the #ExxonKnew hashtag.
+
+### Phenology modeling
+
+9. What are the main stages of bud dormancy and what do buds need during these stages?
+10. What is the purpose of a 'chill model'?
+11. What is a chilling requirement?
+12. Outline the main differences between Chilling Hours, the Utah Model and the Dynamic Model.
+13. Where does the Chilling Hours model come from? What evidence was it based on?
+14. Which world regions are particularly threatened by climate change-induced chill losses?
+15. What adaptation options are available to growers in warm growing regions facing chill decline?
+16. Why is relating long-term bloom dates to high-resolution weather data quite challenging?
+17. Explain how Partial Least Squares regression can detect temperature response patterns in long-term phenology datasets.
+18. What is so particular about the response of pistachio bloom dates in Tunisia to recent warming?
+
+

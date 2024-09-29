@@ -1,0 +1,46 @@
+# Safeguarding Plant Health in Horticulture {#safeguarding}
+*by [Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+***still to be updated for 2023/24***
+
+The COVID-19 Outbreak has changed our society and consequently it will also change horticultural production. It will foster innovations in horticulture to come to a more resilient production. On the forefront of these innovations is urban horticulture and any kind of protect cultivation to make production sustainable and more resilient against risks posed by abiotic factors (e.g. climate change, drought, temperatures), biotic factors (e.g. pest and diseases, new emerging threats), and societal risks like pandemic outbreaks endangering production, distribution of food, and food safety. We have already discussed the meaning of protected cultivation and vertical farms from a general point of view. In this session we will focus on two topics: On the first day we will discuss protected cultivation and urban horticulture on the background of possible pandemics. On the 2nd day we will focus on pest management in an urbanized horticultural system.
+
+## Materials
+
+* Opinion paper: [Food First: COVID-19 Outbreak and Cities Lockdown a Booster for a Wider Vision on Urban Agriculture](https://www.mdpi.com/2071-1050/12/12/5012)
+
+* Review paper: [The Impact of COVID-19 on Horticulture: Critical Issues and Opportunities Derived from an Unexpected Occurrence](https://www.mdpi.com/2311-7524/7/6/124)
+
+Both articles are open access, so you should be able to access them. 
+
+## Instructions
+
+Inverted classroom: Please read the Opinion paper and prepare your own answer to it based on your own knowledge and experience. Use the review paper for more detailed information on the topic or use information of the more than 40 articles citing the opinion paper (use Web of Science) or other articles discussing the meaning of pandemic outbreaks on the meaning of protected cultivation. The major goal is to get a well-founded opinion on the meaning of pandemic outbreaks on research in the field protected cultivation as well as disease management. Based on your input we will discuss. Guiding questions:
+
+* Do new or emerging risks (e.g. pandemic outbreaks) change horticultural production?
+* Are possible changes reversible or will they set the path for future directions in horticulture?
+* How could we come to a risk resilient horticultural production?
+* How could we come to a future-proofed production?
+
+Beside a general discussion we would discuss it on a more specific example on “pest management”.  How would the changes affect crop management (plant health, pest control) in the future? In this context I recommend the following articles for introduction:
+
+*	[Feldmann et al. Biostimulants, soil improvers, bioprotectants: promoters of bio‑intensification in plant production. Journal of Plant Diseases and Protection (2022) 129:707–713](https://doi.org/10.1007/s41348-022-00567-x)
+*	[Feldmann & Carstensen. Efficacy and risks of ‘‘biorationals’’. Journal of Plant Diseases and Protection (2018) 125:517–521](https://doi.org/10.1007/s41348-018-0186-0)
+
+
+## Literature for discussion
+
+While on the first day the focus was on Urban Horticulture and protected cultivation, the 2nd day will focus on pest management. In the paper discussion we will bring together Urban Horticulture and pest management. We will discuss: [Feldmann and Vogler (2021). Towards sustainable performance of urban horticulture: ten challenging fields of action for modern integrated pest management in cities.](https://doi.org/10.1007/s41348-020-00379-x). In the article 10 challenges concerning pest management are addressed. Your task is to order these challenges according to your own opinion of importance. For the most important challenge you should find supporting arguments. For the less important challenge you should give reasons why. As an additional task you could try to find a supporting article for the challenge you gave highest priority.
+## Term paper topics
+
+**20. How to protect plants in future?**
+
+*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+Climate change will cause dramatic changes in horticulture. Horticultural production will move more and more to protected cultivation (e.g. tunnels, greenhouses). With that change in production new challenges in diesease management will arise. How we could protect our plants in future against climate change, weather extremes (e.g. drought) and new threats caused by insects or pathogens? In this term paper it should be analysed how climate change forced developments in horticulture (protected cultivation) and how this will affect disease management.
+
+**21. Biostimulants and Biorationals as new and emerging tools in plant health**
+
+*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+Biostimulants and biorationals are "new" ways to strengthen plants to improve growth and tolerance against environmental stress (biostimulants) or to protect plants in an environmental friendly way against pest and diseases to replace synthetic chemicals. In this term paper the different approaches will be discussed. What are the differences between biostimulants and biorationals? How could they be used effectively to strengthen plant health? A critical review of literature based on examples like humic acid (as biostimulant) or drying linseed oil (as biorational).

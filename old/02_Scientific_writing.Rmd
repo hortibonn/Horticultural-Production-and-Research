@@ -1,0 +1,157 @@
+# Scientific writing  {#sciWrite}
+*by Eike Lüdeling, Katja Schiffers, Thorsten Kraska, Cory Whitney*
+
+In this module, we will guide you through the composition of a scientific manuscript. This involved a range of materials, which we will make available in a range of different formats. The following is a road map through the materials. Note that not all materials are ready at this point. We’ll update this document whenever new content becomes available.
+
+This chapter guides you through the content.
+
+## Scientific writing – the basics
+*By Eike Lüdeling*
+
+We will start our instructions with a basic overview on how to compose a scientific manuscript: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3EstRPilqB8" frameborder="0" allowfullscreen></iframe>
+
+Part of this lecture was inspired by Angel Borja, a Spanish marine ecologist and experienced author and editor. His original materials are [here](https://uni-bonn.sciebo.de/s/OiPjlADtuUahZ40)
+
+The pdf version of the [lecture slides is here](https://uni-bonn.sciebo.de/s/IDfayVPIy2ia6BF)
+
+## Developing a conceptual framework
+*be Eike Lüdeling*
+
+For this content, we're largely drawing on online materials, but I've also summarized some of the basics in a video.
+
+Most of the following materials were prepared by [Patrick Regoniel](https://scholar.google.de/citations?hl=de&user=VWnJ62YAAAAJ)[] Palawan State University](http://www.psu.palawan.edu.ph/) in the Philippines, who summarized his understanding of conceptual frameworks on [this website](http://simplyeducate.me/).
+
+First, here's a [Definition of what a conceptual framework is and a list of five purposes](https://simplyeducate.me/2020/11/05/what-is-a-conceptual-framework/)
+
+Second, a [step by step guide on how to make a conceptual framework](https://simplyeducate.me/2015/01/05/conceptual-framework-guide/)
+
+Third, a guide on [how to use a mind map to prepare your research proposal](https://simplyeducate.me/2013/09/14/how-to-use-a-mind-map-to-prepare-your-research-proposal/)
+
+Here's some more [guidance on mindmapping, including some thoughts on tools you can use](https://www.mindmapping.com/)
+
+And here's the video summary:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-s800ddfT0" frameborder="0" allowfullscreen></iframe>
+
+
+And here are the [pdf slides of the lecture](https://uni-bonn.sciebo.de/s/yj80S49PlmtZbmc)
+
+
+## Literature research
+*By Thorsten Kraska*
+
+This material was brought to you ***live via Zoom*** on 20th April 2021. You can find the materials on eCampus or access them through the following links (you'll need your eCampus password for this):
+
+[Here's the recording of the live lecture](https://ecampus.uni-bonn.de/goto_ecampus_file_2193407_download.html).
+
+[Here are the pdf slides](https://ecampus.uni-bonn.de/goto_ecampus_file_2193748_download.html).
+
+[Here's a tutorial on how to connect to Web of Science](https://ecampus.uni-bonn.de/goto_ecampus_file_2193728_download.html).
+
+[And here's a short description of the different ways to retrieve online literature as explained in the lecture](https://ecampus.uni-bonn.de/goto_ecampus_file_2193729_download.html).
+
+## Citing
+*By Eike Lüdeling*
+
+Citing sources is absolutely critical in scientific writing, and you need to know how this is done properly. The following materials provide an overview.
+
+Here’s a recorded lecture on citing:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/35FltT1aiDY" frameborder="0" allowfullscreen></iframe>
+
+And here are the [pdf slides of the lecture](https://uni-bonn.sciebo.de/s/McjECrPFgpgOLlg)
+
+After you watched this lecture, you’ll (hopefully) want to learn how to use reference manager software. The following video presents a very brief introduction into how this works: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQrLQau3Mqs" frameborder="0" allowfullscreen></iframe>
+
+
+You’ll also notice that for most, if not all, reference manager programs, you can find detailed information on the internet. So I trust you’ll be able to make use of these valuable tools.
+
+
+## Statistical analysis with R
+*By Katja Schiffers*
+
+Now comes the most exiting part: with the analysis of your data you can answer the question you asked, gain new knowledge and push forward your field of science!
+
+Here’s a recorded introduction to the statistical analysis of data with R (with a bit of a hiccup at the beginning of the slides, sorry): 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tIAPEaw_FHc" frameborder="0" allowfullscreen></iframe>
+
+And here are the [pdf slides of the lecture](https://uni-bonn.sciebo.de/s/vv2jQY7gVZyvu9q)
+
+We have also added two small data sets and [an R script you can test and play with](https://uni-bonn.sciebo.de/s/aMpgVBlUXd9Xw1N).
+
+And finally an [R cheat cheet](https://uni-bonn.sciebo.de/s/hLPckrK5v9bwLuf).
+
+
+## Peer review
+*By Cory Whitney*
+
+Curious about Peer review? Here are some slides on what we expect from you in this course as well as some tips to prepare you for your career as a scientist:
+
+- The video: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58wBLiHumpw" frameborder="0" allowfullscreen></iframe>
+
+- The [slides](https://uni-bonn.sciebo.de/s/NydXbHIIqxg4Bhh)
+
+Related Materials:
+- [Powell 2012](https://www.nature.com/articles/nj7405-129a)
+- [Stafford Noble 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)
+
+All other links should be live in the lecture but feel free to get in touch if you need help finding something.
+
+
+## Publishing
+*By Eike Luedeling*
+
+After we’re done with writing our scientific manuscript, we should consider publishing our findings in an academic journal. As I already hinted at, one group from the “class of 2019” managed (with a little help from their tutors) to publish their results and get the first entry for their publication lists: https://www.mdpi.com/2073-4395/10/1/142
+
+Especially for those of you targeting a scientific career, understanding how the publishing process works will be quite critical, and also for all others it is worth knowing how all this works. So I’ve recorded a little video that summarizes some of my experiences with the publishing process. It’ll also give you a heads-up about certain questionable practices in science that can be really damaging to a scientific career. Some people out there prey on young, inexperienced scientists, and you should be aware of the dangers that lurk in the shadows of academia.
+
+Here’s the video: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2HfDMYoTMU" frameborder="0" allowfullscreen></iframe>
+
+and [here’s the pdf](https://uni-bonn.sciebo.de/s/QYFIDUtcUt2tKvJ).
+
+And here are two ‘interesting’ papers I refer to in the lecture:
+
+- [The deal with birds](https://danbaldassarre.weebly.com/uploads/2/6/4/9/26491962/sjrr.ms.id.000540.pdf)
+- [Get me off your f*** mailing list](https://pdfs.semanticscholar.org/35a5/351e523c05258185d8ddade2b5e0b2e9d1da.pdf?_ga=2.53049128.101140378.1591447206-980524858.1587129762) and the [story about it](https://en.wikipedia.org/wiki/International_Journal_of_Advanced_Computer_Technology)
+
+Note that the birds paper is no longer available on the journal website, but fortunately the author conserved it for us on his homepage
+
+Here’s [Beall’s list of predatory journals](https://beallslist.net/)
+
+
+## Addressing peer-reviewer comments
+*By Eike Luedeling*
+
+I just came across a thread on Twitter by Michael Breakspear, an Australian professor of neuroscience, who summarized his approach to addressing reviewer comments. I don’t have much to add to this, [so here’s his advice](https://threadreaderapp.com/thread/1273842646377566214.html).
+
+We try to follow a similar approach in our group, usually with pretty good results.
+
+I want to highlight only one issue here, which many authors get wrong:
+
+The review process is not just an annoying exam or a hurdle you somehow have to get across. It’s an opportunity to make your work better, and this is exactly what most reviewers are trying to help you with. These are your peers (in many cases much more experienced peers though, possibly with much busier schedules), who have put time and effort into providing you with constructive feedback. Take this feedback seriously, try to see the merits in what reviewers suggest and try to implement their suggestions. They usually truly make your paper better! Object only where these suggestions are clearly misguided or unrealistic, but then explain clearly and respectfully why this is the case. No reviewer appreciates, if her advice is dismissed, or if authors try to find the least inconvenient way of addressing suggestions!
+
+[Here’s an example of a recent revision we submitted](https://uni-bonn.sciebo.de/s/BQdMD1xrusEeFqY) (and got accepted by Climatic Change on 23rd June 2020):
+
+Note in particular the ‘response to reviewers’ letter, starting on page 9, which contains all the comments we received, plus our responses (in a different color). You can also take a look at the supplementary materials. To see these, click on the link on the last page of this document.
+
+
+## Giving oral presentations
+*By Cory Whitney*
+
+We are looking forward to your talks at the end of the semester. 
+
+Here’s some guidance on how to give an effective presentation: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vau5c_O7JgU" frameborder="0" allowfullscreen></iframe>
+
+In essence: feel free to choose your own style but check out these resources for inspiration and possible formats:
+
+- [How to give a presentation that sticks](https://docs.google.com/presentation/u/0/)
+
+- [How to give a good presentation](https://www.princeton.edu/~archss/webpdfs08/BaharMartonosi.pdf)
+
+- [Most popular TED Talks](https://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+
+- [Bayesian Statistics without Frequentist Language](https://www.youtube.com/watch?v=yakg94HyWdE)
+

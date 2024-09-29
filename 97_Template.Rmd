@@ -1,0 +1,18 @@
+# Template for instructors {-#temp}
+*by authors*
+
+* Materials
+
+This section should contain (links to) materials on the assigned topics, accompanied by questions that the students should answer (and submit) before the session.
+
+* Instructions
+
+Instructions and information for the 90-minute participatory session. The session can contain some 'impulse lectures', but there should usually be a part where students do something active.
+
+* Literature for discussion
+
+One (or possibly two) articles on the topic, plus possibly some guiding questions (facilitating students can also develop their own questions). These should allow students to lead a 1-hour discussion on them.
+
+* Term paper topics
+
+One or two topics that students can write a term paper of 6-10 pages about.

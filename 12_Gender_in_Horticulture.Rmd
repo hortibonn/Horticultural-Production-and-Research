@@ -1,0 +1,56 @@
+# Gender in Horticulture {#gender}
+*by [Erin McGuire](https://horticulture.ucdavis.edu/people/erin-mcguire) and [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+
+## Materials {#labor_gender_materials}
+
+To prepare for our interactive session, you'll need some background on the importance of including gender into agricultural/horticultural research. Please watch this webinar prepared for the Horticulture Innovation Lab at the University of California, which provides an excellent introduction to the topic. You can (but don't have to) stop when the Q&A session starts:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBwVCmJKmhA" frameborder="0" allowfullscreen></iframe>
+
+To prepare for the session, please also check out the following [paper](https://doi.org/10.1016/j.wdp.2021.100386) that Erin McGuire (University of California) co-authored with her colleagues from the CGIAR and Wageningen University:
+
+[McGuire et al. (2022). Anticipating gender impacts in scaling innovations for agriculture: Insights from the literature. World Development Perspectives 25](https://doi.org/10.1016/j.wdp.2021.100386)
+
+### Questions
+
+1. What is the difference between the sex and the gender of a person?
+2. What are the five domains of women’s empowerment according to the WEAI framework?
+3. What is the purpose of a gender strategy in research, esp. in impact-oriented research in development contexts?
+4. What is the difference between equality and equity?
+5. What does 'scaling' mean in the context of horticultural (or agricultural) innovations?
+ 
+
+### Additional materials {#labor_gender_additional}
+
+We were only able to present a brief glimpse on gender in horticulture. We just touched on scaling, which is also an enormously important aspect of agricultural development. If you want to learn more about these topics, please check out the following resources:
+
+* [Website of the genderup project](https://genderup.ucdavis.edu)
+
+* [Webinar Series: Innovating and Scaling for Social Transformation in International Food Systems](https://horticulture.ucdavis.edu/event/webinar-series-innovating-and-scaling-social-transformation-international-food-systems)
+
+* [Innovation and Scaling: An Introductory Online Course from the CGIAR](https://www.cgiar.org/news-events/news/innovation-and-scaling-an-introductory-online-course/)
+
+
+## Instructions
+
+Our activities for the day will focus on the impacts that horticultural innovations may have on specific social groups, especially on women. For our exercise, we will design a persona that we would like to benefit from a specific innovation. Your job will then be to design an appropriate scaling strategy for the innovation that works for the persona you selected.
+
+You'll receive more guidance in class.
+
+
+## Literature for discussion {#labor_gender_literature}
+
+[Cullen et al. (2023) ‘They think we are delaying their outputs’. The challenges of interdisciplinary research: understanding power dynamics between social and biophysical scientists in international crop breeding teams. Front. Sustain. Food Syst. 7:1250709 ](https://doi.org/10.3389/fsufs.2023.1250709)
+
+You can use the following questions to structure your discussion:
+
+* What potential connections or relationships exist between upstream research stakeholders (such as researchers, funders, and implementers) and the downstream outcomes or consequences of their work?
+
+* Considering the variations in potential benefits for women and men resulting from different horticultural innovations, how can we enhance inclusivity and effectiveness in our research processes to prevent unintended negative consequences?
+
+* What challenges do you currently encounter within your own research domain? What key aspects would you prioritize in your research to ensure rigorous investigation and a deeper understanding of effective innovation?
+
+
+## Term paper topics {#labor_gender_term_papers}
+
+Unfortunately, we can't offer any term papers on this topic, unless you come up with your own idea.

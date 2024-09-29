@@ -1,0 +1,40 @@
+# Protected cultivation and Vertical Systems
+*by Thorsten Kraska*
+
+## Protected cultivation
+
+This lecture was given *live* on 08th June 2021. You can find the recording [here](https://uni-bonn.sciebo.de/s/C4M1wepkdTfpEvd).
+
+And the slides are accessible [here](https://uni-bonn.sciebo.de/s/0EiIxpIHjfmaE4T).
+
+## Vertical systems
+
+This lecture was given *live* on 08th June 2021. You can find the recording [here](https://uni-bonn.sciebo.de/s/XcGtpzXRpA3UHC2).
+
+And the slides are accessible [here](https://uni-bonn.sciebo.de/s/UlEGWdRrU3BBxSr).
+
+
+
+## Questions for self-study and discussion
+
+1. How can protected cultivation be characterized?
+2. What are the differences between protected cultivation and vertical farming?
+3. What is a “Plant Factory” and how is it different to vertical farming?
+4. What are the advantages of (1) protected cultivation and (2) vertical farming?
+5. What are the disadvantages of (1) protected cultivation and (2) vertical farming?
+6. Which plants are suited for indoor farming?
+7. Name preventing and enabling measures for protected cultivation
+8. Discuss the issue of plastic materials and its utilization in protected cultivation
+9. What is the major aim of managing production factors? Describe it on a given example (radiation control, fertigation). Which other production factors have to be considered and why?
+10. Discuss the meaning of production factors in crop cultivation with special reference to protected cultivation and indoor farming.
+11. What is the ”Vision” of vertical farming as it is described by Dickson Despommier.
+12. What are the driving factors for vertical farming?
+13. Describe the different concepts of vertical farm (including indoor farm, plant factory)
+14. Discuss industrial tomato production in the context of vertical farming
+15. Discussion the “efficiency factor” in the case of lettuce production. Compare the different production systems.
+16. Compare yields of tomatoes produced in a rooftop greenhouse or shipping container to different baseline scenarios. Compare these yields to conventional farming.
+17. What are the main challenges for plant factories?
+18. What makes it difficult to compare conventional farming and indoor farming? Name a factor and discuss it.
+19. Are plant factories more sustainable? Discuss it for climate change, ecotoxicology, freshwater consumption, fossil oil usage, energy demand.
+20. Which impact could vertical farms have on economics, environment and society?
+21. Which impact have vertical farms on food supply? Discuss it for calorie uptake and food quality?

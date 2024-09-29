@@ -1,0 +1,45 @@
+# From Greenhouse Production to Plant Factories {#plant_factories}
+*by [Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+
+## Materials
+
+* [Greenhouse Production Systems (Part 1)](https://www.youtube.com/embed/3VutZtWKFio)
+* [Greenhouse Production Systems (Part 2)](https://www.youtube.com/embed/yqGOaDygS_U)
+
+
+## Instructions
+- Please watch both videos carefully to get a general introduction into greenhouse production systems. The videos are the basis for further discussion in the inverted classroom.\
+- Pay special attention to the equipment and infrastructure of a greenhouse. We will start the week with a visit of a greenhouse at the institute to discuss and compare the information given in the videos with a real situation. A special emphasis will be given to “light” and “lighting”.\
+- Following questions may help you for preparation:\
+  - How is light in a greenhouse different from the field and what does it mean for plant cultivation?\
+  - How are light and lighting affecting plant yield and produce quality in a greenhouse?\
+  - How can the lighting be adapted to the needs of the plants?\
+  - How can light and lighting be modified (management strategies, infrastructure)?\
+  - What is the meaning of UV-light and far red light?\
+- You will find further readings on light (especially LED) and lighting on [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_fold_3207954.html).\
+
+
+## Literature for discussion
+Paper discussion: We will discuss the article “Agricultural sustainability estimation of the European photovoltaic greenhouses” (see [eCampus)](https://ecampus.uni-bonn.de/goto_ecampus_file_3207952_download.html). Energy consumption is a major challenge in horticultural production. Especially in greenhouses we need energy for heating, cooling, climate control (e.g. ventilation), fertigation system, and lighting. This article is on the possible combination of photovoltaic in greenhouses. On eCampus you will find further readings on this topic.
+
+## Term paper topics
+
+**13. Sustainability of Greenhouse Production**
+
+*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+In this term the focus will be on the sustainability of different cultivation systems in greenhouse production, mainly substrates and fertigation. The term paper should review the most important substrates and cultivation regimes and to compare them concerning sustainability.
+
+**14. The challenges in ligthing**
+
+*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+One main advantage of greenhouse production is control of environmental conditions. Lighting is not only responsible for plant growth and performance yielding in an horticultural produce. Lighting can also control the quality of produce, it could support plant growth depending on growth stage. So the challange is, what is the optimal lighting? This term paper should focus on lighting source (natural vs. artifical) and the type of light (e.g. spectrum) and the meaning for plant growth. How could we control plant performance and quality by light?
+
+**15. Green energy for greenhouses and vertical farms**
+
+*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+Greenhouse production relies on energy for light and heating. In this term paper it should be discussed which forms of energy supply could be used for a more sustainable plant production. Would this makes a year-round production sustainable? What is the role of photovoltaic in this context?
+

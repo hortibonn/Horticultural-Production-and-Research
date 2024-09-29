@@ -1,0 +1,67 @@
+# Temperate fruits
+*by [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/), [Eduardo Fernandez](https://www.pucv.cl/uuaa/escuela-de-agronomia/eduardo-fernandez-collao) and [Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+
+## Materials
+
+To prepare for class, please watch the following four videos:
+
+* [General concepts](https://uni-bonn.sciebo.de/s/yKN9dy7xNkmXQTg) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [Nuts](https://uni-bonn.sciebo.de/s/hh7O7y95krrVFLg) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [Stone fruits](https://uni-bonn.sciebo.de/s/Wb8pk3fbMRjUU41) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [Pome fruits](https://uni-bonn.sciebo.de/s/jZYjDaQZPLllQpz) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+
+As supplementary material, we also offer two videos on sweet cherry bloom and apple varieties recorded by our HortiWood team:
+
+* [Apple varieties](https://uni-bonn.sciebo.de/s/wrGdpRgt7GKVYzo) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [Sweet cherry bloom](https://uni-bonn.sciebo.de/s/OQlxeit0brc8iH4) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+
+*You need the module password from [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html) to access these files.*
+
+
+### Questions
+
+1. In a few lines, describe the main difference between the fruit growing process for pome and stone fruits. Link the process occurring inside the fruit and the changes that farmers could see
+2. What are the types of sunburn usually observed in apple orchards? How could farmers avoid this problem?
+
+## Instructions
+
+We'll be going for a walk with you. Depending on weather conditions, the ground may be wet or muddy, and it may be raining/snowing/windy etc. Make sure to dress appropriately! 
+
+## Literature for discussion
+
+This week we will discuss the following paper: [Kofler et al., 2019. High crop load and low temperature delay the onset of bud initiation in apple. Scientific Reports 9, 17986.](https://doi.org/10.1038/s41598-019-54381-x)
+Read the paper and discuss the tools that are used to study the mechanism of flower bud induction in apple.
+
+Why is the understanding of the flower induction mechanism of particular importance for temperate fruit production? Please be critical while reading the work and try to find the confirmation of each key point described in the text with the data that is shown in the paper.
+
+## Term paper topics
+
+**3. Apples from a greenhouse: Will it become a common practice?**
+
+*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+
+Make an extensive literature review to understand how apple production is continuously moving from open fields towards greenhouse production. Why is it happening? Give some examples of best practices for protected cultivation of apples (with main focus on apples from the greenhouse). What greenhouse techniques are already applied in fruit orchards? Try to make a forecast regarding the protected cultivation of apples for the next few decades based on the current trends.
+
+**4. Seed dormancy breaking strategies: Do the universal methods exist?**
+
+*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+
+In this work you will do literature research on effective strategies for breaking seed dormancy, a resting period of seeds during which they fail to germinate. Present your results and describe the best-practice dormancy breaking strategies for seeds – from use of growth regulating compounds to the artificial environments (controlled climatic conditions) that make seeds germinate. Try to find out whether there are universal methods for some plant species or whether these methods strongly depend on the genotype. Or maybe it even depends on the climatic zones that are native for certain plant species that allows using the same dormancy breaking strategies on the plats grown in the same zone?
+
+**5. Influences of spring frost protection on the environment**
+
+*[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
+
+This term paper selects some frost protection measures and reviews the side effects of their use. It should include effects within in orchard as well as on the environment.
+
+**6. Calcium nutrition of apple trees**
+
+*[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
+
+This term paper reviews calcium fertilization for apple trees. What is the current state of knowledge in research? What are the challenges and what is the effectiveness of calcium fertilization? It includes a short overview of the importance of calcium in apple trees.
+
+**7. Rest breaking strategies in temperate fruit trees**
+
+*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+
+In many warm growing regions of temperate fruits, trees struggle to accumulate sufficient winter chill to break their dormancy. Climate change appears to be aggrevating this problem. Growers are therefore looking for, and in many cases already applying, strategies to artificially promote dormancy release. This term paper reviews the current state of knowledge on strategies for artificial rest-breaking and discusses the challenges and opportunities.

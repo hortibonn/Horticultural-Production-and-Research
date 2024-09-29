@@ -1,0 +1,57 @@
+# Greenhouse production systems
+*by Eike Lüdeling*
+
+The Q&A session for this topic happens on 18th May 2021 at 13:00.
+
+Here’s an introductory lecture on greenhouse production systems:
+
+Here’s part 1, containing a general introduction:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3VutZtWKFio" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/WQkxNHuoFaqI3mn
+
+
+Part 2 mainly focuses on climate control in greenhouses:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yqGOaDygS_U" frameborder="0" allowfullscreen></iframe>
+
+mp4 file for download (from Sciebo): https://uni-bonn.sciebo.de/s/far66HSzNTzy0VL
+
+The pdf version of the slides (for both parts) is here:
+https://uni-bonn.sciebo.de/s/oxeabmnMPXYXbD8
+
+## Questions for self-study and discussion
+
+1. What are the main benefits of greenhouses?
+2. What are the main drivers of greenhouse system choices?
+3. What aspects should you consider when designing a greenhouse?
+4. What needs to be considered regarding the location of a (new) greenhouse?
+5. What glazing materials are used for greenhouses, and what are their characteristics?
+6. What is PAR and how can your choice of glazing material affect it?
+7. What's the definition of the U-factor and what does it express?
+8. Describe the impact of glazing material on UV transmission. What impacts could this have?
+9. What is the most important greenhouse type in Germany, and what are its characteristics?
+10. What are the pros and cons of solid vs. film greenhouses?
+11. Why is climate/environment control critical in greenhouse production?
+12. Why do we need ventilation? What's the definition of the air change rate (z)?
+13. How can we cool a greenhouse? Can you think of pros and cons of the various methods?
+14. Why is humidity control important in greenhouse production?
+15. How does condensation happen, and what negative implications can it have in plant production?
+16. What can we do to raise or lower humidity?
+17. How can we heat a greenhouse? What needs to be considered?
+18. What substrate types are commonly used in greenhouses?
+19. What is fertigation?
+20. What irrigation systems are used in greenhouses?
+21. Compare pest and disease management in a greenhouse with outdoor cultivation. What additional options do we have in a greenhouse?
+22. What do we need to consider when adding artificial light to a greenhouse?
+23. How can we raise the atmospheric $CO_2$ concentration in a greenhouse? Why would we want to do that?
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,121 @@
+# Field trips
+
+We usually like to take students on field trips to demonstrate certain aspects of fruit cultivation provide them with a real-life impression of what fruit farming looks like. This year we can't do this because of social distancing rules, but we've recorded some of the things we wanted to show you, so that you don't miss out on anything. Actually, virtual field trips have a bunch of advantages:
+
+- no rain
+- no snow
+- no storm
+- no sunburn
+- no time lost in transit
+- you can watch it again and again, if that makes you happy
+- probably many more
+
+We have a couple of trips for you - to Campus Klein-Altendorf and to the fruit farm of Roland Schmitz-Hübsch in Bornheim. For those of you who are interested in the history of fruit production in our region, we offer an optional third field trip to the local fruit production museum.
+
+## Virtual field trip to Campus Klein-Altendorf
+*by HortiBonn and the HortiWood film team*
+
+The first field trip will take you to Campus Klein-Altendorf, the main experimental station for plant production of the University of Bonn. Campus Klein-Altendorf is located between the cities of Meckenheim and Rheinbach, about 20 car-minutes from Bonn. Here's what it looks like from above:
+
+```{r, echo=FALSE}
+library(leaflet)
+leaflet() %>% addProviderTiles('Esri.WorldImagery') %>% 
+  setView(6.992, 50.626, zoom = 15) %>%
+  addPopups(
+    6.989150, 50.624424,
+    'Campus Klein-Altendorf (North)'
+  )
+```
+
+In this virtual field trip, you have the special privilege of benefitting from the wisdom of Dr. Michael Blanke, who has been instrumental in running this field trip in the past. Michael officially retired this year, but we managed to capture his explanations on tape. Likewise, Dr. Erica Fadon left our team for greener pastures at the end of April. We also canned her report for you.
+
+Most of the videos are in German - hopefully that isn't a problem.
+
+Enjoy your virtual field trip!
+
+### June drop in apple
+*Michael Blanke and the HortiWood film team*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m9USPH0tvYA" frameborder="0" allowfullscreen></iframe>
+
+### Alternate bearing in apple
+*Michael Blanke and the HortiWood film team*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QUjbOlPckW0" frameborder="0" allowfullscreen></iframe>
+
+### Tree shapes in apple production
+*Christa Lankes and the HortiWood film team*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R25HQXKHxKQ" frameborder="0" allowfullscreen></iframe>
+
+### Frost risk in apple production
+*Christa Lankes and the HortiWood film team*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BXNMs_mmJ9A" frameborder="0" allowfullscreen></iframe>
+
+### Frost risk in cherry production
+*Michael Blanke and the HortiWood film team*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhCM_96HOjM" frameborder="0" allowfullscreen></iframe>
+
+### A multi-environment phenology experiment 
+*Erica Fadon and the HortiWood film team*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yxly33Li8Xw" frameborder="0" allowfullscreen></iframe>
+
+
+## Virtual field trip to a fruit production farm
+*lifted from https://www.schmitzhuebsch.de/*
+
+The second field trip takes you to Bornheim, to the fruit farm of Roland Schmitz-Hübsch, an innovative grower and long-term collaborator of the HortiBonn group. Check out [his website](https://www.schmitzhuebsch.de/index.php), if you want to find our more about the farm.
+
+And here's the farm:
+
+```{r, echo=FALSE}
+library(leaflet)
+leaflet() %>% addProviderTiles('Esri.WorldImagery') %>% 
+  setView(6.930731, 50.776837, zoom = 15) %>%
+  addPopups(
+    6.930731, 50.776837,
+    'Fruit farm Schmitz-Hübsch'
+  )
+```
+
+The farm website contains lots of videos. We've made a selection for you that you can find below:
+
+### Presentation of the farm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qpc8WSnctiA" frameborder="0" allowfullscreen></iframe>
+
+### Schmitz-Hübsch with english subtitle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CTTNfgVP1fA" frameborder="0" allowfullscreen></iframe>
+
+### Sweet cherry plantation in bloom
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YVFgfbbvslw" frameborder="0" allowfullscreen></iframe>
+
+### Frost protection irrigation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6rZIRic6fY" frameborder="0" allowfullscreen></iframe>
+
+### Apple harvest 2020 (WDR programm)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_ZZjLncH_I" frameborder="0" allowfullscreen></iframe>
+
+### Climate change 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjLaOAE7jek" frameborder="0" allowfullscreen></iframe>
+
+If you want more materials, feel free to check out the farm's [video library](https://www.schmitzhuebsch.de/mediathek/kurzfilme).
+
+
+## Virtual fruit production museum
+*lifted from http://obstbau-museum-rheinland.de*
+
+The third field trip takes you to the virtual fruit production museum [here](http://obstbau-museum-rheinland.de/museum.php), which was set up by the "Kreisfachgruppe Obstbau Bonn Rhein-Sieg" around 2012 to celebrate 150 years of fruit production in the Rhineland region.
+
+There's a lot of material here - feel free to explore on your own!
+
+
+We hope you enjoyed your field trips!
