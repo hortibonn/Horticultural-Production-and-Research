@@ -1,6 +1,7 @@
 # From Greenhouse Production to Plant Factories {#plant_factories}
 *by [Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
 
+Horticulture will undergo changes in their production systems. In this week we will take a closer look at greenhouse production and vertical farming. At first we will understand what a greenhouse in its principles is. We are doing this in the greenhouse at the institute. After the visit in the greenhouse we will discuss the transformation of greenhouse production into "closed environment agriculture" (CEO), alos called indoor farming, vertical farming, or plant factories. In the paper discussion we will try to answer the question: "Is Indoor Farming the solution" for feeding the world?
 
 ## Materials
 
@@ -21,25 +22,28 @@
 
 
 ## Literature for discussion
-Paper discussion: We will discuss the article “Agricultural sustainability estimation of the European photovoltaic greenhouses” (see [eCampus)](https://ecampus.uni-bonn.de/goto_ecampus_file_3207952_download.html). Energy consumption is a major challenge in horticultural production. Especially in greenhouses we need energy for heating, cooling, climate control (e.g. ventilation), fertigation system, and lighting. This article is on the possible combination of photovoltaic in greenhouses. On eCampus you will find further readings on this topic.
+Paper discussion: We will discuss the article “Wheat yield potential in controlled-environment vertical farms” by Asseng et al. (2020)(see [eCampus)](https://ecampus.uni-bonn.de/goto_ecampus_file_3510292_download.html). The article is not on a horticultural crop, but a good case study, which could be transferred to other crops, too. There are two tasks:
+1. General discussion: Are indoor farm suited to produce enough staple food for a growing population and not just "baby greens" for a more healthy lifestyle?
+2. Specific topic: The article is short (5 pages), but full of details and assumptions. Let us do a fact check.
+Please read the article and prepare yourself for the discussion by checking at least one fact by using the cited references (1st order references) and maybe follow the path of data.
 
 ## Term paper topics
 
-**13. Sustainability of Greenhouse Production**
+**Can plant factories safe the world?**
 
 *[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
 
-In this term the focus will be on the sustainability of different cultivation systems in greenhouse production, mainly substrates and fertigation. The term paper should review the most important substrates and cultivation regimes and to compare them concerning sustainability.
+In this term paper you should evaluate which crops are already produced in plant factories (here used as a general term for all indoor farms, vertical farms, or controlled environment farms) and which crops are challenging. For crops already produced in plant factories compare yields and / or energy consumption to conventional farming systems. For crops not produced so far, discuss the challenging factors within a plant factory and how they could be solved.
 
-**14. The challenges in ligthing**
-
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
-
-One main advantage of greenhouse production is control of environmental conditions. Lighting is not only responsible for plant growth and performance yielding in an horticultural produce. Lighting can also control the quality of produce, it could support plant growth depending on growth stage. So the challange is, what is the optimal lighting? This term paper should focus on lighting source (natural vs. artifical) and the type of light (e.g. spectrum) and the meaning for plant growth. How could we control plant performance and quality by light?
-
-**15. Green energy for greenhouses and vertical farms**
+**For heaven`s sake use LED - the challenges in lighting**
 
 *[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
 
-Greenhouse production relies on energy for light and heating. In this term paper it should be discussed which forms of energy supply could be used for a more sustainable plant production. Would this makes a year-round production sustainable? What is the role of photovoltaic in this context?
+One main advantage of greenhouse production is control of environmental conditions. Lighting is not only responsible for plant growth and performance yielding in an horticultural produce. Lighting can also control the quality of produce, it could support plant growth depending on growth stage. So the challenge is, what is the optimal lighting? This term paper should focus on LED lighting. How could we control plant performance and quality by light?
+
+**It's all about energy - how photovoltaic can be used for greenhouses and plant factories**
+
+*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+Greenhouse production and plant factories depend on energy for light and heating. In this term paper it should be discussed which role photovoltaic will have for a more sustainable plant production. Would this makes a year-round production possible? Discover possible new trends how photovoltaic could be used in the future.
 

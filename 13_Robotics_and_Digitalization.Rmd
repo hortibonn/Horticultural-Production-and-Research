@@ -44,13 +44,13 @@ Question for discussion: Is digitalization something that just happens to hortic
 
 ## Term paper topics
 
-**31. Automation in Horticulture: Cutting valuable farm jobs or response to labour shortage?**
+**Automation in Horticulture: Cutting valuable farm jobs or response to labour shortage?**
 
 *[Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/), [Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/)*
 
 Horticultural production is comparatively labour intensive. Recent advances in robotics and automatization enabled farm managers to reduce manual workload. Is this just a response to the decreased availability of seasonal farm workers from abroad, or is it rather an economic decision leaving potential farm workers unemployed? This term paper should answer the question from a social-economical perspective.
 
-**32. Farm Management Information Systems (FMIS) for Orchards: benefits and trade-offs for farm managers**
+**Farm Management Information Systems (FMIS) for Orchards: benefits and trade-offs for farm managers**
 
 *[Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/), [Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/)*
 

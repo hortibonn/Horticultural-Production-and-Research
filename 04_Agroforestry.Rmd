@@ -59,19 +59,19 @@ In addition - this is optional - we encourage you to take a look at the followin
 
 ## Term paper topics
 
-**8. The challenges of agroforestry modeling**
+**The challenges of agroforestry modeling**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
 
 Modeling agroforestry systems are more complex than monocultures, so they have presented considerable challenges to the modeling community. This term paper outlines these challenges and reviews how they have been addressed in previous modeling attempts.
 
-**9. Barriers to agroforestry adoption in Germany (or elsewhere)**
+**Barriers to agroforestry adoption in Germany (or elsewhere)**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
 
 Many experts agree that agroforestry systems can offer environmental, economic and social benefits to farmers. Yet adoption rates often remain low due to an array of barriers that keep farmers from integrating trees with other agricultural practices. This term paper reviews these barriers and proposed ideas for overcoming them.
 
-**10. Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
+**Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
 

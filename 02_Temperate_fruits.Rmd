@@ -20,7 +20,7 @@ As supplementary material, we also offer two videos on sweet cherry bloom and ap
 
 ### Questions
 
-1. In a few lines, describe the main difference between the fruit growing process for pome and stone fruits. Link the process occurring inside the fruit and the changes that farmers could see
+1. In a few lines, describe the main difference between the fruit production systems for pome and stone fruits. Link the process occurring inside the fruit and the changes that farmers could see.
 2. What are the types of sunburn usually observed in apple orchards? How could farmers avoid this problem?
 
 ## Instructions
@@ -36,31 +36,31 @@ Why is the understanding of the flower induction mechanism of particular importa
 
 ## Term paper topics
 
-**3. Apples from a greenhouse: Will it become a common practice?**
+**Integrating agrophotovoltaic systems into orchard management: Can fruit trees and solar power effectively coexist?**
 
 *[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
 
-Make an extensive literature review to understand how apple production is continuously moving from open fields towards greenhouse production. Why is it happening? Give some examples of best practices for protected cultivation of apples (with main focus on apples from the greenhouse). What greenhouse techniques are already applied in fruit orchards? Try to make a forecast regarding the protected cultivation of apples for the next few decades based on the current trends.
+Agrophotovoltaics (APV) involves the dual use of agricultural land for both crop production and solar energy generation. In this term paper, you will explore whether fruit tree orchards (such as apples, peaches, or cherries) can successfully coexist with solar panels. Investigate the impact of shading on tree growth, flowering, fruit production, fruit quality, and on the occurrence of pests and diseases. How orchard management practices would need to adapt to optimize both solar and agricultural yields? Consider examples of existing APV projects in orchards and their economic and environmental outcomes. What are the potential advantages and disadvantages of integrating APV into commercial orchards?
 
-**4. Seed dormancy breaking strategies: Do the universal methods exist?**
+**Chilling requirements and global warming: Can we adjust photoperiod to compensate for winter chill in plants?**
 
 *[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
 
-In this work you will do literature research on effective strategies for breaking seed dormancy, a resting period of seeds during which they fail to germinate. Present your results and describe the best-practice dormancy breaking strategies for seeds – from use of growth regulating compounds to the artificial environments (controlled climatic conditions) that make seeds germinate. Try to find out whether there are universal methods for some plant species or whether these methods strongly depend on the genotype. Or maybe it even depends on the climatic zones that are native for certain plant species that allows using the same dormancy breaking strategies on the plats grown in the same zone?
+Global warming is reducing the accumulation of chilling temperatures necessary for temperate fruit trees to break dormancy and flower properly. In this paper, you will investigate whether manipulating the photoperiod during the winter months could compensate for a lack of chilling. Review the biological and physiological processes behind photoperiod and dormancy in plants (with focus on fruit trees). Present you literature research on how light manipulation (e.g., shortened or extended daylight exposure, certain light spectra, etc.) might affect dormancy and whether the photoperiod can help adjust, reduce or replace chilling needs.
 
-**5. Influences of spring frost protection on the environment**
+**Influences of spring frost protection on the environment**
 
 *[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
 
 This term paper selects some frost protection measures and reviews the side effects of their use. It should include effects within in orchard as well as on the environment.
 
-**6. Calcium nutrition of apple trees**
+**Calcium nutrition of apple trees**
 
 *[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
 
 This term paper reviews calcium fertilization for apple trees. What is the current state of knowledge in research? What are the challenges and what is the effectiveness of calcium fertilization? It includes a short overview of the importance of calcium in apple trees.
 
-**7. Rest breaking strategies in temperate fruit trees**
+**Rest breaking strategies in temperate fruit trees**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
 
