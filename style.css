@@ -1,3 +1,9 @@
+.book .book-body .page-wrapper .page-inner {
+  max-width: 90%;
+}
+.book .book-body .page-wrapper .page-inner section.normal p, .book .book-body .page-wrapper .page-inner section.normal li, .book .book-body .page-wrapper .page-inner section.normal ul {
+  margin-left: 30px;
+}
 p.caption {
   color: #777;
   margin-top: 10px;

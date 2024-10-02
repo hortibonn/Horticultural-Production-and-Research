@@ -8,7 +8,7 @@ output:
   bookdown::tufte_html_book:
     toc: yes
     css: toc.css
-logo: "data/HPR_logo.jpg"
+# logo: "data/HPR_logo.jpg"
 documentclass: book
 bibliography:
 - book.bib
@@ -35,11 +35,13 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
-# ![Horticultural Production and Research](data/HPR_Logo.jpg){width=90%} {-#header}
+<!-- # ![Horticultural Production and Research](data/HPR_Logo.jpg){width=90%} {-#header} -->
 
-## Introduction {-#intro .unlisted}
+# Welcome to the module {-#intro .unlisted}
 
-**Welcome to Horticultural Production and Research**
+<!-- ![Horticultural Production and Research](data/HPR_Logo.jpg){width=50%} -->
+
+<!-- **Welcome to Horticultural Production and Research** -->
 
 *by [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
 
@@ -99,19 +101,36 @@ In each of the 15 weeks of the semester, we'll cover one topic. After week 1, we
 
 Here's a tentative schedule for this module (some details may still change):
 
+<!-- old schedule -->
+<!-- - Week 01: [Introduction to horticulture] -->
+<!-- - Week 02: [Temperate fruits] -->
+<!-- - Week 03: [Global horticulture for SDGs] -->
+<!-- - Week 04: [Agroforestry] - part 1 -->
+<!-- - Week 05: [Berries] -->
+<!-- - Week 06: [From Greenhouse Production to Plant Factories] -->
+<!-- - Week 07: [From Urban Horticulture to Social Gardening] -->
+<!-- - Week 08: [New plants for a future-competent horticultural production] -->
+<!-- - Week 09: [Agroforestry] - part 2 -->
+<!-- - Week 10: [Safeguarding Plant Health in Horticulture] -->
+<!-- - Week 11: [Climate Change and Horticulture] -->
+<!-- - Week 12: [Robotics and Digitalization] -->
+<!-- - Week 13: [Gender in Horticulture] -->
+<!-- - Week 14: Student presentations -->
+<!-- - Week 15: Student presentations -->
+
 - Week 01: [Introduction to horticulture]
 - Week 02: [Temperate fruits]
-- Week 03: [Global horticulture for SDGs]
-- Week 04: [Agroforestry] - part 1
-- Week 05: [Berries]
+- Week 03: [Berries]
+- Week 04: [Agroforestry]
+- Week 05: [Global horticulture for SDGs]
 - Week 06: [From Greenhouse Production to Plant Factories]
 - Week 07: [From Urban Horticulture to Social Gardening]
-- Week 08: [New plants for a future-competent horticultural production]
-- Week 09: [Agroforestry] - part 2
+- Week 08: [Scientific writing] and [New plants for a future-competent horticultural production] part 1
+- Week 09: [New plants for a future-competent horticultural production] part 2
 - Week 10: [Safeguarding Plant Health in Horticulture]
 - Week 11: [Climate Change and Horticulture]
-- Week 12: [Robotics and Digitalization]
-- Week 13: [Gender in Horticulture]
+- Week 12: [Gender in Horticulture]
+- Week 13: [Robotics and Digitalization]
 - Week 14: Student presentations
 - Week 15: Student presentations
 
