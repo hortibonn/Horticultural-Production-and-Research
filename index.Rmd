@@ -130,7 +130,7 @@ Here's a tentative schedule for this module (some details may still change):
 - Week 10: [Safeguarding Plant Health in Horticulture]
 - Week 11: [Climate Change and Horticulture]
 - Week 12: [Gender in Horticulture]
-- Week 13: [Robotics and Digitalization]
+- Week 13: [Assessing Environmental Impacts]
 - Week 14: Student presentations
 - Week 15: Student presentations
 

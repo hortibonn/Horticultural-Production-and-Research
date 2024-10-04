@@ -1,0 +1,19 @@
+# Assessing Environmental Impacts
+*by [Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/) and [Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/)*
+
+This week, we are looking at how to assess the environmental impacts of horticultural production. Specifically, you will learn how to measure the environmental footprint (e.g. carbon or water footprint) of a production system. To do that, we are going to talk about a method called *Lifecycle Assessment (LCA)*. It allows us to quantify all environmental impacts, from the production of resources (e.g. green houses, inputs, tractors, fuel, ...) over direct emissions to the disposal/recycling of waste.
+
+On Thursday, we are going to have a hands-on exercise and learn how to create a simple LCA using open source tools and free data. **Please bring your own laptops, if you can!**
+
+*More material following soon..*
+
+## Term paper topics
+
+**Better buy regional fruits and veggies? The environmental impact of transportation in context**
+*[Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/), [Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/)*
+
+Tomatoes from Spain, bananas from Indonesia, apples from Chile. Horticultural products can come a long way, quite literally. Or we might buy them from the farm just around the corner. How does it impact the environmental footprint? Is regional always better?
+
+**Organic or integrated production - sustainability in apple production**
+*[Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/), [Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/)*
+There are two basic cultivation paradigms in apple growing: Organic and integrated production. In organic cultivation, no synthetic pesticides and fertilizers are used, but more intensive use of machinery is required. How do the environmental footprints of the two cultivation methods differ? Are organically produced apples really more sustainable?
