@@ -68,10 +68,7 @@ labor_gender_additional
 instructions-9
 labor_gender_literature
 labor_gender_term_papers
-robotics-and-digitalization
-materials-8
-instructions-10
-literature-for-discussion-9
+assessing-environmental-impacts
 term-paper-topics-8
 term-paper-topics-9
 introduction-to-horticulture
@@ -85,4 +82,4 @@ new-plants-for-a-future-competent-horticultural-production
 safeguarding-plant-health-in-horticulture
 climate-change-and-horticulture-1
 gender-in-horticulture
-robotics-and-digitalization-1
+assessing-environmental-impacts-1
