@@ -5,17 +5,17 @@
 
 To prepare for class, please watch the following four videos:
 
-* [General concepts](https://uni-bonn.sciebo.de/s/yKN9dy7xNkmXQTg) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
-* [Nuts](https://uni-bonn.sciebo.de/s/hh7O7y95krrVFLg) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
-* [Stone fruits](https://uni-bonn.sciebo.de/s/Wb8pk3fbMRjUU41) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
-* [Pome fruits](https://uni-bonn.sciebo.de/s/jZYjDaQZPLllQpz) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [General concepts](https://uni-bonn.sciebo.de/s/yKN9dy7xNkmXQTg) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Nuts](https://uni-bonn.sciebo.de/s/hh7O7y95krrVFLg) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Stone fruits](https://uni-bonn.sciebo.de/s/Wb8pk3fbMRjUU41) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Pome fruits](https://uni-bonn.sciebo.de/s/jZYjDaQZPLllQpz) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
 
 As supplementary material, we also offer two videos on sweet cherry bloom and apple varieties recorded by our HortiWood team:
 
-* [Apple varieties](https://uni-bonn.sciebo.de/s/wrGdpRgt7GKVYzo) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
-* [Sweet cherry bloom](https://uni-bonn.sciebo.de/s/OQlxeit0brc8iH4) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html))
+* [Apple varieties](https://uni-bonn.sciebo.de/s/wrGdpRgt7GKVYzo) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Sweet cherry bloom](https://uni-bonn.sciebo.de/s/OQlxeit0brc8iH4) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
 
-*You need the module password from [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_copa_3152113.html) to access these files.*
+*You need the module password from [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html) to access these files.*
 
 
 ### Questions
@@ -52,13 +52,13 @@ Global warming is reducing the accumulation of chilling temperatures necessary f
 
 *[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
 
-This term paper selects some frost protection measures and reviews the side effects of their use. It should include effects within in orchard as well as on the environment.
+Frost protection measures are great for reducing yield losses by spring frosts. But how do they influence the environment, within the orchard, in the surrounding area? You could also include social influences. Select a few frost protection measures and collect information, e.g. from scientific and practical literature, to give an overview about the side effects of frost protection.  
 
-**Calcium nutrition of apple trees**
+**Apple fruit color**
 
 *[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
 
-This term paper reviews calcium fertilization for apple trees. What is the current state of knowledge in research? What are the challenges and what is the effectiveness of calcium fertilization? It includes a short overview of the importance of calcium in apple trees.
+For red and bi-colored varieties, fruit color is a crucial factor for quality class an marketing. But, how does an apple get his color? What are possible reasons for missing red color. And how could farmers improve the fruit coloring? Give a very brief overview of process of fruit coloring and focus your literature research on reasons for missing color and measures to increase the share of red peel color. 
 
 **Rest breaking strategies in temperate fruit trees**
 

@@ -2,4 +2,4 @@
 
 [Click here to find the impressum](http://inresgb-lehre.iaas.uni-bonn.de/impressum/) 
 
-# References {-#refs}
+<!-- # References {-#refs} -->

@@ -1,8 +1,7 @@
 # Term paper topics
 
-***still to be updated for 2023/24***
-
 ## Introduction to horticulture
+
 
 **1. Horticultural vs. agricultural staple crop research capacity and funding - a comparison**
 
@@ -18,29 +17,30 @@ This paper summarizes the evidence on the diversity of horticultural crops that 
 
 ## Temperate fruits
 
-**3. Is it possible to successfully produce commercial yields of temperate fruit trees under tropical climatic conditions?**
+
+**3. Integrating agrophotovoltaic systems into orchard management: Can fruit trees and solar power effectively coexist?**
 
 *[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
 
-Make an extensive literature study to find out the main constraints for temperate tree production in the tropics. Would everlasting tropical summer allow generating two yields each year? What fundamental orchard management practices would need to be completely re-thought and adjusted for the new climatic zone? Are there any examples of successful temperate fruit tree management in the tropics? In your term paper, you will provide evidence as well as pros and cons based on the biological and physiological aspects known for temperate fruit trees.
+Agrophotovoltaics (APV) involves the dual use of agricultural land for both crop production and solar energy generation. In this term paper, you will explore whether fruit tree orchards (such as apples, peaches, or cherries) can successfully coexist with solar panels. Investigate the impact of shading on tree growth, flowering, fruit production, fruit quality, and on the occurrence of pests and diseases. How orchard management practices would need to adapt to optimize both solar and agricultural yields? Consider examples of existing APV projects in orchards and their economic and environmental outcomes. What are the potential advantages and disadvantages of integrating APV into commercial orchards?
 
-**4. Pesticide-free plant protection of temperate fruit trees based on beneficial (antagonistic) organisms: myth or reality?**
+**4. Chilling requirements and global warming: Can we adjust photoperiod to compensate for winter chill in plants?**
 
 *[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
 
-In this term paper, you will find evidence of using antagonistic organisms (fungi, bacteria and/or insects) to eliminate or reduce certain important pests and diseases in the orchards of temperate fruit trees. Search for examples of commercial use of such beneficial organisms. Are there ways to improve the existing methods? Would such biological plant protection methods substitute pesticide applications in the future?
+Global warming is reducing the accumulation of chilling temperatures necessary for temperate fruit trees to break dormancy and flower properly. In this paper, you will investigate whether manipulating the photoperiod during the winter months could compensate for a lack of chilling. Review the biological and physiological processes behind photoperiod and dormancy in plants (with focus on fruit trees). Present you literature research on how light manipulation (e.g., shortened or extended daylight exposure, certain light spectra, etc.) might affect dormancy and whether the photoperiod can help adjust, reduce or replace chilling needs.
 
 **5. Influences of spring frost protection on the environment**
 
 *[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
 
-This term paper selects some frost protection measures and reviews the side effects of their use. It should include effects within in orchard as well as on the environment.
+Frost protection measures are great for reducing yield losses by spring frosts. But how do they influence the environment, within the orchard, in the surrounding area? You could also include social influences. Select a few frost protection measures and collect information, e.g. from scientific and practical literature, to give an overview about the side effects of frost protection.  
 
-**6. Calcium nutrition of apple trees**
+**6. Apple fruit color**
 
 *[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
 
-This term paper reviews calcium fertilization for apple trees. What is the current state of knowledge in research? What are the challenges and what is the effectiveness of calcium fertilization? It includes a short overview of the importance of calcium in apple trees.
+For red and bi-colored varieties, fruit color is a crucial factor for quality class an marketing. But, how does an apple get his color? What are possible reasons for missing red color. And how could farmers improve the fruit coloring? Give a very brief overview of process of fruit coloring and focus your literature research on reasons for missing color and measures to increase the share of red peel color. 
 
 **7. Rest breaking strategies in temperate fruit trees**
 
@@ -48,152 +48,157 @@ This term paper reviews calcium fertilization for apple trees. What is the curre
 
 In many warm growing regions of temperate fruits, trees struggle to accumulate sufficient winter chill to break their dormancy. Climate change appears to be aggrevating this problem. Growers are therefore looking for, and in many cases already applying, strategies to artificially promote dormancy release. This term paper reviews the current state of knowledge on strategies for artificial rest-breaking and discusses the challenges and opportunities.
 
+## Berries
+
+
+**8. Berry plants and declining bee communities: Will the berry production still be possible without pollinators?**
+
+*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+
+Many plant species rely on pollinators, such as bees and other insects, that are essential for the fertilization of flowers. Scientists currently express their concerns that year after year there are less and less insects including bees due to the intensive insecticide use in agriculture. Does the yield of berry plants (raspberries, blueberries, currents, blackberries, etc.) also depend on pollinators? If yes, to what extent? Is berry production possible without pollinating insects? In this term paper, you will investigate how pollinator presence affects the pollination efficiency, fruit set, and overall yield of berry crops, and strategies to enhance pollination.
+
+
 ## Agroforestry
 
-**8. The challenges of agroforestry modeling**
+
+**9. The challenges of agroforestry modeling**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
 
 Modeling agroforestry systems are more complex than monocultures, so they have presented considerable challenges to the modeling community. This term paper outlines these challenges and reviews how they have been addressed in previous modeling attempts.
 
-**9. Barriers to agroforestry adoption in Germany (or elsewhere)**
+**10. Barriers to agroforestry adoption in Germany (or elsewhere)**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
 
 Many experts agree that agroforestry systems can offer environmental, economic and social benefits to farmers. Yet adoption rates often remain low due to an array of barriers that keep farmers from integrating trees with other agricultural practices. This term paper reviews these barriers and proposed ideas for overcoming them.
 
-**10. Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
+**11. Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
 
 Agroforestry has gained traction in many places, yet its spread in Germany (and many other countries) has been slow. This term paper reviews what types of systems exist and where they can be found (possibly using case studies). It also speculates on the potential distribution within this geographic region.
 
-## Greenhouse production systems & Hydroponics
+## Global horticulture for SDGs
 
-**13. Sustainability of Greenhouse Production**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+**12. The contribution of horticulture to the Sustainable Development Goals with a specific focus on SDG 2**
 
-In this term the focus will be on the sustainability of different cultivation systems in greenhouse production, mainly substrates and fertigation. The term paper should review the most important substrates and cultivation regimes and to compare them concerning sustainability.
+*[Hannah Jaenicke](https://ecampus.uni-bonn.de/goto_ecampus_file_3168923_download.html)*
 
-**14. The challenges in lighting**
+In this term paper you will look into the various contributions horticultural production, processing and consumption make towards achieving the SDGs. You will also take a critical look into possible detrimental developments.
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+**13. The Sustainable Development Goals and German policy on agroforestry**
 
-One main advantage of greenhouse production is control of environmental conditions. Lighting is not only responsible for plant growth and performance yielding in an horticultural produce. Lighting can also control the quality of produce, it could support plant growth depending on growth stage. So the challange is, what is the optimal lighting? This term paper should focus on lighting source (natural vs. artifical) and the type of light (e.g. spectrum) and the meaning for plant growth. How could we control plant performance and quality by light?
+*[Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/)*
 
-**15. Green energy for greenhouses and vertical farms**
+In this term paper you will look into the implications of SDG relevant German policy and how it relates to horticulture, in particular agroforestry production systems. 
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+## From Greenhouse Production to Plant Factories
 
-Greenhouse production relies on energy for light and heating. In this term paper it should be discussed which forms of energy supply could be used for a more sustainable plant production. Would this makes a year-round production sustainable? What is the role of photovoltaic in this context?
 
-## Ornamentals
-
-**16. Sustainability of ornamental production**
+**14. Can plant factories safe the world?**
 
 *[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
 
-This term paper is a critical evaluation of ornamental production in different countries or different managment strategies. Based on a given example (e.g. roses) the term paper should review the available literature and studies.
+In this term paper you should evaluate which crops are already produced in plant factories (here used as a general term for all indoor farms, vertical farms, or controlled environment farms) and which crops are challenging. For crops already produced in plant factories compare yields and / or energy consumption to conventional farming systems. For crops not produced so far, discuss the challenging factors within a plant factory and how they could be solved.
 
-**17. From ornamental plant to industrial crop**
+**15. For heaven`s sake use LED - the challenges in lighting**
 
 *[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
 
-This term paper is focussing on ornamentals (e.g. flowers) and discuss what make them an ornamental plant in comparison to a horticultural crop. How could an ornamental be transformed into an industrial crop? What changes do occur during this transformation. How is an ornamental percepted by the consumer in comparison of an industrial crop? What changes in the production will take place when using an ornamental as feedstock for industry? The students work on an own example (e. g. edible flowers, ornamentals with interesting platform chemicals).
+One main advantage of greenhouse production is control of environmental conditions. Lighting is not only responsible for plant growth and performance yielding in an horticultural produce. Lighting can also control the quality of produce, it could support plant growth depending on growth stage. So the challenge is, what is the optimal lighting? This term paper should focus on LED lighting. How could we control plant performance and quality by light?
 
-## Labor and gender issues in horticulture
+**16. It's all about energy - how photovoltaic can be used for greenhouses and plant factories**
+
+*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+
+Greenhouse production and plant factories depend on energy for light and heating. In this term paper it should be discussed which role photovoltaic will have for a more sustainable plant production. Would this makes a year-round production possible? Discover possible new trends how photovoltaic could be used in the future.
 
 
-## Disease management and protected cultivation
+## From Urban Horticulture to Social Gardening
 
-**20. How to protect plants in future?**
+
+**17. Back to the roots...**
+
+[*Thorsten Kraska*](http://www.hortibonn.de/author/dr.-thorsten-kraska/)
+
+It seems that horticulture is coming back to the roots, closer to the consumer, and often back into the cities. New forms of horticultural production have been and will be developed in an urban context (e.g community gardens, rooftop greenhouses and more). In this term paper these developments will be reviewed on basis of literature. How will horticultural production in cities look like in the future? What trends can be seen right now and what is the role of horticultural sciences and practice here? (This topic is somewhat related to Vertical farming topic "... up to the skies").
+
+**18. Urban horticulture and the society**
+
+[*Thorsten Kraska*](http://www.hortibonn.de/author/dr.-thorsten-kraska/)
+
+In this term paper the meaning of urban horticulture for society should be discussed. New forms of horticulture raises societal questions. Different topics are possible: (1) Is urban horticulture a common good? (2) Edible landscaping. (3) Urban horticulture and recreation. (4) Bring in your own topic. The aim of this term paper is to think out of the box of "production" to explore the meaning of horticulture for humans and society.
+
+## New plants for a future-competent horticultural production
+
+
+**19. Vegetable production in Germany in the context of the current energy crisis**
+
+*[Jan Ellenberger](http://www.hortibonn.de/author/dr.-jan-ellenberger/)*
+
+Vegetable production - especially year-round production under glass - is extremely energy-intensive and in many parts still based on fossil fuels. What does the current energy crisis mean for domestic vegetable production? What are the farms doing, what is the political support and what prices can we expect for locally produced vegetables?
+
+**20. Vegetables in complex production systems**
+
+*[Jan Ellenberger](http://www.hortibonn.de/author/dr.-jan-ellenberger/)*
+
+The purpose of this paper is to provide an overview of the integration of vegetables into complex production systems. In a global context, it becomes clear that growing similar vegetables on large areas is not the only possible form of production. Can more complex cropping systems also be successful in Germany? Do they even already exist?
+
+
+## Safeguarding Plant Health in Horticulture
+
+
+**21. How to protect plants in future?**
 
 *[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
 
 Climate change will cause dramatic changes in horticulture. Horticultural production will move more and more to protected cultivation (e.g. tunnels, greenhouses). With that change in production new challenges in diesease management will arise. How we could protect our plants in future against climate change, weather extremes (e.g. drought) and new threats caused by insects or pathogens? In this term paper it should be analysed how climate change forced developments in horticulture (protected cultivation) and how this will affect disease management.
 
-**21. Biostimulants and Biorationals as new and emerging tools in plant health**
+**22. Biostimulants and Biorationals as new and emerging tools in plant health**
 
 *[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
 
 Biostimulants and biorationals are "new" ways to strengthen plants to improve growth and tolerance against environmental stress (biostimulants) or to protect plants in an environmental friendly way against pest and diseases to replace synthetic chemicals. In this term paper the different approaches will be discussed. What are the differences between biostimulants and biorationals? How could they be used effectively to strengthen plant health? A critical review of literature based on examples like humic acid (as biostimulant) or drying linseed oil (as biorational).
 
-## Vertical farming
-
-**22. … up to the sky**
-
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
-
-Vertical farming has gained a lot of interest, often with high expectations concerning the goals on feeding the world population or being more sustainable. In a critical review the term paper should highlight what has been achived in the past, where we stand today, and which expectations were not met (yet). But it should also show future trends and what could be reached in the future. Could vertical farms supply the world with food? In a critical review the aims & wishes but also the reality and and future should be considered. Are we really going up to the sky or do we fall like Ikarus being over optimistic? (this term paper is somewhat related to urban horticulture topic "Back to the roots...").
-
-**23. Plant Factories**
-
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
-
-Is it not consequent to produce crops in a complete closed environment (called plant factory) to be more efficient and sustainable? Is the future of horticulture the industrial production of crops as feedstocks in production plants? In this term paper the state of art of plant factories and future prospects should be reviewed. In a SWOT (strengths, weaknesses, opportunities, threats)  analysis trends and challenges will be discussed. 
-
-## Urban horticulture
-
-**24. Back to the roots…**
-
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
-
-It seems that horticulture is coming back to the roots, closer to the consumer, and often back into the cities.  New forms of horticultural production have been and will be developed in an urban context (e.g community gardens, rooftop greenhouses and more). In this term paper these developments will be reviewed on basis of literature. How will horticultural production in cities look like in the future? What trends can be seen right now and what is the role of horticultural sciences and practice here? (This topic is somewhat related to Vertical farming topic "... up to the skies").
-
-**25. Urban horticulture and the society**
-
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
-
-In this term paper the meaning of urban horticulture for society should be discussed. New forms of horticulture raises societal questions. Different topics are possible: (1) Is urban horticulture a common good? (2) Edible landscaping. (3) Urban horticulture and recreation. (4) Bring in your own topic. The aim of this term paper is to think out of the box of "production" to explore the meaning of horticulture for humans and society.
-
 ## Climate change and horticulture
 
-**26. Climate change impacts on fruit tree phenology**
+
+*Please contact me if you're interested in any of these, and I'll give you details*
+
+**23. Climate change impacts on fruit tree phenology**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
 
 This term paper reviews the recent literature regarding climate change impacts on (temperate) fruit tree phenology and their possible implications for production.
 
-**27. Climate change impacts on (selected) horticultural pests and/or diseases**
+**24. Climate change impacts on (selected) horticultural pests and/or diseases**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Prajna Kasargodu Anebagilu](http://www.hortibonn.de/author/prajna-kasargodu-anebagilu/)*
 
 This term paper selects a specific pest or disease (or a group of pests and diseases) of selected horticultural crops and reviews the evidence on how climate change is expected to affect it. It also critically evaluates the reliability of these expectations and speculates on implications for future production.
 
-**28. The use of climate change denial strategies on other controversial issues**
+**25. The use of climate change denial strategies on other controversial issues**
 
 *[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Prajna Kasargodu Anebagilu](http://www.hortibonn.de/author/prajna-kasargodu-anebagilu/)*
 
 The optional literature discusses "climate change denial strategies" that opponents of aggressive mitigation actions are pursuing. This paper selects another important societal debate with relevance to horticulture or agriculture and looks for applications of similar strategies there.
 
-## Berries
-
-**29. Organic vs. integrated production of berries: What is our future?**
-
-*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
-
-Make a comparison of berry production in organic and conventional farms. What are the main differences between these growing strategies? What are their advantages and challenges? Try to find any possible (reliable) information on yield, fruit quality, nutritional value, health benefits (antioxidants, vitamins etc.), costs and profits of berry production under the two management practices. Based on that information make your own prediction whether the organic production will dominate the conventional one in a few decades.
+## Gender in Horticulture
 
 
-## Robotics and Digitalization
+Unfortunately, we can't offer any term papers on this topic, unless you come up with your own idea.
 
-**31. Automation in Horticulture: Cutting valuable farm jobs or response to labour shortage?**
+## Assessing Environmental Impacts
 
+
+**26. Better buy regional fruits and veggies? The environmental impact of transportation in context**
+*[Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/), [Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/)*
+
+Tomatoes from Spain, bananas from Indonesia, apples from Chile. Horticultural products can come a long way, quite literally. Or we might buy them from the farm just around the corner. How does it impact the environmental footprint? Is regional always better?
+
+**27. Organic or integrated production - sustainability in apple production**
 *[Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/), [Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/)*
+There are two basic cultivation paradigms in apple growing: Organic and integrated production. In organic cultivation, no synthetic pesticides and fertilizers are used, but more intensive use of machinery is required. How do the environmental footprints of the two cultivation methods differ? Are organically produced apples really more sustainable?
 
-Horticultural production is comparatively labour intensive. Recent advances in robotics and automatization enabled farm managers to reduce manual workload. Is this just a response to the decreased availability of seasonal farm workers from abroad, or is it rather an economic decision leaving potential farm workers unemployed? This term paper should answer the question from a social-economical perspective.
-
-**32. Farm Management Information Systems (FMIS) for Orchards: benefits and trade-offs for farm managers**
-
-*[Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/), [Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/)*
-
-In recent years Farm Management Information Systems (FMIS) have become more and more powerful. Nowadays multiple such software solutions are available even for complex horticulture production. This term paper should point out reasons for using or not using FMIS, including initial expenses, daily workload, benefits of better information and decision support, data security, and other possible variables.
-
-## Global horticulture for SDGs
-
-**33. The contribution of horticulture to the Sustainable Development Goals with a specific focus on SDG 2**
-
-*[Hannah Jaenicke](http://www.hortibonn.de/author/dr.-hannah-jaenicke/)*
-
-In this term paper you will look into the various contributions horticultural production, processing and consumption make towards achieving the SDGs. You will also take a critical look into possible detrimental developments.

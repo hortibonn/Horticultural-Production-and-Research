@@ -37,7 +37,7 @@ knitr::write_bib(c(
 
 <!-- # ![Horticultural Production and Research](data/HPR_Logo.jpg){width=90%} {-#header} -->
 
-# Welcome to the module {-#intro .unlisted}
+# Welcome to the module {-#intro}
 
 <!-- ![Horticultural Production and Research](data/HPR_Logo.jpg){width=50%} -->
 

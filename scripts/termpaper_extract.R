@@ -66,4 +66,4 @@ for (file in files) {
 }
 
 # Write the collected sections to a new .Rmd file
-writeLines(term_paper_sections, "All_Term_Paper_Topics.Rmd")
+writeLines(term_paper_sections, "50_Term_papers.Rmd")

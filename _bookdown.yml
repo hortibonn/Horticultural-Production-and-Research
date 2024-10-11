@@ -19,7 +19,6 @@ rmd_files:
 - 11_Climate_Change_and_Horticulture.Rmd
 - 12_Gender_in_Horticulture.Rmd
 - 13_Assessing_Environmental_Impacts.Rmd
-# - 50_Term_papers.Rmd
-- All_Term_Paper_Topics.Rmd
+- 50_Term_papers.Rmd
 # - 97_Template.Rmd
 - 99-impressum.Rmd
