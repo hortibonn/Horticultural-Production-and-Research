@@ -18,11 +18,11 @@ Horticulture will undergo changes in their production systems. In this week we w
   - How can the lighting be adapted to the needs of the plants?\
   - How can light and lighting be modified (management strategies, infrastructure)?\
   - What is the meaning of UV-light and far red light?\
-- You will find further readings on light (especially LED) and lighting on [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_fold_3207954.html).\
+- You will find further readings on light (especially LED) and lighting on [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_fold_3575336.html).\
 
 
 ## Literature for discussion
-Paper discussion: We will discuss the article “Wheat yield potential in controlled-environment vertical farms” by Asseng et al. (2020)(see [eCampus)](https://ecampus.uni-bonn.de/goto_ecampus_file_3510292_download.html). The article is not on a horticultural crop, but a good case study, which could be transferred to other crops, too. There are two tasks:
+Paper discussion: We will discuss the article “Wheat yield potential in controlled-environment vertical farms” by Asseng et al. (2020)(see [eCampus)](https://ecampus.uni-bonn.de/goto_ecampus_file_3575348_download.html). The article is not on a horticultural crop, but a good case study, which could be transferred to other crops, too. There are two tasks:
 1. General discussion: Are indoor farm suited to produce enough staple food for a growing population and not just "baby greens" for a more healthy lifestyle?
 2. Specific topic: The article is short (5 pages), but full of details and assumptions. Let us do a fact check.
 Please read the article and prepare yourself for the discussion by checking at least one fact by using the cited references (1st order references) and maybe follow the path of data.
