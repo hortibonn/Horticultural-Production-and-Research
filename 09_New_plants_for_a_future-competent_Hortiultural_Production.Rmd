@@ -44,7 +44,7 @@ Here’s a loose list of material I stumbled across when preparing the lecture. 
 
 Here's the paper for discussion:
 
-* [A recent highly-cited study looking at agrivoltaic systems (photovoltaic + crops and/or vegetables) in Germany. Includes a brief description of the Land Equivalent Ratio (LER) concept.](https://ecampus.uni-bonn.de/goto_ecampus_file_2873408_download.html) (It’s the same paper as Material #4 for our Wednesday session)
+* [A recent highly-cited study looking at agrivoltaic systems (photovoltaic + crops and/or vegetables) in Germany. Includes a brief description of the Land Equivalent Ratio (LER) concept.](https://ecampus.uni-bonn.de/goto_ecampus_file_3596854_download.html) (It’s the same paper as Material #4 for our Wednesday session)
 
 ## Video transcript (Material 3)
 
