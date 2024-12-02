@@ -20,7 +20,7 @@ You're an **asparagus** grower in the Rhineland region of Germany. You own two h
 
 ## Materials
 
-If you want, you can check out [some introductory videos on climate change](http://inresgb-lehre.iaas.uni-bonn.de/chillR_book/climate-change-and-impact-projection.html) that I made a few years ago. They mostly belong to my lecture on [Tree phenology analysis with R](http://inresgb-lehre.iaas.uni-bonn.de/chillR_book/introduction.html), but they may also be of interest in the context of this lesson.
+If you want, you can check out [some introductory videos on climate change](https://hortibonn.github.io/Tree-Phenology/climate-change-and-impact-projection.html) that I made a few years ago. They mostly belong to my lecture on [Tree phenology analysis with R](https://hortibonn.github.io/Tree-Phenology/), but they may also be of interest in the context of this lesson.
 
 More importantly, please take a look at the following group-specific sources. You don't have to dig deep into all the methods, but try to get a feeling for what challenges your crop is likely to experience as a consequence of climate change.
 
