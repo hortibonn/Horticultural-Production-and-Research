@@ -1,28 +1,59 @@
 # Gender in Horticulture {#gender}
-*by [Erin McGuire](https://horticulture.ucdavis.edu/people/erin-mcguire) and [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+*by [Tina Beuchelt](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/members-directory/tina-beuchelt)*
 
 ## Materials {#labor_gender_materials}
 
-To prepare for our interactive session, you'll need some background on the importance of including gender into agricultural/horticultural research. Please watch this webinar prepared for the Horticulture Innovation Lab at the University of California, which provides an excellent introduction to the topic. You can (but don't have to) stop when the Q&A session starts:
+To prepare for our interactive session, you’ll need some background on the importance of including gender into agricultural/horticultural research. Please watch the webinar prepared for the Horticulture Innovation Lab at the University of California (until the Q&A section) and the additional short videos, which provide an excellent introduction to the topic. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBwVCmJKmhA" frameborder="0" allowfullscreen></iframe>
 
-To prepare for the session, please also check out the following [paper](https://doi.org/10.1016/j.wdp.2021.100386) that Erin McGuire (University of California) co-authored with her colleagues from the CGIAR and Wageningen University:
 
-[McGuire et al. (2022). Anticipating gender impacts in scaling innovations for agriculture: Insights from the literature. World Development Perspectives 25](https://doi.org/10.1016/j.wdp.2021.100386)
+Gender in Agriculture and Rural Development:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Et2gHFzKCNk" frameborder="0" allowfullscreen></iframe>
+
+The importance of gender statistics:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=utQD-MhOUoU" frameborder="0" allowfullscreen></iframe>
+
+How to integrate gender equity strategies into horticulture value chains (first 60 minutes): 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JBwVCmJKmhA&t=226s" frameborder="0" allowfullscreen></iframe>
+
+What is a Feminist Economy? 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8HKDi95WeUE" frameborder="0" allowfullscreen></iframe>
+
+
+Dismantling patriarchy whilst building food sovereignty:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jYFB7l-gx8k" frameborder="0" allowfullscreen></iframe>
+
+
+The Gender continuum in projects:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IZFlSr4SdBY" frameborder="0" allowfullscreen></iframe>
+
 
 ### Questions
 
-1. What is the difference between the sex and the gender of a person?
-2. What are the five domains of women’s empowerment according to the WEAI framework?
-3. What is the purpose of a gender strategy in research, esp. in impact-oriented research in development contexts?
-4. What is the difference between equality and equity?
-5. What does 'scaling' mean in the context of horticultural (or agricultural) innovations?
- 
+1.	What is the difference between the sex and the gender of a person?
+2.	What are the five domains of women’s empowerment according to the WEAI framework?
+3.	What is the difference between equality and equity?
+4.	What is the purpose of a gender strategy in research/development projects, esp. in impact-oriented research in development contexts and how can it be done?
+
 
 ### Additional materials {#labor_gender_additional}
 
-We were only able to present a brief glimpse on gender in horticulture. We just touched on scaling, which is also an enormously important aspect of agricultural development. If you want to learn more about these topics, please check out the following resources:
+We were only able to present a brief glimpse on gender in horticulture. If you want to learn more about these topics, also with a stronger European perspective, please check out the following resources:
+
+* [Training guide on how to include gender aspects in your own research: Gender and climate change research in Agriculture and food security for Rural development](https://www.fao.org/4/md280e/md280e.pdf)
+
+* [A rich platform with research publications, tools, methods, handbooks and trainings on gender in agriculture:](https://gender.cgiar.org/)
+
+* [Policy Brief: Women on agricultural holdings in Germany: Findings and recommendations of the nationwide study. “women.life.agriculture”.](https://www.bmel.de/SharedDocs/Downloads/EN/_Rural-Regions/women-life-agriculture-policy-brief.pdf?__blob=publicationFile&v=5)
+
+* [EU Project: SWIFT: Supporting Women-led Innovation in Farming Territories](https://swiftproject.eu/innovation-hubs/)
+
+* [European Commission on  Females in the field:](https://agriculture.ec.europa.eu/news/females-field-2021-03-08_en)
+
+* Research paper: [Power and culture: Understanding EU policies on agriculture and gender equality](https://onlinelibrary.wiley.com/doi/full/10.1111/soru.12475)
+
+Scaling agricultural innovation – in a fair, inclusive way that enhances gender equity - is an enormously important aspect of agricultural development. If you want to learn more about these topics, please check out the following resources:
 
 * [Website of the genderup project](https://genderup.ucdavis.edu)
 
@@ -33,23 +64,38 @@ We were only able to present a brief glimpse on gender in horticulture. We just 
 
 ## Instructions
 
-Our activities for the day will focus on the impacts that horticultural innovations may have on specific social groups, especially on women. For our exercise, we will design a persona that we would like to benefit from a specific innovation. Your job will then be to design an appropriate scaling strategy for the innovation that works for the persona you selected.
+Our activities for the day will focus on 
+a)	Follow-up reflection, questions and interactive discussion based on the video material
+b)	A group-exercise to analyse the impacts of a horticultural innovation on farm household, especially on women. 
 
-You'll receive more guidance in class.
+You’ll receive more guidance in class.
+
 
 
 ## Literature for discussion {#labor_gender_literature}
 
-[Cullen et al. (2023) ‘They think we are delaying their outputs’. The challenges of interdisciplinary research: understanding power dynamics between social and biophysical scientists in international crop breeding teams. Front. Sustain. Food Syst. 7:1250709 ](https://doi.org/10.3389/fsufs.2023.1250709)
+Please read the following article:
 
-You can use the following questions to structure your discussion:
+[Beuchelt, T.D. and L. Badstue. 2013. Gender, nutrition- and climate-smart food production: Opportunities and trade-offs. Food Security, Vol. 5 (5), 709–721. DOI: 10.1007/s12571-013-0290-8 (open access).]( https://link.springer.com/article/10.1007/s12571-013-0290-8)
 
-* What potential connections or relationships exist between upstream research stakeholders (such as researchers, funders, and implementers) and the downstream outcomes or consequences of their work?
 
-* Considering the variations in potential benefits for women and men resulting from different horticultural innovations, how can we enhance inclusivity and effectiveness in our research processes to prevent unintended negative consequences?
+The following questions can structure your discussion (choose one block per group):
 
-* What challenges do you currently encounter within your own research domain? What key aspects would you prioritize in your research to ensure rigorous investigation and a deeper understanding of effective innovation?
+Block A:
 
+*	Gender Dynamics: How do gender roles influence food production practices in horticulture? Can you provide examples of how these roles shape both the labor and decision-making processes? How do gender roles and relations impact the adoption of climate-smart agricultural practices or horticultural innovations in rural communities? What are the potential benefits and challenges of integrating gender considerations into agricultural development programs?
+
+* Nutrition and Food Security: In what ways can climate-smart agricultural practices contribute to improved nutrition and food security? What are the potential trade-offs between increasing food production and ensuring nutritional quality – and how does this relate to gender aspects?
+
+* Policy and Inclusive Development: What role do policies play in promoting gender, nutrition, and climate-smart food production in the horticultural sector? How can policymakers create an enabling environment that supports inclusive development and addresses the specific needs of women farmers?
+
+Block B:
+
+* Technology and Mechanization: How does the introduction of new agricultural technologies and mechanization affect gender dynamics and labor distribution in farming communities? What strategies can be employed to ensure equitable access to these technologies for both men and women? Please also think of examples from the horticultural sector and the lectures you had already.
+
+* Trade-offs and Mitigation: What lessons can be learned about the implementation of climate-smart agricultural practices in different cultural and socio-economic contexts and especially in regard to gender? In which areas may trade-offs may exist? How can these trade-offs be managed to benefit all stakeholders? Please also think of examples from the horticultural sector and the lectures you had already.
+
+* Policy and Inclusive Development: What role do policies play in promoting gender, nutrition, and climate-smart food production in the horticultural sector? How can policymakers create an enabling environment that supports inclusive development and addresses the specific needs of women farmers?
 
 ## Term paper topics {#labor_gender_term_papers}
 
