@@ -9,7 +9,7 @@ To prepare for our interactive session, you’ll need some background on the imp
 
 
 Gender in Agriculture and Rural Development:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Et2gHFzKCNk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Et2gHFzKCNk" frameborder="0" allowfullscreen></iframe>
 
 The importance of gender statistics:
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=utQD-MhOUoU" frameborder="0" allowfullscreen></iframe>
