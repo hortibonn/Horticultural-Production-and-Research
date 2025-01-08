@@ -3,9 +3,35 @@
 
 This week, we are looking at how to assess the environmental impacts of horticultural production. Specifically, you will learn how to measure the environmental footprint (e.g. carbon or water footprint) of a production system. To do that, we are going to talk about a method called *Lifecycle Assessment (LCA)*. It allows us to quantify all environmental impacts, from the production of resources (e.g. green houses, inputs, tractors, fuel, ...) over direct emissions to the disposal/recycling of waste.
 
-On Thursday, we are going to have a hands-on exercise and learn how to create a simple LCA using open source tools and free data. **Please bring your own laptops, if you can!**
+We are offering the unique chance to have a hands-on exercise and learn how to create a simple LCA using open source tools and free data. **Please bring your own laptops, if you can!**
 
-*More material following soon..*
+## Preparations
+
+This week is going to be a bit different.
+
+The only thing we ask you to read before the lecture is
+[this](https://www.researchgate.net/profile/Kevin-Harding/publication/263543571_An_Introduction_to_Life_Cycle_Assessment_LCA/links/02e7e53b34ffac4fbb000000/An-Introduction-to-Life-Cycle-Assessment-LCA.pdf) short introduction to Lifecycle Assessment (LCA) by Kevin Harding.
+
+This will help you answer the questions below.
+
+In addition, if you have a laptop, we ask you to install the LCA software *openLCA*. It is completely open source. You can download it for free [here](https://www.openlca.org/download/) for Windows, MacOS and Linux. Please bring your laptop on both Wednesday and Thursday.
+
+## Questions
+
+1. Briefly describe what an LCA is, and how it is different than e.g. an *organic* label.
+2. What are the 4 stages of LCA?
+3. Which of these statements is correct?
+    1. LCAs are for measuring only climate impact.
+    2. There are international standards for how to perform an LCA.
+    3. LCAs can be used to compare the environmental footprint of different products.
+    4. LCAs can be used to compare the environmental footprint of different processes.
+    5. LCA is a tool specifically for agriculture and the food sector.
+4. Think of 3 ways, in which LCA could contribute to a more sustainable food system.
+
+## Literature for discussion
+
+We're discussing [this](https://www.sciencedirect.com/science/article/pii/S0959652620317030) LCA study on fruit and vegetable production in south-east Spain. We do not expect you to dive deep into the methodology here. Make sure, you understand the general approach and the results.
+
 
 ## Term paper topics
 
