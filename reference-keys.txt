@@ -69,6 +69,9 @@ instructions-9
 labor_gender_literature
 labor_gender_term_papers
 assessing-environmental-impacts
+preparations
+questions-6
+literature-for-discussion-9
 term-paper-topics-8
 term-paper-topics-9
 introduction-to-horticulture
