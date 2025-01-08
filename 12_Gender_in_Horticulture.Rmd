@@ -31,23 +31,16 @@ To prepare for our interactive session, you’ll need some background on the imp
 We were only able to present a brief glimpse on gender in horticulture. If you want to learn more about these topics, also with a stronger European perspective, please check out the following resources:
 
 * [Training guide on how to include gender aspects in your own research: Gender and climate change research in Agriculture and food security for Rural development](https://www.fao.org/4/md280e/md280e.pdf)
-
 * [A rich platform with research publications, tools, methods, handbooks and trainings on gender in agriculture:](https://gender.cgiar.org/)
-
 * [Policy Brief: Women on agricultural holdings in Germany: Findings and recommendations of the nationwide study. “women.life.agriculture”.](https://www.bmel.de/SharedDocs/Downloads/EN/_Rural-Regions/women-life-agriculture-policy-brief.pdf?__blob=publicationFile&v=5)
-
 * [EU Project: SWIFT: Supporting Women-led Innovation in Farming Territories](https://swiftproject.eu/innovation-hubs/)
-
 * [European Commission on  Females in the field:](https://agriculture.ec.europa.eu/news/females-field-2021-03-08_en)
-
 * Research paper: [Power and culture: Understanding EU policies on agriculture and gender equality](https://onlinelibrary.wiley.com/doi/full/10.1111/soru.12475)
 
 Scaling agricultural innovation – in a fair, inclusive way that enhances gender equity - is an enormously important aspect of agricultural development. If you want to learn more about these topics, please check out the following resources:
 
 * [Website of the genderup project](https://genderup.ucdavis.edu)
-
 * [Webinar Series: Innovating and Scaling for Social Transformation in International Food Systems](https://horticulture.ucdavis.edu/event/webinar-series-innovating-and-scaling-social-transformation-international-food-systems)
-
 * [Innovation and Scaling: An Introductory Online Course from the CGIAR](https://www.cgiar.org/news-events/news/innovation-and-scaling-an-introductory-online-course/)
 
 
@@ -70,7 +63,7 @@ Please read the following article:
 
 The following questions can structure your discussion (choose one block per group):
 
-Block A:
+**Block A:**
 
 *	Gender Dynamics: How do gender roles influence food production practices in horticulture? Can you provide examples of how these roles shape both the labor and decision-making processes? How do gender roles and relations impact the adoption of climate-smart agricultural practices or horticultural innovations in rural communities? What are the potential benefits and challenges of integrating gender considerations into agricultural development programs?
 
@@ -78,7 +71,7 @@ Block A:
 
 * Policy and Inclusive Development: What role do policies play in promoting gender, nutrition, and climate-smart food production in the horticultural sector? How can policymakers create an enabling environment that supports inclusive development and addresses the specific needs of women farmers?
 
-Block B:
+**Block B:**
 
 * Technology and Mechanization: How does the introduction of new agricultural technologies and mechanization affect gender dynamics and labor distribution in farming communities? What strategies can be employed to ensure equitable access to these technologies for both men and women? Please also think of examples from the horticultural sector and the lectures you had already.
 
