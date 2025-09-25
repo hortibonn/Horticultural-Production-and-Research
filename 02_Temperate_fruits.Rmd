@@ -36,11 +36,11 @@ Why is the understanding of the flower induction mechanism of particular importa
 
 ## Term paper topics
 
-**Integrating agrophotovoltaic systems into orchard management: Can fruit trees and solar power effectively coexist?**
+**Seeded vs. Seedless: Comparative physiology of parthenocarpic and seeded fruits in fruit trees**
 
 *[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
 
-Agrophotovoltaics (APV) involves the dual use of agricultural land for both crop production and solar energy generation. In this term paper, you will explore whether fruit tree orchards (such as apples, peaches, or cherries) can successfully coexist with solar panels. Investigate the impact of shading on tree growth, flowering, fruit production, fruit quality, and on the occurrence of pests and diseases. How orchard management practices would need to adapt to optimize both solar and agricultural yields? Consider examples of existing APV projects in orchards and their economic and environmental outcomes. What are the potential advantages and disadvantages of integrating APV into commercial orchards?
+In this paper, you will explore parthenocarpy as the development of fruits without fertilization, highlighting its occurrence in various fruit tree species (or maybe other horticultural plants) and its use in horticultural practice. The paper will review the general physiological and molecular mechanisms of parthenocarpy, compare parthenocarpic fruits with seeded fruits within the same species or cultivars, emphasizing differences in fruit set, anatomy, growth patterns, and quality traits such as size and shape. The paper will also address the practical implications of seedlessness for horticultural production, consumer preference, postharvest performance, and breeding strategies.
 
 **Chilling requirements and global warming: Can we adjust photoperiod to compensate for winter chill in plants?**
 
@@ -54,11 +54,11 @@ Global warming is reducing the accumulation of chilling temperatures necessary f
 
 Frost protection measures are great for reducing yield losses caused by spring frosts. But how do they influence the environment, within the orchard, in the surrounding area? You could also include social influences. Select a few frost protection measures and collect information, e.g. from scientific and practical literature, to give an overview about the side effects of frost protection.  
 
-**Apple fruit color**
+**Horticultural and technological approaches to enhance apple fruit coloration**
 
 *[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
 
-For red and bi-colored apple varieties, fruit color is a crucial factor for fruit quality class and marketing. But how do apples get their color? What are the possible reasons for insufficient fruit coloration? And how could farmers improve the fruit coloring? Give a very brief overview of process of fruit coloring and focus your literature research on reasons for missing color and measures to increase the share of red peel color. 
+This paper will introduce apple peel coloration as a key quality trait for red and bi-colored varieties, emphasizing its role in consumer preference, market value, and classification standards. It will briefly outline the physiological and biochemical basis of fruit color development, focusing on anthocyanin biosynthesis and its regulation by light, temperature, and genetic factors. It will then discuss horticultural practices and technological measures that can enhance peel reddening. Case studies and recent experimental findings will illustrate both the challenges and effective solutions. 
 
 **Rest breaking strategies in temperate fruit trees**
 
