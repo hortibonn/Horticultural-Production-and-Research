@@ -1,15 +1,15 @@
 # Berries
-*by [Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+*by [Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev)*
 
 
 ## Materials
 
 For this week’s session, you are required to take a look at the presentation and supplementary materials by Dr. Anton Milyaev. You can find these documents here:
 
-* [Slides](https://uni-bonn.sciebo.de/s/wnD5DmZxHpjpEt8) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
-* [Cultivation of blueberry](https://uni-bonn.sciebo.de/s/iz7dzyj4PiRO3o2) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
-* [Cultivation of raspberry](https://uni-bonn.sciebo.de/s/HxcQwPh4bdZdhjk) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
-* [Cultivation of currants](https://uni-bonn.sciebo.de/s/Tl9f006zi5kQf0R) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Slides](https://uni-bonn.sciebo.de/s/ce4m9NREzdFzJk9) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Cultivation of blueberry](https://uni-bonn.sciebo.de/s/5yERpn4MkPD5Kkz) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Cultivation of raspberry](https://uni-bonn.sciebo.de/s/dpNHQfxHZQFCoHZ) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Cultivation of currants](https://uni-bonn.sciebo.de/s/BPfDErC8SiwCwzb) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
 
 ### Questions
 
@@ -30,7 +30,7 @@ Read the paper and discuss the strategies that help extend storage period and sh
 
 **Flower drop and poor fruit set in grapes and currants: Causes, consequences, and control strategies**
 
-*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+*[Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev)*
 
 In commercial grape and currant production, large-scale failure of flowers to develop into berries (commonly referred to as “coulure” or “shatter”) represents a major challenge that can markedly reduce yields. In this paper you will explore the physiological basis of flower drop and poor fruit set in these crops, with particular attention to the processes of flower abscission. The discussion will highlight the influence of carbohydrate availability, hormonal regulation, and pollination success as key determinants of fruit set. In addition, the paper will review management strategies designed to mitigate yield losses, providing insights into both vineyard and currant orchard practices.
 

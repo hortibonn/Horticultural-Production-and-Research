@@ -1,5 +1,5 @@
 # From Greenhouse Production to Plant Factories {#plant_factories}
-*by [Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*by [Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 Horticulture will undergo changes in their production systems. In this week we will take a closer look at greenhouse production and vertical farming. At first we will understand what a greenhouse in its principles is. We are doing this in the greenhouse at the institute. After the visit in the greenhouse we will discuss the transformation of greenhouse production into "closed environment agriculture" (CEO), alos called indoor farming, vertical farming, or plant factories. In the paper discussion we will try to answer the question: "Is Indoor Farming the solution" for feeding the world?
 
@@ -31,19 +31,19 @@ Please read the article and prepare yourself for the discussion by checking at l
 
 **Can plant factories safe the world?**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 In this term paper you should evaluate which crops are already produced in plant factories (here used as a general term for all indoor farms, vertical farms, or controlled environment farms) and which crops are challenging. For crops already produced in plant factories compare yields and / or energy consumption to conventional farming systems. For crops not produced so far, discuss the challenging factors within a plant factory and how they could be solved.
 
 **For heaven`s sake use LED - the challenges in lighting**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 One main advantage of greenhouse production is control of environmental conditions. Lighting is not only responsible for plant growth and performance yielding in an horticultural produce. Lighting can also control the quality of produce, it could support plant growth depending on growth stage. So the challenge is, what is the optimal lighting? This term paper should focus on LED lighting. How could we control plant performance and quality by light?
 
 **It's all about energy - how photovoltaic can be used for greenhouses and plant factories**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 Greenhouse production and plant factories depend on energy for light and heating. In this term paper it should be discussed which role photovoltaic will have for a more sustainable plant production. Would this makes a year-round production possible? Discover possible new trends how photovoltaic could be used in the future.
 

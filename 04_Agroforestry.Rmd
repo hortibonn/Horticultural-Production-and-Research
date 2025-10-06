@@ -1,5 +1,5 @@
 # Agroforestry
-*by [Katja Schiffers](http://www.hortibonn.de/author/dr.-katja-schiffers/), [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/) and [Cory Whitney](http://www.hortibonn.de/author/dr.-cory-whitney/)*
+*by [Katja Schiffers](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/katja-schiffers), [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez) and [Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
 
 
 Agroforestry refers to a land-use system that integrates trees or shrubs into agricultural land and/or livestock farming. By diversifying production it can generate social, economic and environmental benefits. Agroforestry is also increasingly recognized as one of the most promising land use options for addressing multiple Sustainable Development Goals and confronting the challenges of climate change mitigation, food security, soil degradation, decline of biodiversity and desertification.   
@@ -61,18 +61,18 @@ In addition - this is optional - we encourage you to take a look at the followin
 
 **The challenges of agroforestry modeling**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
 
 Modeling agroforestry systems are more complex than monocultures, so they have presented considerable challenges to the modeling community. This term paper outlines these challenges and reviews how they have been addressed in previous modeling attempts.
 
 **Barriers to agroforestry adoption in Germany (or elsewhere)**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
 
 Many experts agree that agroforestry systems can offer environmental, economic and social benefits to farmers. Yet adoption rates often remain low due to an array of barriers that keep farmers from integrating trees with other agricultural practices. This term paper reviews these barriers and proposed ideas for overcoming them.
 
 **Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
 
 Agroforestry has gained traction in many places, yet its spread in Germany (and many other countries) has been slow. This term paper reviews what types of systems exist and where they can be found (possibly using case studies). It also speculates on the potential distribution within this geographic region.

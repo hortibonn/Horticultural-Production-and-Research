@@ -1,5 +1,5 @@
 # Global horticulture for SDGs {#SDGs}
-*by [Cory Whitney](http://www.hortibonn.de/author/dr.-cory-whitney/), [Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/), [Simone Kathrin Kriesemer](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-simone-kathrin-kriesemer/), [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+*by [Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney), [Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/), [Simone Kathrin Kriesemer](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-simone-kathrin-kriesemer/), [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
 
 In 2015 the United Nations Member States adopted the [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda). The agenda provides a blueprint for a sustainable future with 17 [Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs). In this lecture we will discuss the relationship between these SDGs and global horticultural production.
 
@@ -36,7 +36,7 @@ We will read a review article by *Chen, Chaudhary and Mathys*. The authors descr
 
 **The contribution of horticulture to the Sustainable Development Goals with a specific focus on SDG 2**
 
-*[Cory Whitney](http://www.hortibonn.de/author/dr.-cory-whitney/)*
+*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
 
 In this term paper you will look into the various contributions horticultural production, processing and consumption make towards achieving the SDGs. You will also take a critical look into possible detrimental developments.
 

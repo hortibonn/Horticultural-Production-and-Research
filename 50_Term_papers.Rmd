@@ -1,164 +1,158 @@
 # Term paper topics
 
-## Introduction to horticulture
+## Introduction to horticulture {#introhort}
 
 
 **1. Horticultural vs. agricultural staple crop research capacity and funding - a comparison**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
 
 This term paper compares available research capacity and funding for horticultural crops and staple crop agriculture. This evaluation can focus on a particular geographic context, for which it summarizes the research landscape (universities, other institutes) and funding streams.
 
 **2. Horticultural diversity and its regions of origin**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
 
 This paper summarizes the evidence on the diversity of horticultural crops that humanity makes use of. It also reviews the literature on the geographic (and possibly cultural) origins of this diversity.
 
 ## Temperate fruits
 
 
-**3. Integrating agrophotovoltaic systems into orchard management: Can fruit trees and solar power effectively coexist?**
+**3. Seeded vs. Seedless: Comparative physiology of parthenocarpic and seeded fruits in fruit trees**
 
-*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+*[Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev)*
 
-Agrophotovoltaics (APV) involves the dual use of agricultural land for both crop production and solar energy generation. In this term paper, you will explore whether fruit tree orchards (such as apples, peaches, or cherries) can successfully coexist with solar panels. Investigate the impact of shading on tree growth, flowering, fruit production, fruit quality, and on the occurrence of pests and diseases. How orchard management practices would need to adapt to optimize both solar and agricultural yields? Consider examples of existing APV projects in orchards and their economic and environmental outcomes. What are the potential advantages and disadvantages of integrating APV into commercial orchards?
+In this paper, you will explore parthenocarpy as the development of fruits without fertilization, highlighting its occurrence in various fruit tree species (or maybe other horticultural plants) and its use in horticultural practice. The paper will review the general physiological and molecular mechanisms of parthenocarpy, compare parthenocarpic fruits with seeded fruits within the same species or cultivars, emphasizing differences in fruit set, anatomy, growth patterns, and quality traits such as size and shape. The paper will also address the practical implications of seedlessness for horticultural production, consumer preference, postharvest performance, and breeding strategies.
 
 **4. Chilling requirements and global warming: Can we adjust photoperiod to compensate for winter chill in plants?**
 
-*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+*[Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev)*
 
 Global warming is reducing the accumulation of chilling temperatures necessary for temperate fruit trees to break dormancy and flower properly. In this paper, you will investigate whether manipulating the photoperiod during the winter months could compensate for a lack of chilling. Review the biological and physiological processes behind photoperiod and dormancy in plants (with focus on fruit trees). Present you literature research on how light manipulation (e.g., shortened or extended daylight exposure, certain light spectra, etc.) might affect dormancy and whether the photoperiod can help adjust, reduce or replace chilling needs.
 
 **5. Influences of spring frost protection on the environment**
 
-*[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
+*[Christine Schmitz](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/christine-schmitz)*
 
 Frost protection measures are great for reducing yield losses caused by spring frosts. But how do they influence the environment, within the orchard, in the surrounding area? You could also include social influences. Select a few frost protection measures and collect information, e.g. from scientific and practical literature, to give an overview about the side effects of frost protection.  
 
-**6. Apple fruit color**
+**6. Horticultural and technological approaches to enhance apple fruit coloration**
 
-*[Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/)*
+*[Christine Schmitz](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/christine-schmitz)*
 
-For red and bi-colored apple varieties, fruit color is a crucial factor for fruit quality class and marketing. But how do apples get their color? What are the possible reasons for insufficient fruit coloration? And how could farmers improve the fruit coloring? Give a very brief overview of process of fruit coloring and focus your literature research on reasons for missing color and measures to increase the share of red peel color. 
-
-**7. Rest breaking strategies in temperate fruit trees**
-
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
-
-In many warm growing regions of temperate fruits, trees struggle to accumulate sufficient winter chill to break their dormancy. Climate change appears to be aggrevating this problem. Growers are therefore looking for, and in many cases already applying, strategies to artificially promote dormancy release. This term paper reviews the current state of knowledge on strategies for artificial rest-breaking and discusses the challenges and opportunities.
+This paper will introduce apple peel coloration as a key quality trait for red and bi-colored varieties, emphasizing its role in consumer preference, market value, and classification standards. It will briefly outline the physiological and biochemical basis of fruit color development, focusing on anthocyanin biosynthesis and its regulation by light, temperature, and genetic factors. It will then discuss horticultural practices and technological measures that can enhance peel reddening. Case studies and recent experimental findings will illustrate both the challenges and effective solutions.
 
 ## Berries
 
 
-**8. Berry plants and declining bee communities: Will the berry production still be possible without pollinators?**
+**7. Flower drop and poor fruit set in grapes and currants: Causes, consequences, and control strategies**
 
-*[Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/)*
+*[Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev)*
 
-Many plant species rely on pollinators, such as bees and other insects, that are essential for the fertilization of flowers. Scientists currently express their concerns that year after year there are less and less insects including bees due to the intensive insecticide use in agriculture. Does the yield of berry plants (raspberries, blueberries, currents, blackberries, etc.) also depend on pollinators? If yes, to what extent? Is berry production possible without pollinating insects? In this term paper, you will investigate how pollinator presence affects the pollination efficiency, fruit set, and overall yield of berry crops, and strategies to enhance pollination.
+In commercial grape and currant production, large-scale failure of flowers to develop into berries (commonly referred to as “coulure” or “shatter”) represents a major challenge that can markedly reduce yields. In this paper you will explore the physiological basis of flower drop and poor fruit set in these crops, with particular attention to the processes of flower abscission. The discussion will highlight the influence of carbohydrate availability, hormonal regulation, and pollination success as key determinants of fruit set. In addition, the paper will review management strategies designed to mitigate yield losses, providing insights into both vineyard and currant orchard practices.
 
 
 ## Agroforestry
 
 
-**9. The challenges of agroforestry modeling**
+**8. The challenges of agroforestry modeling**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
 
 Modeling agroforestry systems are more complex than monocultures, so they have presented considerable challenges to the modeling community. This term paper outlines these challenges and reviews how they have been addressed in previous modeling attempts.
 
-**10. Barriers to agroforestry adoption in Germany (or elsewhere)**
+**9. Barriers to agroforestry adoption in Germany (or elsewhere)**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
 
 Many experts agree that agroforestry systems can offer environmental, economic and social benefits to farmers. Yet adoption rates often remain low due to an array of barriers that keep farmers from integrating trees with other agricultural practices. This term paper reviews these barriers and proposed ideas for overcoming them.
 
-**11. Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
+**10. Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
 
 Agroforestry has gained traction in many places, yet its spread in Germany (and many other countries) has been slow. This term paper reviews what types of systems exist and where they can be found (possibly using case studies). It also speculates on the potential distribution within this geographic region.
 
-## Global horticulture for SDGs
+## Global horticulture for SDGs {#SDGs}
 
 
-**12. The contribution of horticulture to the Sustainable Development Goals with a specific focus on SDG 2**
+**11. The contribution of horticulture to the Sustainable Development Goals with a specific focus on SDG 2**
 
-*[Cory Whitney](http://www.hortibonn.de/author/dr.-cory-whitney/)*
+*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
 
 In this term paper you will look into the various contributions horticultural production, processing and consumption make towards achieving the SDGs. You will also take a critical look into possible detrimental developments.
 
-**13. The Sustainable Development Goals and German policy on agroforestry**
+**12. The Sustainable Development Goals and German policy on agroforestry**
 
 *[Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/)*
 
 In this term paper you will look into the implications of SDG relevant German policy and how it relates to horticulture, in particular agroforestry production systems. 
 
-## From Greenhouse Production to Plant Factories
+## From Greenhouse Production to Plant Factories {#plant_factories}
 
 
-**14. Can plant factories safe the world?**
+**13. Can plant factories safe the world?**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 In this term paper you should evaluate which crops are already produced in plant factories (here used as a general term for all indoor farms, vertical farms, or controlled environment farms) and which crops are challenging. For crops already produced in plant factories compare yields and / or energy consumption to conventional farming systems. For crops not produced so far, discuss the challenging factors within a plant factory and how they could be solved.
 
-**15. For heaven`s sake use LED - the challenges in lighting**
+**14. For heaven`s sake use LED - the challenges in lighting**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 One main advantage of greenhouse production is control of environmental conditions. Lighting is not only responsible for plant growth and performance yielding in an horticultural produce. Lighting can also control the quality of produce, it could support plant growth depending on growth stage. So the challenge is, what is the optimal lighting? This term paper should focus on LED lighting. How could we control plant performance and quality by light?
 
-**16. It's all about energy - how photovoltaic can be used for greenhouses and plant factories**
+**15. It's all about energy - how photovoltaic can be used for greenhouses and plant factories**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 Greenhouse production and plant factories depend on energy for light and heating. In this term paper it should be discussed which role photovoltaic will have for a more sustainable plant production. Would this makes a year-round production possible? Discover possible new trends how photovoltaic could be used in the future.
 
 
-## From Urban Horticulture to Social Gardening
+## From Urban Horticulture to Social Gardening {#urban_hort}
 
 
-**17. Back to the roots...**
+**16. Back to the roots...**
 
-[*Thorsten Kraska*](http://www.hortibonn.de/author/dr.-thorsten-kraska/)
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 It seems that horticulture is coming back to the roots, closer to the consumer, and often back into the cities. New forms of horticultural production have been and will be developed in an urban context (e.g community gardens, rooftop greenhouses and more). In this term paper these developments will be reviewed on basis of literature. How will horticultural production in cities look like in the future? What trends can be seen right now and what is the role of horticultural sciences and practice here? (This topic is somewhat related to Vertical farming topic "... up to the skies").
 
-**18. Urban horticulture and the society**
+**17. Urban horticulture and the society**
 
-[*Thorsten Kraska*](http://www.hortibonn.de/author/dr.-thorsten-kraska/)
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 In this term paper the meaning of urban horticulture for society should be discussed. New forms of horticulture raises societal questions. Different topics are possible: (1) Is urban horticulture a common good? (2) Edible landscaping. (3) Urban horticulture and recreation. (4) Bring in your own topic. The aim of this term paper is to think out of the box of "production" to explore the meaning of horticulture for humans and society.
 
-## New plants for a future-competent horticultural production
+## New plants for a future-competent horticultural production {#new_plants}
 
 
-**19. Vegetable production in Germany in the context of the current energy crisis**
+**18. Vegetable production in Germany in the context of the current energy crisis**
 
-*[Jan Ellenberger](http://www.hortibonn.de/author/dr.-jan-ellenberger/)*
+*[Jan Ellenberger](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/jan-ellenberger)*
 
 Vegetable production - especially year-round production under glass - is extremely energy-intensive and in many parts still based on fossil fuels. What does the current energy crisis mean for domestic vegetable production? What are the farms doing, what is the political support and what prices can we expect for locally produced vegetables?
 
-**20. Vegetables in complex production systems**
+**19. Vegetables in complex production systems**
 
-*[Jan Ellenberger](http://www.hortibonn.de/author/dr.-jan-ellenberger/)*
+*[Jan Ellenberger](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/jan-ellenberger)*
 
 The purpose of this paper is to provide an overview of the integration of vegetables into complex production systems. In a global context, it becomes clear that growing similar vegetables on large areas is not the only possible form of production. Can more complex cropping systems also be successful in Germany? Do they even already exist?
 
 
-## Safeguarding Plant Health in Horticulture
+## Safeguarding Plant Health in Horticulture {#safeguarding}
 
 
-**21. How to protect plants in future?**
+**20. How to protect plants in future?**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 Climate change will cause dramatic changes in horticulture. Horticultural production will move more and more to protected cultivation (e.g. tunnels, greenhouses). With that change in production new challenges in diesease management will arise. How we could protect our plants in future against climate change, weather extremes (e.g. drought) and new threats caused by insects or pathogens? In this term paper it should be analysed how climate change forced developments in horticulture (protected cultivation) and how this will affect disease management.
 
-**22. Biostimulants and Biorationals as new and emerging tools in plant health**
+**21. Biostimulants and Biorationals as new and emerging tools in plant health**
 
-*[Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/)*
+*[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 Biostimulants and biorationals are "new" ways to strengthen plants to improve growth and tolerance against environmental stress (biostimulants) or to protect plants in an environmental friendly way against pest and diseases to replace synthetic chemicals. In this term paper the different approaches will be discussed. What are the differences between biostimulants and biorationals? How could they be used effectively to strengthen plant health? A critical review of literature based on examples like humic acid (as biostimulant) or drying linseed oil (as biorational).
 
@@ -167,25 +161,25 @@ Biostimulants and biorationals are "new" ways to strengthen plants to improve gr
 
 *Please contact me if you're interested in any of these, and I'll give you details*
 
-**23. Climate change impacts on fruit tree phenology**
+**22. Climate change impacts on fruit tree phenology**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
 
 This term paper reviews the recent literature regarding climate change impacts on (temperate) fruit tree phenology and their possible implications for production.
 
-**24. Climate change impacts on (selected) horticultural pests and/or diseases**
+**23. Climate change impacts on (selected) horticultural pests and/or diseases**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Prajna Kasargodu Anebagilu](http://www.hortibonn.de/author/prajna-kasargodu-anebagilu/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/prajna-kasargodu-anebagilu)*
 
 This term paper selects a specific pest or disease (or a group of pests and diseases) of selected horticultural crops and reviews the evidence on how climate change is expected to affect it. It also critically evaluates the reliability of these expectations and speculates on implications for future production.
 
-**25. The use of climate change denial strategies on other controversial issues**
+**24. The use of climate change denial strategies on other controversial issues**
 
-*[Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), [Prajna Kasargodu Anebagilu](http://www.hortibonn.de/author/prajna-kasargodu-anebagilu/)*
+*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/prajna-kasargodu-anebagilu)*
 
 The optional literature discusses "climate change denial strategies" that opponents of aggressive mitigation actions are pursuing. This paper selects another important societal debate with relevance to horticulture or agriculture and looks for applications of similar strategies there.
 
-## Gender in Horticulture
+## Gender in Horticulture {#gender}
 
 
 Unfortunately, we can't offer any term papers on this topic, unless you come up with your own idea.
@@ -193,12 +187,12 @@ Unfortunately, we can't offer any term papers on this topic, unless you come up 
 ## Assessing Environmental Impacts
 
 
-**26. Better buy regional fruits and veggies? The environmental impact of transportation in context**
-*[Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/), [Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/)*
+**25. Better buy regional fruits and veggies? The environmental impact of transportation in context**
+*[Johannes Kopton](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/johannes-kopton), [Lars Zimmermann](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/lars-zimmermann)*
 
 Tomatoes from Spain, bananas from Indonesia, apples from Chile. Horticultural products can come a long way, quite literally. Or we might buy them from the farm just around the corner. How does it impact the environmental footprint? Is regional always better?
 
-**27. Organic or integrated production - sustainability in apple production**
-*[Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/), [Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/)*
+**26. Organic or integrated production - sustainability in apple production**
+*[Lars Zimmermann](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/lars-zimmermann), [Johannes Kopton](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/johannes-kopton)*
 There are two basic cultivation paradigms in apple growing: Organic and integrated production. In organic cultivation, no synthetic pesticides and fertilizers are used, but more intensive use of machinery is required. How do the environmental footprints of the two cultivation methods differ? Are organically produced apples really more sustainable?
 
