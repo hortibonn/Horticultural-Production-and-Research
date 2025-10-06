@@ -1,5 +1,5 @@
 # Impressum {-#Impressum}
 
-[Click here to find the impressum](http://inresgb-lehre.iaas.uni-bonn.de/impressum/) 
+[Click here to find the impressum](https://www.gartenbauwissenschaften.uni-bonn.de/imprint) 
 
 <!-- # References {-#refs} -->

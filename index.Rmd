@@ -43,23 +43,23 @@ knitr::write_bib(c(
 
 <!-- **Welcome to Horticultural Production and Research** -->
 
-*by [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/)*
+*by [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
 
-This is a module offered to students of the MSc programs of [Crop Science](https://www.lf.uni-bonn.de/en/studying/master/npw) and [Agricultural Sciences and Resource Management in the Tropics and Subtropics (ARTS)](https://www.arts.uni-bonn.de/) at the [University of Bonn](https://www.uni-bonn.de/the-university?set_language=en).
+This is a module offered to students of the MSc programs of [Crop Science](https://www.aei.uni-bonn.de/de/studium/studiengaenge/msc-npw) and [Agricultural Sciences and Resource Management in the Tropics and Subtropics (ARTS)](https://www.arts.uni-bonn.de/) at the [University of Bonn](https://www.uni-bonn.de/en/university/).
 
-Let me quickly introduce myself. My name is [Eike Luedeling](http://www.hortibonn.de/author/prof.-dr.-eike-luedeling/), and I lead the [Horticultural Sciences group](http://www.hortibonn.de) in the [Institute of Crop Science and Resource Conservation (INRES)](https://www.inres.uni-bonn.de/collage-startseite-1-en?set_language=en). In bringing this module to you, I'm supported by a strong team:
+Let me quickly introduce myself. My name is [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), and I lead the [Horticultural Sciences group](https://www.gartenbauwissenschaften.uni-bonn.de/en) in the [Institute of Crop Science and Resource Conservation (INRES)](https://www.inres.uni-bonn.de/de). In bringing this module to you, I'm supported by a strong team:
 
-* [Anton Milyaev](http://inresgb-lehre.iaas.uni-bonn.de/author/dr.-anton-milyaev/),
-* [Christine Schmitz](http://www.hortibonn.de/author/christine-schmitz/),
-* [Cory Whitney](http://www.hortibonn.de/author/dr.-cory-whitney/),
-* [Hannah Jaenicke](http://www.hortibonn.de/author/dr.-hannah-jaenicke/),
-* [Jan Ellenberger](http://www.hortibonn.de/author/dr.-jan-ellenberger/),
-* [Johannes Kopton](http://www.hortibonn.de/author/johannes-kopton/),
-* [Katja Schiffers](http://www.hortibonn.de/author/dr.-katja-schiffers/),
-* [Lars Zimmermann](http://www.hortibonn.de/author/lars-zimmermann/),
-* [Marcos Jimenez Martinez](http://www.hortibonn.de/author/marcos-jimenez-martinez/),
-* [Prajna Kasargodu Anebagilu](http://www.hortibonn.de/author/prajna-kasargodu-anebagilu/),
-* [Thorsten Kraska](http://www.hortibonn.de/author/dr.-thorsten-kraska/),
+* [Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev),
+* [Christine Schmitz](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/christine-schmitz),
+* [Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney),
+* [Hannah Jaenicke](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff),
+* [Jan Ellenberger](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/jan-ellenberger),
+* [Johannes Kopton](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/johannes-kopton),
+* [Katja Schiffers](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/katja-schiffers),
+* [Lars Zimmermann](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/lars-zimmermann),
+* [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez),
+* [Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/prajna-kasargodu-anebagilu),
+* [Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska),
 
 The materials assembled on this website support the lecture on **Horticultural Production and Research** in the Winter Semester of 2023/2024. The current plan is to offer these lectures 'in presence', i.e. we'll all meet in the lecture hall Auf dem Hügel 6 in Bonn-Endenich.
 
