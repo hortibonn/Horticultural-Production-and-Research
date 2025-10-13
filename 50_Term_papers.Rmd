@@ -1,17 +1,17 @@
 # Term paper topics
 
-## Introduction to horticulture {#introhort}
+## Introduction to horticulture
 
 
 **1. Horticultural vs. agricultural staple crop research capacity and funding - a comparison**
 
-*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
+<!-- *[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)* -->
 
 This term paper compares available research capacity and funding for horticultural crops and staple crop agriculture. This evaluation can focus on a particular geographic context, for which it summarizes the research landscape (universities, other institutes) and funding streams.
 
 **2. Horticultural diversity and its regions of origin**
 
-*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
+<!-- *[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)* -->
 
 This paper summarizes the evidence on the diversity of horticultural crops that humanity makes use of. It also reviews the literature on the geographic (and possibly cultural) origins of this diversity.
 
@@ -57,23 +57,23 @@ In commercial grape and currant production, large-scale failure of flowers to de
 
 **8. The challenges of agroforestry modeling**
 
-*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
+*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
 
 Modeling agroforestry systems are more complex than monocultures, so they have presented considerable challenges to the modeling community. This term paper outlines these challenges and reviews how they have been addressed in previous modeling attempts.
 
 **9. Barriers to agroforestry adoption in Germany (or elsewhere)**
 
-*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
+*[Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/)*
 
 Many experts agree that agroforestry systems can offer environmental, economic and social benefits to farmers. Yet adoption rates often remain low due to an array of barriers that keep farmers from integrating trees with other agricultural practices. This term paper reviews these barriers and proposed ideas for overcoming them.
 
 **10. Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
 
-*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez)*
+*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
 
 Agroforestry has gained traction in many places, yet its spread in Germany (and many other countries) has been slow. This term paper reviews what types of systems exist and where they can be found (possibly using case studies). It also speculates on the potential distribution within this geographic region.
 
-## Global horticulture for SDGs {#SDGs}
+## Global horticulture for SDGs
 
 
 **11. The contribution of horticulture to the Sustainable Development Goals with a specific focus on SDG 2**
@@ -88,7 +88,7 @@ In this term paper you will look into the various contributions horticultural pr
 
 In this term paper you will look into the implications of SDG relevant German policy and how it relates to horticulture, in particular agroforestry production systems. 
 
-## From Greenhouse Production to Plant Factories {#plant_factories}
+## From Greenhouse Production to Plant Factories
 
 
 **13. Can plant factories safe the world?**
@@ -110,7 +110,7 @@ One main advantage of greenhouse production is control of environmental conditio
 Greenhouse production and plant factories depend on energy for light and heating. In this term paper it should be discussed which role photovoltaic will have for a more sustainable plant production. Would this makes a year-round production possible? Discover possible new trends how photovoltaic could be used in the future.
 
 
-## From Urban Horticulture to Social Gardening {#urban_hort}
+## From Urban Horticulture to Social Gardening
 
 
 **16. Back to the roots...**
@@ -125,7 +125,7 @@ It seems that horticulture is coming back to the roots, closer to the consumer, 
 
 In this term paper the meaning of urban horticulture for society should be discussed. New forms of horticulture raises societal questions. Different topics are possible: (1) Is urban horticulture a common good? (2) Edible landscaping. (3) Urban horticulture and recreation. (4) Bring in your own topic. The aim of this term paper is to think out of the box of "production" to explore the meaning of horticulture for humans and society.
 
-## New plants for a future-competent horticultural production {#new_plants}
+## New plants for a future-competent horticultural production
 
 
 **18. Vegetable production in Germany in the context of the current energy crisis**
@@ -141,7 +141,7 @@ Vegetable production - especially year-round production under glass - is extreme
 The purpose of this paper is to provide an overview of the integration of vegetables into complex production systems. In a global context, it becomes clear that growing similar vegetables on large areas is not the only possible form of production. Can more complex cropping systems also be successful in Germany? Do they even already exist?
 
 
-## Safeguarding Plant Health in Horticulture {#safeguarding}
+## Safeguarding Plant Health in Horticulture
 
 
 **20. How to protect plants in future?**
@@ -179,7 +179,7 @@ This term paper selects a specific pest or disease (or a group of pests and dise
 
 The optional literature discusses "climate change denial strategies" that opponents of aggressive mitigation actions are pursuing. This paper selects another important societal debate with relevance to horticulture or agriculture and looks for applications of similar strategies there.
 
-## Gender in Horticulture {#gender}
+## Gender in Horticulture
 
 
 Unfortunately, we can't offer any term papers on this topic, unless you come up with your own idea.

@@ -1,7 +1,7 @@
-# Introduction to horticulture {#introhort}
-*by [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
+# Introduction to horticulture
+*by [Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
-In week 1, we're not in inverted classrom mode yet, so this week's content will consist of an introductory lecture about horticulture.
+In week 1, we're not in inverted classroom mode yet, so this week's content will consist of an introductory lecture about horticulture.
 
 [Here are the slides on the introductory lecture on the colorful world of horticulture.](https://ecampus.uni-bonn.de/goto_ecampus_file_3152106_download.html)
 
@@ -9,12 +9,12 @@ In week 1, we're not in inverted classrom mode yet, so this week's content will 
 
 **Horticultural vs. agricultural staple crop research capacity and funding - a comparison**
 
-*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
+<!-- *[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)* -->
 
 This term paper compares available research capacity and funding for horticultural crops and staple crop agriculture. This evaluation can focus on a particular geographic context, for which it summarizes the research landscape (universities, other institutes) and funding streams.
 
 **Horticultural diversity and its regions of origin**
 
-*[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
+<!-- *[Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)* -->
 
 This paper summarizes the evidence on the diversity of horticultural crops that humanity makes use of. It also reviews the literature on the geographic (and possibly cultural) origins of this diversity.

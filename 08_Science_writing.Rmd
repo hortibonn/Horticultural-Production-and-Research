@@ -1,10 +1,12 @@
 # Scientific writing {#sciWrite}
-*by Eike Lüdeling, Katja Schiffers*
+*by [Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney) *
+<!-- *by Eike Lüdeling, Katja Schiffers* -->
 
 Here we collect our inputs on scientific writing.
 
 ## General advice on writing a manuscript
 
+Let's listen to tips from *[Prof. Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
 [There are many ways to write a scientific manuscript, but we've summarized what we consider a good strategy here](https://ecampus.uni-bonn.de/goto_ecampus_file_3597117_download.html)
 
 ## Conceptual frameworks
@@ -15,3 +17,7 @@ Here we collect our inputs on scientific writing.
 ## Citing
 
 [Some thoughts on proper citing in academic writing.](https://ecampus.uni-bonn.de/goto_ecampus_file_3597116_download.html)
+
+## Instructions
+
+Please prepare a short essay (2 paragraphs) on one of the lecture topics so far. Bring 2 printed copies to class, we'll review it together.

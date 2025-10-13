@@ -3,11 +3,11 @@ title: "Horticultural Production and Research"
 author: "Eike Luedeling et al."
 date: "`r Sys.Date()`"
 output:
-  bookdown::pdf_book:
-    toc: yes
   bookdown::tufte_html_book:
     toc: yes
     css: toc.css
+  bookdown::pdf_book:
+    toc: yes
 # logo: "data/HPR_logo.jpg"
 documentclass: book
 bibliography:
@@ -42,28 +42,33 @@ knitr::write_bib(c(
 <!-- ![Horticultural Production and Research](data/HPR_Logo.jpg){width=50%} -->
 
 <!-- **Welcome to Horticultural Production and Research** -->
-
-*by [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
+*by [Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
+<!-- *by [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)* -->
 
 This is a module offered to students of the MSc programs of [Crop Science](https://www.aei.uni-bonn.de/de/studium/studiengaenge/msc-npw) and [Agricultural Sciences and Resource Management in the Tropics and Subtropics (ARTS)](https://www.arts.uni-bonn.de/) at the [University of Bonn](https://www.uni-bonn.de/en/university/).
 
-Let me quickly introduce myself. My name is [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling), and I lead the [Horticultural Sciences group](https://www.gartenbauwissenschaften.uni-bonn.de/en) in the [Institute of Crop Science and Resource Conservation (INRES)](https://www.inres.uni-bonn.de/de). In bringing this module to you, I'm supported by a strong team:
+Let me quickly introduce myself. My name is [Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska),
+<!-- [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling),  -->
+and I am part of the [Horticultural Sciences group](https://www.gartenbauwissenschaften.uni-bonn.de/en) in the [Institute of Crop Science and Resource Conservation (INRES)](https://www.inres.uni-bonn.de/de) and the lead lecturer for this course. In bringing this module to you, I'm supported by a strong team:
 
 * [Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev),
 * [Christine Schmitz](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/christine-schmitz),
 * [Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney),
-* [Hannah Jaenicke](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff),
-* [Jan Ellenberger](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/jan-ellenberger),
+<!-- * [Hannah Jaenicke](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff), -->
+<!-- * [Jan Ellenberger](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/jan-ellenberger), -->
 * [Johannes Kopton](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/johannes-kopton),
 * [Katja Schiffers](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/katja-schiffers),
-* [Lars Zimmermann](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/lars-zimmermann),
-* [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez),
+<!-- * [Lars Zimmermann](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/lars-zimmermann), -->
+<!-- * [Marcos Jimenez Martinez](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/marcos-jimenez-martinez), -->
 * [Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/prajna-kasargodu-anebagilu),
-* [Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska),
+* [Tina Beuchelt](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/members-directory/tina-beuchelt)
+* Cristobal Palacios, and 
+* Lectures from [Prof. Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)
+<!-- * [Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska), -->
 
-The materials assembled on this website support the lecture on **Horticultural Production and Research** in the Winter Semester of 2023/2024. The current plan is to offer these lectures 'in presence', i.e. we'll all meet in the lecture hall Auf dem Hügel 6 in Bonn-Endenich.
+The materials assembled on this website support the lecture on **Horticultural Production and Research** in the Winter Semester of 2025/2026. The current plan is to offer these lectures 'in presence', i.e. we'll all meet in the lecture hall Auf dem Hügel 6 in Bonn-Endenich.
 
-The lecture times are ***Wednesdays 08:30-10:00 and Thursdays 12:15-13:45*** between 11th October 2023 and 1st February 2024.
+The lecture times are ***Wednesdays 08:30-10:00 and Thursdays 12:00-14:00*** between 15th October 2025 and 5th February 2026.
 
 ## Module content {-#modulecontent .unlisted}
 
@@ -91,7 +96,7 @@ There's no exam in this module, but you'll be required to deliver a few other th
 * Write and submit succinct answers to the practice questions (10%).
 * Lead at least two paper discussion sessions and participate actively in discussions led by others (20%).
 * Prepare a term paper on one of the lecture topics (40%).
-* Present the content of your term paper to your peers towards the end of the paper (20%).
+* Present the content of your term paper to your peers towards the end of the semester (20%).
 
 You're also expected to come to class prepared and participate actively in the interactive sessions and paper discussions.
 
@@ -118,21 +123,42 @@ Here's a tentative schedule for this module (some details may still change):
 <!-- - Week 14: Student presentations -->
 <!-- - Week 15: Student presentations -->
 
+<!-- 2024 Schedule -->
+<!-- - Week 01: [Introduction to horticulture] -->
+<!-- - Week 02: [Temperate fruits] -->
+<!-- - Week 03: [Berries] -->
+<!-- - Week 04: [Agroforestry] -->
+<!-- - Week 05: [Global horticulture for SDGs] -->
+<!-- - Week 06: [From Greenhouse Production to Plant Factories] -->
+<!-- - Week 07: [From Urban Horticulture to Social Gardening] -->
+<!-- - Week 08: [Scientific writing] and [New plants for a future-competent horticultural production] part 1 -->
+<!-- - Week 09: [New plants for a future-competent horticultural production] part 2 -->
+<!-- - Week 10: [Safeguarding Plant Health in Horticulture] -->
+<!-- - Week 11: [Climate Change and Horticulture] -->
+<!-- - Week 12: [Gender in Horticulture] -->
+<!-- - Week 13: [Assessing Environmental Impacts] -->
+<!-- - Week 14: Student presentations -->
+<!-- - Week 15: Student presentations -->
+
 - Week 01: [Introduction to horticulture]
 - Week 02: [Temperate fruits]
 - Week 03: [Berries]
-- Week 04: [Agroforestry]
-- Week 05: [Global horticulture for SDGs]
-- Week 06: [From Greenhouse Production to Plant Factories]
-- Week 07: [From Urban Horticulture to Social Gardening]
-- Week 08: [Scientific writing] and [New plants for a future-competent horticultural production] part 1
-- Week 09: [New plants for a future-competent horticultural production] part 2
+- Week 04: [From Greenhouse Production to Plant Factories]
+- Week 05: [From Urban Horticulture to Social Gardening]
+- Week 06: Fruit Production in the Southern Hemisphere
+- Week 07: [Agroforestry]
+- Week 08: Dies Academicus and [Scientific writing]
+- Week 09: [Global horticulture for SDGs]
 - Week 10: [Safeguarding Plant Health in Horticulture]
-- Week 11: [Climate Change and Horticulture]
+- 19th December, 2025: Submission of first draft of your term paper
+- Week 11: [New plants for a future-competent horticultural production]
+- 13th January, 2026: Feedback by supervisors on your first draft
 - Week 12: [Gender in Horticulture]
+<!-- - Week 13: [Climate Change and Horticulture] -->
 - Week 13: [Assessing Environmental Impacts]
-- Week 14: Student presentations
+- Week 14: Term paper Consultation
 - Week 15: Student presentations
+- 5th March, 2026 at 17:00 CET: Deadline for term paper submission
 
 The contents and instructions will be added to this website in the course of the semester.
 

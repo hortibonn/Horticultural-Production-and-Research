@@ -1,5 +1,6 @@
-# Global horticulture for SDGs {#SDGs}
-*by [Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney), [Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/), [Simone Kathrin Kriesemer](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-simone-kathrin-kriesemer/), [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)*
+# Global horticulture for SDGs
+*by [Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney) and [Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/)*
+<!-- [Simone Kathrin Kriesemer](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-simone-kathrin-kriesemer/), [Eike Luedeling](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/eike-luedeling)* -->
 
 In 2015 the United Nations Member States adopted the [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda). The agenda provides a blueprint for a sustainable future with 17 [Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs). In this lecture we will discuss the relationship between these SDGs and global horticultural production.
 
@@ -18,8 +19,8 @@ Please review the SDGs and their targets with the [UN SDG targets map](https://m
 ## Questions
 
 1. Name a potential synergy between two or more SDGs as they relate to horticultural production.
-1. Answer the same question but talk about trade-offs.
-1. Name one aspect of the development strategy in your country that is related to the SDGs and horticulture.
+2. Answer the same question but talk about trade-offs.
+3. Name one aspect of the development strategy in your country that is related to the SDGs and horticulture.
 
 
 ## Instructions

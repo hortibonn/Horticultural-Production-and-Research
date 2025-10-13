@@ -9,15 +9,16 @@ rmd_files:
 - 01_Intro_horticulture.Rmd
 - 02_Temperate_fruits.Rmd
 - 03_Berries.Rmd
-- 04_Agroforestry.Rmd
-- 05_SDGs.Rmd
 - 06_From_Greenhouse_Production_to_Plant_Factories.Rmd
 - 07_From_Urban_Horticulture_to_Social_Gardening.Rmd
+# - Fruit Production in the Southern Hemisphere
+- 04_Agroforestry.Rmd
 - 08_Science_writing.Rmd
-- 09_New_plants_for_a_future-competent_Hortiultural_Production.Rmd
+- 05_SDGs.Rmd
 - 10_Safeguarding_Plant_Health_in_Horticulture.Rmd
-- 11_Climate_Change_and_Horticulture.Rmd
+- 09_New_plants_for_a_future-competent_Hortiultural_Production.Rmd
 - 12_Gender_in_Horticulture.Rmd
+# - 11_Climate_Change_and_Horticulture.Rmd
 - 13_Assessing_Environmental_Impacts.Rmd
 - 50_Term_papers.Rmd
 # - 97_Template.Rmd
