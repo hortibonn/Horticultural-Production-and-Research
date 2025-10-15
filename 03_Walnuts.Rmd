@@ -1,0 +1,50 @@
+# Fruit Production in the Southern Hemisphere
+*by [Cristobal Palacios-Peralta](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff)*
+
+
+## Materials
+
+For this week’s session, you are required to take a look at the  supplementary materials by Cristobal Palacios-Peralta. You can find these documents here:
+
+* Watch the Fruits from Chile Video below
+<div style="margin-left: 0.5em;">
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/OpcE1VIhng4?si=teUbQjMX21NaVl2C"
+title="Fruits from Chile Video"
+frameborder="0"
+allowfullscreen></iframe>
+</div>
+<!-- *[Fruits from Chile Video](https://www.youtube.com/watch?v=OpcE1VIhng4) -->
+* Take a look at the following interesting materials
+  * [Fruits from Chile - Website](https://fruitsfromchile.com/about/chile/)
+  * [Shelled Walnuts color chart](https://www.chilenut.cl/wp-content/uploads/2021/07/WALNUT-COLOR-CHART_CHILENUT_210324.pdf) 
+  * [Damage and defects of Walnuts](https://www.chilenut.cl/wp-content/uploads/2021/07/WALNUT-DEFECTS-DAMAGE_CHILENUT.pdf)
+
+
+### Questions
+
+1. If you are a Chilean farmer, what are two fruits you would produce and why?
+2. Name two biggest importers of Chilean fruits in the world and indicate their value chain. 
+3. Among the defects or damages listed in the chart in the supplementary material, which do you think could have the greatest impact on the price of exported walnuts?
+4. In your opinion, under the current climate change scenario, can walnuts adapt effectively to its challenges? Why?
+
+## Instructions
+In this class, we will learn about the importance of fruit production in South America, especially in Chile, as well as the advantages and challenges under climate change conditions. We will deepen our knowledge of walnut production, agronomic management related to the physiology of this fruit species.
+
+
+## Literature for discussion
+Combined effects of water stress and salinity on growth, physiological, and biochemical traits in two walnut genotypes.
+  
+Climate change has led to a decline in annual precipitation, intensifying water deficits during the dry season and presenting significant challenges for sustainable orchard management in Mediterranean climates. Walnut production is highly dependent on water availability, which constitutes a major constraint for yield and fruit quality. In this study you will find the physiological and biochemical responses of walnut trees to water and salinity stress, with a particular focus on photosynthetic performance, non-structural carbohydrate (NSC) dynamics, Cl⁻ allocation, ROS accumulation, and osmotic adjustment across different walnut genotypes. Understanding the physiological mechanisms that fruit trees employ to resist, water and salinity stress, and the influence of genotype on these responses, is critical for developing strategies to cultivate fruit trees under the context of climate change.
+
+We will discuss the following paper: [Wang, B., Zhang, J., Pei, D., & Yu, L. (2021). Combined effects of water stress and salinity on growth, physiological, and biochemical traits in two walnut genotypes. Physiologia Plantarum, 172(1),176-187.](https://onlinelibrary.wiley.com/doi/10.1111/ppl.13316) Use university vpn to access this paper.
+
+Read the paper and discuss the strategies that help plants avoid water and salinity stress. Consider what other mechanisms plants may use to prevent or minimize water stress. Which other fruit tree species do you think might have a better capacity to tolerate water stress? What agricultural management do you think could be useful to mitigate the effects of water deficit and decrease soil electric conductivity?
+
+## Term paper topics
+
+**Irrigation Management: Physiological and Productive Effects on Mediterranean Fruit Trees**
+
+*[Cristobal Palacios-Peralta](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff)*
+
+Water management is one of the most critical factors determining yield and fruit quality. Higher yields and larger fruit size are mainly influenced by the amount and timing of water supplied during the growing season. In this paper, you will review the physiological responses related to photosynthesis, vegetative growth, fruit growth, development and composition, and yield in temperate fruit trees under drought conditions, as well as the potential consequences on productivity in the subsequent season. Also you should review which strategies are effective to avoid the negative effect of drought and increase the Water use efficiency (WUE). 

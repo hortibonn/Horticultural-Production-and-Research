@@ -11,7 +11,7 @@ rmd_files:
 - 03_Berries.Rmd
 - 06_From_Greenhouse_Production_to_Plant_Factories.Rmd
 - 07_From_Urban_Horticulture_to_Social_Gardening.Rmd
-# - Fruit Production in the Southern Hemisphere
+- 03_Walnuts.Rmd
 - 04_Agroforestry.Rmd
 - 08_Science_writing.Rmd
 - 05_SDGs.Rmd

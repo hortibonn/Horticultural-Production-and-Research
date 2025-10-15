@@ -145,7 +145,7 @@ Here's a tentative schedule for this module (some details may still change):
 - Week 03: [Berries]
 - Week 04: [From Greenhouse Production to Plant Factories]
 - Week 05: [From Urban Horticulture to Social Gardening]
-- Week 06: Fruit Production in the Southern Hemisphere
+- Week 06: [Fruit Production in the Southern Hemisphere]
 - Week 07: [Agroforestry]
 - Week 08: Dies Academicus and [Scientific writing]
 - Week 09: [Global horticulture for SDGs]
