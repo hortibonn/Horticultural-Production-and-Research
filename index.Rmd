@@ -86,7 +86,7 @@ We'll also have sessions where we discuss the content of scientific publications
 
 You'll receive most information related to the class via this website.
 
-We also invite you to join the Slack workspace for this module. [Slack](https://slack.com/intl/en-de/) is a platform that facilitates collaboration within teams or organizations that we've found very effective for organizing class contents. The invitation to Slack is on [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2700570.html) (you'll need your Uni-ID to log in). Please sign up with your university email address. We'll share announcements through Slack, and we also encourage you to organize your group work via this platform. You'll get a brief introduction into Slack in our first session.
+We also invite you to join the Slack workspace for this module. [Slack](https://slack.com/intl/en-de/) is a platform that facilitates collaboration within teams or organizations that we've found very effective for organizing class contents. The invitation to Slack is on [eCampus](https://ecampus.uni-bonn.de/goto.php?target=crs_3851928) (you'll need your Uni-ID to log in). Please sign up with your university email address. We'll share announcements through Slack, and we also encourage you to organize your group work via this platform. You'll get a brief introduction into Slack in our first session.
 
 ## Grading {-#grading .unlisted}
 

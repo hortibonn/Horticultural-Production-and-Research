@@ -4,12 +4,12 @@
 
 ## Materials
 
-For this week’s session, you are required to take a look at the presentation and supplementary materials by Dr. Anton Milyaev. You can find these documents here:
+For this week’s session, you are required to take a look at the presentation and supplementary materials by Dr. Anton Milyaev. You can find these documents here: (You need the module password from [eCampus](https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&ref_id=3924667) to access these files.)
 
-* [Slides](https://uni-bonn.sciebo.de/s/ce4m9NREzdFzJk9) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
-* [Cultivation of blueberry](https://uni-bonn.sciebo.de/s/5yERpn4MkPD5Kkz) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
-* [Cultivation of raspberry](https://uni-bonn.sciebo.de/s/dpNHQfxHZQFCoHZ) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
-* [Cultivation of currants](https://uni-bonn.sciebo.de/s/BPfDErC8SiwCwzb) (password [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html))
+* [Slides](https://uni-bonn.sciebo.de/s/ce4m9NREzdFzJk9)
+* [Cultivation of blueberry](https://uni-bonn.sciebo.de/s/5yERpn4MkPD5Kkz)
+* [Cultivation of raspberry](https://uni-bonn.sciebo.de/s/dpNHQfxHZQFCoHZ)
+* [Cultivation of currants](https://uni-bonn.sciebo.de/s/BPfDErC8SiwCwzb)
 
 ### Questions
 
@@ -22,7 +22,7 @@ This week, we also expect to take you for a short field trip to visit a demonstr
 
 ## Literature for discussion
 
-For the berry week, we will discuss the following paper: [Iñiguez-Moreno et al. 2024. Solutions for Postharvest Berry Protection: Natural Edible Coatings. Food Bioprocess Technol 17, 3483–3505.](https://uni-bonn.sciebo.de/s/k111JI1bNhWsMeb), accessible with the password from [here](https://ecampus.uni-bonn.de/goto_ecampus_copa_3530257.html)).
+For the berry week, we will discuss the following paper: [Iñiguez-Moreno et al. 2024. Solutions for Postharvest Berry Protection: Natural Edible Coatings. Food Bioprocess Technol 17, 3483–3505.](https://uni-bonn.sciebo.de/s/k111JI1bNhWsMeb), accessible with the password from [here](https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&ref_id=3924667)).
 
 Read the paper and discuss the strategies that help extend storage period and shelf life of berries. Think of your own ideas on how to further improve post-harvest berry quality.
 
