@@ -59,7 +59,6 @@ materials-7
 instructions-9
 further-reading
 literature-for-discussion-8
-video-transcript-material-3
 term-paper-topics-7
 gender-in-horticulture
 labor_gender_materials
@@ -77,6 +76,7 @@ term-paper-topics-9
 introduction-to-horticulture-1
 temperate-fruits-1
 berries-1
+fruit-production-in-the-southern-hemisphere-1
 agroforestry-1
 global-horticulture-for-sdgs-1
 from-greenhouse-production-to-plant-factories-1
@@ -85,4 +85,3 @@ new-plants-for-a-future-competent-horticultural-production-1
 safeguarding-plant-health-in-horticulture-1
 climate-change-and-horticulture
 gender-in-horticulture-1
-assessing-environmental-impacts-1
