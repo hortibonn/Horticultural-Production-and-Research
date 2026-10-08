@@ -2,12 +2,6 @@
 title: "Horticultural Production and Research"
 author: "Eike Luedeling et al."
 date: "`r Sys.Date()`"
-output:
-  bookdown::tufte_html_book:
-    toc: yes
-    css: toc.css
-  bookdown::pdf_book:
-    toc: yes
 # logo: "data/HPR_logo.jpg"
 documentclass: book
 bibliography:
@@ -16,16 +10,10 @@ bibliography:
 - bibliography.bib
 biblio-style: apalike
 link-citations: yes
-description: In this lecture we talk about Horticultural Production Production and Research.
+description: In this lecture we talk about Horticultural Production and Research.
 site: bookdown::bookdown_site
 ---
 
-
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
 
 
 ```{r include=FALSE}
