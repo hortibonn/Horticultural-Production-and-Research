@@ -15,99 +15,56 @@ This term paper compares available research capacity and funding for horticultur
 
 This paper summarizes the evidence on the diversity of horticultural crops that humanity makes use of. It also reviews the literature on the geographic (and possibly cultural) origins of this diversity.
 
+## Assessing Environmental Impacts
+
+
+**3. Better buy regional fruits and veggies? The environmental impact of transportation in context**
+*[Johannes Kopton](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/johannes-kopton), [Katja Schiffers](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/katja-schiffers)*
+
+Tomatoes from Spain, bananas from Indonesia, apples from Chile. Horticultural products can come a long way, quite literally. Or we might buy them from the farm just around the corner. How does it impact the environmental footprint? Is regional always better?
+
+**4. Organic or integrated production - sustainability in apple production**
+*[Katja Schiffers](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/katja-schiffers), [Johannes Kopton](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/johannes-kopton)*
+There are two basic cultivation paradigms in apple growing: Organic and integrated production. In organic cultivation, no synthetic pesticides and fertilizers are used, but more intensive use of machinery is required. How do the environmental footprints of the two cultivation methods differ? Are organically produced apples really more sustainable?
+
 ## Temperate fruits
 
 
 
-**3. Current research on foliar fertilization in pome fruit production**
+**5. Current research on foliar fertilization in pome fruit production**
 
 *[Christine Schmitz](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/christine-schmitz)*
 
 Foliar fertilization is a widely used practice in pome fruit production. However, some experts argue that its benefits are often overestimated. In this term paper, provide a brief overview of the principles of foliar fertilization, including the mechanisms of nutrient uptake through leaves and the nutrients that are commonly applied as foliar sprays. Subsequently, review and summarize current research on foliar fertilization in pome fruit production. Describe the foliar fertilization strategies that have been investigated and the effects that have been observed on trees and fruits. How consistent are the reported results across different studies? Finally, critically discuss the practical relevance of the research findings for commercial fruit production.  
 
-**4. Fruit doubling in stone fruits**
+**6. Fruit doubling in stone fruits**
 
 *[Christine Schmitz](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/christine-schmitz)*
 
 Double fruits may appear attractive at first glance when observed in the orchard, but they are not marketable and therefore represent a major challenge in stone fruit production. In this term paper, provide a brief overview of the physiological background of fruit doubling in stone fruits. Explain how double fruits develop and which factors (e.g., environmental conditions and cultural practices) contribute to their formation. Which management strategies can help fruit growers reduce the incidence of double fruits, and how effective and feasible are these strategies under commercial orchard conditions?
 
-**5. Factors influencing consumer preferences and apple purchase decisions**
+**7. Factors influencing consumer preferences and apple purchase decisions**
 
 *[Christine Schmitz](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/christine-schmitz)*
 
 Consumer preferences play a crucial role in the success of apple varieties on the market. While growers and breeders often focus on yield, disease resistance, and fruit quality, consumers ultimately decide whether a new variety will be successful. In this term paper, you should provide an overview of the factors that influence consumer preferences when purchasing and consuming apples. Review and summarize current research on consumer preferences for apple fruit quality, including sensory attributes such as sweetness, acidity, texture, juiciness, aroma, and appearance, as well as non-sensory attributes such as origin, sustainability, production system, and branding. Discuss whether consumer preferences differ among countries, cultures, or consumer groups. Finally, evaluate how consistent the research results are and which characteristics breeders and fruit growers should prioritize to improve the market acceptance of new apple varieties.
 
-## Berries
-
-
-**6. Flower drop and poor fruit set in grapes and currants: Causes, consequences, and control strategies**
-
-*[Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev)*
-
-In commercial grape and currant production, large-scale failure of flowers to develop into berries (commonly referred to as “coulure” or “shatter”) represents a major challenge that can markedly reduce yields. In this paper you will explore the physiological basis of flower drop and poor fruit set in these crops, with particular attention to the processes of flower abscission. The discussion will highlight the influence of carbohydrate availability, hormonal regulation, and pollination success as key determinants of fruit set. In addition, the paper will review management strategies designed to mitigate yield losses, providing insights into both vineyard and currant orchard practices.
-
-
-## Fruit Production in the Southern Hemisphere
-
-
-**7. Irrigation Management: Physiological and Productive Effects on Mediterranean Fruit Trees**
-
-*[Cristobal Palacios-Peralta](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff)*
-
-Water management is one of the most critical factors determining yield and fruit quality. Higher yields and larger fruit size are mainly influenced by the amount and timing of water supplied during the growing season. In this paper, you will review the physiological responses related to photosynthesis, vegetative growth, fruit growth, development and composition, and yield in temperate fruit trees under drought conditions, as well as the potential consequences on productivity in the subsequent season. Also you should review which strategies are effective to avoid the negative effect of drought and increase the Water use efficiency (WUE).
-
-## Agroforestry
-
-
-**8. The challenges of agroforestry modeling**
-
-*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
-
-Modeling agroforestry systems are more complex than monocultures, so they have presented considerable challenges to the modeling community. This term paper outlines these challenges and reviews how they have been addressed in previous modeling attempts.
-
-**9. Barriers to agroforestry adoption in Germany (or elsewhere)**
-
-*[Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/)*
-
-Many experts agree that agroforestry systems can offer environmental, economic and social benefits to farmers. Yet adoption rates often remain low due to an array of barriers that keep farmers from integrating trees with other agricultural practices. This term paper reviews these barriers and proposed ideas for overcoming them.
-
-**10. Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
-
-*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
-
-Agroforestry has gained traction in many places, yet its spread in Germany (and many other countries) has been slow. This term paper reviews what types of systems exist and where they can be found (possibly using case studies). It also speculates on the potential distribution within this geographic region.
-
-## Global horticulture for SDGs
-
-
-**11. The contribution of horticulture to the Sustainable Development Goals with a specific focus on SDG 2**
-
-*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
-
-In this term paper you will look into the various contributions horticultural production, processing and consumption make towards achieving the SDGs. You will also take a critical look into possible detrimental developments.
-
-**12. The Sustainable Development Goals and German policy on agroforestry**
-
-*[Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/)*
-
-In this term paper you will look into the implications of SDG relevant German policy and how it relates to horticulture, in particular agroforestry production systems. 
-
 ## From Greenhouse Production to Plant Factories
 
 
-**13. Can plant factories safe the world?**
+**8. Can plant factories safe the world?**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 In this term paper you should evaluate which crops are already produced in plant factories (here used as a general term for all indoor farms, vertical farms, or controlled environment farms) and which crops are challenging. For crops already produced in plant factories compare yields and / or energy consumption to conventional farming systems. For crops not produced so far, discuss the challenging factors within a plant factory and how they could be solved.
 
-**14. For heaven`s sake use LED - the challenges in lighting**
+**9. For heaven`s sake use LED - the challenges in lighting**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 One main advantage of greenhouse production is control of environmental conditions. Lighting is not only responsible for plant growth and performance yielding in an horticultural produce. Lighting can also control the quality of produce, it could support plant growth depending on growth stage. So the challenge is, what is the optimal lighting? This term paper should focus on LED lighting. How could we control plant performance and quality by light?
 
-**15. It's all about energy - how photovoltaic can be used for greenhouses and plant factories**
+**10. It's all about energy - how photovoltaic can be used for greenhouses and plant factories**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
@@ -117,13 +74,13 @@ Greenhouse production and plant factories depend on energy for light and heating
 ## From Urban Horticulture to Social Gardening
 
 
-**16. Back to the roots...**
+**11. Back to the roots...**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 It seems that horticulture is coming back to the roots, closer to the consumer, and often back into the cities. New forms of horticultural production have been and will be developed in an urban context (e.g community gardens, rooftop greenhouses and more). In this term paper these developments will be reviewed on basis of literature. How will horticultural production in cities look like in the future? What trends can be seen right now and what is the role of horticultural sciences and practice here? (This topic is somewhat related to Vertical farming topic "... up to the skies").
 
-**17. Urban horticulture and the society**
+**12. Urban horticulture and the society**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
@@ -132,13 +89,13 @@ In this term paper the meaning of urban horticulture for society should be discu
 ## New plants for a future-competent horticultural production
 
 
-**18. New Crop case study**
+**13. New Crop case study**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 Which crop could be cultivated in German, which is traditionally not grown here. Re-think horticultural production and imagine what crops could be cultivated here in future. Consider that the production system is constantly improved, new technologies will emerge. Try to find a case where a business case could be possible. Or explore a new crop and which factors have to be considered.
 
-**19. Future-competent production systems**
+**14. Future-competent production systems**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
@@ -147,17 +104,53 @@ Think beyond classical production in the field or greenhouse, think ahead of ver
 ## Safeguarding Plant Health in Horticulture
 
 
-**20. How to protect plants in future?**
+**15. How to protect plants in future?**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 Climate change will cause dramatic changes in horticulture. Horticultural production will move more and more to protected cultivation (e.g. tunnels, greenhouses). With that change in production new challenges in diesease management will arise. How we could protect our plants in future against climate change, weather extremes (e.g. drought) and new threats caused by insects or pathogens? In this term paper it should be analysed how climate change forced developments in horticulture (protected cultivation) and how this will affect disease management.
 
-**21. Biostimulants and Biorationals as new and emerging tools in plant health**
+**16. Biostimulants and Biorationals as new and emerging tools in plant health**
 
 *[Thorsten Kraska](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/thorsten-kraska)*
 
 Biostimulants and biorationals are "new" ways to strengthen plants to improve growth and tolerance against environmental stress (biostimulants) or to protect plants in an environmental friendly way against pest and diseases to replace synthetic chemicals. In this term paper the different approaches will be discussed. What are the differences between biostimulants and biorationals? How could they be used effectively to strengthen plant health? A critical review of literature based on examples like humic acid (as biostimulant) or drying linseed oil (as biorational).
+
+## Agroforestry
+
+
+**17. The challenges of agroforestry modeling**
+
+*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
+
+Modeling agroforestry systems are more complex than monocultures, so they have presented considerable challenges to the modeling community. This term paper outlines these challenges and reviews how they have been addressed in previous modeling attempts.
+
+**18. Barriers to agroforestry adoption in Germany (or elsewhere)**
+
+*[Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/)*
+
+Many experts agree that agroforestry systems can offer environmental, economic and social benefits to farmers. Yet adoption rates often remain low due to an array of barriers that keep farmers from integrating trees with other agricultural practices. This term paper reviews these barriers and proposed ideas for overcoming them.
+
+**19. Agroforestry in Germany (or elsewhere) - present distribution expansion potential**
+
+*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
+
+Agroforestry has gained traction in many places, yet its spread in Germany (and many other countries) has been slow. This term paper reviews what types of systems exist and where they can be found (possibly using case studies). It also speculates on the potential distribution within this geographic region.
+
+## Global horticulture for SDGs
+
+
+**20. The contribution of horticulture to the Sustainable Development Goals with a specific focus on SDG 2**
+
+*[Cory Whitney](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney)*
+
+In this term paper you will look into the various contributions horticultural production, processing and consumption make towards achieving the SDGs. You will also take a critical look into possible detrimental developments.
+
+**21. The Sustainable Development Goals and German policy on agroforestry**
+
+*[Prajna Kasargodu Anebagilu](https://www.gartenbauwissenschaft.uni-bonn.de/author/dr.-prajna-kasargodu-anebagilu/)*
+
+In this term paper you will look into the implications of SDG relevant German policy and how it relates to horticulture, in particular agroforestry production systems. 
 
 ## Climate change and horticulture
 
@@ -192,4 +185,14 @@ The optional literature discusses "climate change denial strategies" that oppone
 **26. Climate change impacts and gendered, intersectional vulnerabilities in horticulture**
 
 *[Tina Beuchelt](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/members-directory/tina-beuchelt)*
+
+## Berries
+
+
+**27. Flower drop and poor fruit set in grapes and currants: Causes, consequences, and control strategies**
+
+*[Anton Milyaev](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/anton-milyaev)*
+
+In commercial grape and currant production, large-scale failure of flowers to develop into berries (commonly referred to as “coulure” or “shatter”) represents a major challenge that can markedly reduce yields. In this paper you will explore the physiological basis of flower drop and poor fruit set in these crops, with particular attention to the processes of flower abscission. The discussion will highlight the influence of carbohydrate availability, hormonal regulation, and pollination success as key determinants of fruit set. In addition, the paper will review management strategies designed to mitigate yield losses, providing insights into both vineyard and currant orchard practices.
+
 

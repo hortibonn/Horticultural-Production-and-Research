@@ -1,8 +1,5 @@
-# List all .Rmd files in the current directory
-files <- list.files(pattern = "\\.Rmd$")
-
-# subset for all relevant chapters
-files <- files[c(1:13)]
+# List all .Rmd files in the current render 
+files <- yaml::read_yaml("_bookdown.yml")$rmd_files
 
 # Initialize a vector to store the extracted sections, starting with "# Term paper topics"
 term_paper_sections <- c("# Term paper topics", "")

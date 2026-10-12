@@ -94,7 +94,6 @@ You're also expected to come to class prepared and participate actively in the i
 In each of the 15 weeks of the semester, we'll cover one topic. After week 1, we'll have our interactive session every Wednesday (08:30-10:00). On Thursdays, we'll split into smaller groups to discuss the papers you'll have read. We're estimating that this will take us about an hour. The remainder of the time can be (and should be) spent working on and talking about the term papers. We may have some more inputs on academic writing, but this is mainly your chance to get our advice - make sure to use this opportunity!
 
 Here's a tentative schedule for this module (some details may still change):
-
 <!-- old schedule -->
 <!-- - Week 01: [Introduction to horticulture] -->
 <!-- - Week 02: [Temperate fruits] -->
@@ -111,7 +110,7 @@ Here's a tentative schedule for this module (some details may still change):
 <!-- - Week 13: [Gender in Horticulture] -->
 <!-- - Week 14: Student presentations -->
 <!-- - Week 15: Student presentations -->
-
+<!-- - -->
 <!-- 2024 Schedule -->
 <!-- - Week 01: [Introduction to horticulture] -->
 <!-- - Week 02: [Temperate fruits] -->
@@ -128,26 +127,47 @@ Here's a tentative schedule for this module (some details may still change):
 <!-- - Week 13: [Assessing Environmental Impacts] -->
 <!-- - Week 14: Student presentations -->
 <!-- - Week 15: Student presentations -->
+<!-- - -->
+<!-- 2025 Schedule -->
+<!-- - Week 01: [Introduction to horticulture] -->
+<!-- - Week 02: [Temperate fruits] -->
+<!-- - Week 03: [Berries] -->
+<!-- - Week 04: [From Greenhouse Production to Plant Factories] -->
+<!-- - Week 05: [From Urban Horticulture to Social Gardening] -->
+<!-- - Week 06: [Fruit Production in the Southern Hemisphere] -->
+<!-- - Week 07: [Agroforestry] -->
+<!-- - Week 08: Dies Academicus and [Scientific writing] -->
+<!-- - Week 09: [Global horticulture for SDGs] -->
+<!-- - Week 10: [Safeguarding Plant Health in Horticulture] -->
+<!-- - 19th December, 2025: Submission of first draft of your term paper -->
+<!-- - Week 11: [New plants for a future-competent horticultural production] -->
+<!-- - 13th January, 2026: Feedback by supervisors on your first draft -->
+<!-- - Week 12: [Gender in Horticulture] -->
+<!-- <!-- - Week 13: [Climate Change and Horticulture] -->
+<!-- - Week 13: [Assessing Environmental Impacts] -->
+<!-- - Week 14: Term paper Consultation -->
+<!-- - Week 15: Student presentations -->
+<!-- - 5th March, 2026 at 17:00 CET: Deadline for term paper submission -->
 
 - Week 01: [Introduction to horticulture]
-- Week 02: [Temperate fruits]
-- Week 03: [Berries]
+- Week 02: [Assessing Environmental Impacts]
+- Week 03: [Temperate fruits]
 - Week 04: [From Greenhouse Production to Plant Factories]
 - Week 05: [From Urban Horticulture to Social Gardening]
-- Week 06: [Fruit Production in the Southern Hemisphere]
-- Week 07: [Agroforestry]
-- Week 08: Dies Academicus and [Scientific writing]
-- Week 09: [Global horticulture for SDGs]
-- Week 10: [Safeguarding Plant Health in Horticulture]
-- 19th December, 2025: Submission of first draft of your term paper
-- Week 11: [New plants for a future-competent horticultural production]
-- 13th January, 2026: Feedback by supervisors on your first draft
+- Week 06: [New plants for a future-competent horticultural production]
+- Week 07: [Scientific writing]
+- Week 08: [Safeguarding Plant Health in Horticulture]
+- Week 09: [Agroforestry]
+- Week 10: [Global horticulture for SDGs]
+- Week 11: [Climate Change and Horticulture]
 - Week 12: [Gender in Horticulture]
-<!-- - Week 13: [Climate Change and Horticulture] -->
-- Week 13: [Assessing Environmental Impacts]
-- Week 14: Term paper Consultation
-- Week 15: Student presentations
+- Week 13: [Berries]
+- Week 14: Student presentations
 - 5th March, 2026 at 17:00 CET: Deadline for term paper submission
+<!-- - 13th January, 2026: Feedback by supervisors on your first draft -->
+<!-- - 19th December, 2025: Submission of first draft of your term paper -->
+<!-- - Week 11: [Fruit Production in the Southern Hemisphere] -->
+<!-- - Week 14: Term paper Consultation -->
 
 The contents and instructions will be added to this website in the course of the semester.
 
