@@ -3,7 +3,7 @@
 
 ## Materials
 
-To prepare for class, please watch the following four videos: (You need the module password from [eCampus](https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&ref_id=3924667) to access these files.)
+To prepare for class, please watch the following four videos: (You need the module password from eCampus to access these files.)
 
 * [General concepts](https://uni-bonn.sciebo.de/s/yKN9dy7xNkmXQTg)
 * [Nuts](https://uni-bonn.sciebo.de/s/hh7O7y95krrVFLg)
